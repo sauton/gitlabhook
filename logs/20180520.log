@@ -1,0 +1,46 @@
+Updating 9c6bcc1..78e07a1
+Fast-forward
+ .../teams/shortcodes/team-block/config.php         |   4 -
+ .../shortcodes/team-block/options/layout-2.php     |  16 --
+ .../shortcodes/team-block/options/layout-4.php     |  15 --
+ .../shortcodes/team-block/static/js/team-block.js  | 278 ++++++++++-----------
+ .../teams/shortcodes/team-block/views/layout-1.php | 118 +++++----
+ .../teams/shortcodes/team-block/views/layout-2.php |  98 --------
+ .../teams/shortcodes/team-block/views/layout-3.php | 173 +++++++------
+ .../teams/shortcodes/team-block/views/layout-4.php | 115 ---------
+ .../teams/shortcodes/team-block/views/view.php     |   8 +-
+ 9 files changed, 308 insertions(+), 517 deletions(-)
+ delete mode 100644 code/framework-customizations/extensions/teams/shortcodes/team-block/options/layout-2.php
+ delete mode 100644 code/framework-customizations/extensions/teams/shortcodes/team-block/options/layout-4.php
+ delete mode 100644 code/framework-customizations/extensions/teams/shortcodes/team-block/views/layout-2.php
+ delete mode 100644 code/framework-customizations/extensions/teams/shortcodes/team-block/views/layout-4.php delete mode 100644 code/framework-customizations/extensions/teams/shortcodes/team-block/views/layout-4.php
+Updating 78e07a1..c24a3c8
+Fast-forward
+ .../shortcodes/team-block/static/js/team-block.js  | 210 +--------------------
+ .../teams/shortcodes/team-carousel/config.php      |   2 -
+ .../shortcodes/team-carousel/options/layout-3.php  |   1 -
+ .../team-carousel/static/js/team-carousel.js       | 203 +++-----------------
+ .../shortcodes/team-carousel/views/layout-4.php    | 194 +++++++++++--------
+ .../shortcodes/team-carousel/views/layout-5.php    |  69 +++++--
+ .../teams/shortcodes/team-carousel/views/view.php  |   8 +-
+ 7 files changed, 197 insertions(+), 490 deletions(-)
+ delete mode 100644 code/framework-customizations/extensions/teams/shortcodes/team-carousel/options/layout-3.php delete mode 100644 code/framework-customizations/extensions/teams/shortcodes/team-carousel/options/layout-3.php
+Updating c24a3c8..6cdd3d8
+Fast-forward
+ .../icons-block/static/css/_icon-block.scss        | 23 ++++++++++++++++++++++
+ .../team-carousel/static/js/team-carousel.js       |  3 ++-
+ 2 files changed, 25 insertions(+), 1 deletion(-) 2 files changed, 25 insertions(+), 1 deletion(-)
+Updating 6cdd3d8..3a07735
+Fast-forward
+ code/static/css/cryptoio-components.css | 19 +++++++++++++++++++
+ 1 file changed, 19 insertions(+) 1 file changed, 19 insertions(+)
+Updating 3a07735..a8c7002
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/static/css/_icon-block.scss     | 3 +++
+ code/static/css/cryptoio-components.css                               | 4 ++++
+ 2 files changed, 7 insertions(+) 2 files changed, 7 insertions(+)
+Updating a8c7002..6e6fa99
+Fast-forward
+ .../shortcodes/icons-block/static/css/_icon-block.scss         | 10 +++++++---
+ code/static/css/cryptoio-components.css                        |  8 ++++----
+ 2 files changed, 11 insertions(+), 7 deletions(-) 2 files changed, 11 insertions(+), 7 deletions(-)

@@ -1,0 +1,363 @@
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/catcourse
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/catcourse
+Updating ae255de..3587b25
+Fast-forward
+ .../class-slz-widget-category-course.php           | 81 ++++++++++++++++++++++
+ .../widgets/widgets/category-course/config.php     | 19 +++++
+ .../widgets/widgets/category-course/static.php     |  3 +
+ .../widgets/category-course/views/admin.php        | 55 +++++++++++++++
+ .../widgets/category-course/views/front.php        | 79 +++++++++++++++++++++
+ 5 files changed, 237 insertions(+)
+ create mode 100644 code/theme/framework-customizations/extensions/widgets/widgets/category-course/class-slz-widget-category-course.php
+ create mode 100644 code/theme/framework-customizations/extensions/widgets/widgets/category-course/config.php
+ create mode 100644 code/theme/framework-customizations/extensions/widgets/widgets/category-course/static.php
+ create mode 100644 code/theme/framework-customizations/extensions/widgets/widgets/category-course/views/admin.php
+ create mode 100644 code/theme/framework-customizations/extensions/widgets/widgets/category-course/views/front.php create mode 100644 code/theme/framework-customizations/extensions/widgets/widgets/category-course/views/front.php
+Fail to update develop of education
+Updating 74a3cb0..31b2db8
+Fast-forward
+ includes/classes/front/views/coursedetail/view.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Updating 31b2db8..43ea382
+Fast-forward
+ includes/classes/front/views/coursedetail/view.php | 5 +----
+ 1 file changed, 1 insertion(+), 4 deletions(-) 1 file changed, 1 insertion(+), 4 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Updating 43ea382..f826750
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 4 ++++
+ 1 file changed, 4 insertions(+) 1 file changed, 4 insertions(+)
+Updating f826750..2dfa2a3
+Fast-forward
+ assets/scripts/lema-membership-pro.js | 10 ++++++++++
+ 1 file changed, 10 insertions(+) 1 file changed, 10 insertions(+)
+Updating 2dfa2a3..cae789a
+Fast-forward
+ includes/classes/shortcodes/MembershipPro/views/button.php | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-) 1 file changed, 3 insertions(+), 2 deletions(-)
+Updating cae789a..e7a8e1c
+Fast-forward
+ includes/classes/front/views/coursedetail/view.php | 50 +++++++++++-----------
+ 1 file changed, 24 insertions(+), 26 deletions(-) 1 file changed, 24 insertions(+), 26 deletions(-)
+Updating e7a8e1c..4739846
+Fast-forward
+ includes/classes/Hooks.php                         | 2 +-
+ includes/classes/front/views/coursedetail/view.php | 3 ++-
+ 2 files changed, 3 insertions(+), 2 deletions(-) 2 files changed, 3 insertions(+), 2 deletions(-)
+Updating 4739846..3d7ece4
+Fast-forward
+ includes/classes/Hooks.php                         |   2 +-
+ includes/classes/components/Helper.php             |   3 +
+ includes/classes/front/views/coursedetail/view.php |  11 +-
+ .../shortcodes/courseinstructor/view/view.php      | 177 +++++++++++----------
+ 4 files changed, 99 insertions(+), 94 deletions(-) 4 files changed, 99 insertions(+), 94 deletions(-)
+Updating 3d7ece4..0bb74f8
+Fast-forward
+ includes/classes/Hooks.php                           |  2 +-
+ includes/classes/front/views/coursecategory/view.php |  4 +++-
+ includes/classes/front/views/coursedetail/view.php   | 14 ++++++--------
+ 3 files changed, 10 insertions(+), 10 deletions(-) 3 files changed, 10 insertions(+), 10 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 0bb74f8..cc74eae
+Fast-forward
+ assets/scripts/lema-membership-pro.js              |  10 --
+ assets/styles/lema-cat-course-sw.css               |  62 +++++---
+ includes/classes/Hooks.php                         |   2 +-
+ includes/classes/components/Helper.php             |   3 -
+ .../classes/front/views/coursecategory/view.php    |  48 +++---
+ includes/classes/front/views/coursedetail/view.php |  56 ++++---
+ .../shortcodes/MembershipPro/views/button.php      |   5 +-
+ .../shortcodes/courseinstructor/view/view.php      | 177 ++++++++++-----------
+ 8 files changed, 186 insertions(+), 177 deletions(-) 8 files changed, 186 insertions(+), 177 deletions(-)
+Fail to update develop of lema-software
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Updating 3587b25..8283f0c
+Fast-forward
+ .../testimonial/static/css/testimonial.css         |  6 ++
+ .../testimonial/static/css/testimonial.scss        |  3 +
+ code/theme/static/css/lema-custom.css              | 95 ++++++++++++++++++++-
+ code/theme/static/css/lema-custom.scss             | 98 +++++++++++++++++++++-
+ 4 files changed, 198 insertions(+), 4 deletions(-) 4 files changed, 198 insertions(+), 4 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating cc74eae..a774958
+Fast-forward
+ assets/scripts/lema-membership-pro.js              |  10 ++
+ includes/classes/Hooks.php                         |   2 +-
+ includes/classes/components/Helper.php             |   3 +
+ .../classes/front/views/coursecategory/view.php    |   7 +-
+ includes/classes/front/views/coursedetail/view.php |  56 +++----
+ .../shortcodes/MembershipPro/views/button.php      |   5 +-
+ .../shortcodes/courseinstructor/view/view.php      | 177 +++++++++++----------
+ 7 files changed, 138 insertions(+), 122 deletions(-) 7 files changed, 138 insertions(+), 122 deletions(-)
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Updating f0e63d0..11d5fb1
+Fast-forward
+ front/controllers/LearningController.php | 8 +++-----
+ 1 file changed, 3 insertions(+), 5 deletions(-) 1 file changed, 3 insertions(+), 5 deletions(-)
+Not expected branch : refs/heads/thangpd/helper
+Already up-to-date.Already up-to-date.
+Updating 11d5fb1..0c4925f
+Fast-forward
+ admin/controllers/SettingController.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/thangpd/coursefix
+Already up-to-date.Already up-to-date.
+Updating a774958..b9da8df
+Fast-forward
+ includes/classes/shortcodes/FeatureBlock/views/main.php | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/tai_old
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Updating 8283f0c..aad3be9
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 33 +++++++++++++++++++++++++--------
+ code/theme/static/css/lema-custom.scss | 23 +++++++++++++++++------
+ 2 files changed, 42 insertions(+), 14 deletions(-) 2 files changed, 42 insertions(+), 14 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating aad3be9..0da8d08
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 2 +-
+ code/theme/static/css/lema-custom.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating b9da8df..c0289eb
+Fast-forward
+ assets/styles/lema-feature.css                     | 82 ++++++++++++++++++++++
+ assets/styles/membershippro.css                    |  5 +-
+ .../FeatureBlock/FeatureBlockShortcode.php         |  5 ++
+ .../shortcodes/FeatureBlock/views/blocklayout1.php |  4 +-
+ .../shortcodes/FeatureBlock/views/blocklayout2.php |  4 +-
+ 5 files changed, 95 insertions(+), 5 deletions(-)
+ create mode 100644 assets/styles/lema-feature.css create mode 100644 assets/styles/lema-feature.css
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/thangpd/catcourse
+Not expected branch : 
+Updating 0da8d08..815451a
+Fast-forward
+ .../theme/options/template-settings.php                     | 13 ++++++++++++-
+ 1 file changed, 12 insertions(+), 1 deletion(-) 1 file changed, 12 insertions(+), 1 deletion(-)
+Not expected branch : refs/heads/thangpd/catcourse
+Already up-to-date.Already up-to-date.
+Updating 0c4925f..6be2f78
+Fast-forward
+ front/assets/js/lms.js | 43 +++++++++++++++++++++++++++++++++----------
+ 1 file changed, 33 insertions(+), 10 deletions(-) 1 file changed, 33 insertions(+), 10 deletions(-)
+Updating c0289eb..350a6a7
+Fast-forward
+ includes/classes/Hooks.php                         |  78 ++++-
+ .../front/controllers/CourseCategoryController.php | 320 ++++++++++++---------
+ .../views/coursecategory/{view.php => view1.php}   |  10 +-
+ .../classes/front/views/coursecategory/view2.php   | 143 +++++++++
+ includes/classes/front/views/coursedetail/view.php |  30 +-
+ 5 files changed, 431 insertions(+), 150 deletions(-)
+ rename includes/classes/front/views/coursecategory/{view.php => view1.php} (95%)
+ create mode 100644 includes/classes/front/views/coursecategory/view2.php create mode 100644 includes/classes/front/views/coursecategory/view2.php
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Updating 815451a..51a7bc9
+Fast-forward
+ .../framework-customizations/theme/custom-color.php |  2 +-
+ code/theme/static/css/layout.css                    | 16 ++++++++++++++++
+ code/theme/static/css/layout.scss                   | 21 +++++++++++++++++++++
+ 3 files changed, 38 insertions(+), 1 deletion(-) 3 files changed, 38 insertions(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 51a7bc9..572e9a3
+Fast-forward
+ .../extensions/teams/shortcodes/team-block/static/css/team-block.css    | 2 +-
+ .../extensions/teams/shortcodes/team-block/static/css/team-block.scss   | 2 +-
+ code/theme/static/css/layout.css                                        | 1 +
+ code/theme/static/css/layout.scss                                       | 1 +
+ 4 files changed, 4 insertions(+), 2 deletions(-) 4 files changed, 4 insertions(+), 2 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 572e9a3..a4bd553
+Fast-forward
+ code/theme/static/css/layout.css  | 6 ++++++
+ code/theme/static/css/layout.scss | 3 +++
+ 2 files changed, 9 insertions(+) 2 files changed, 9 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating a4bd553..f2d5245
+Fast-forward
+ .../extensions/teams/shortcodes/team-block/static/css/team-block.css  | 4 ----
+ .../extensions/teams/shortcodes/team-block/static/css/team-block.scss | 4 ----
+ 2 files changed, 8 deletions(-) 2 files changed, 8 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Updating 350a6a7..1e9e9c3
+Fast-forward
+ .../front/controllers/CourseCategoryController.php |   5 -
+ .../classes/front/views/coursecategory/view1.php   | 231 ++++----
+ includes/classes/front/views/coursedetail/view.php | 592 +++++++++++----------
+ 3 files changed, 431 insertions(+), 397 deletions(-) 3 files changed, 431 insertions(+), 397 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating f2d5245..d25e476
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 8 ++++++++
+ code/theme/static/css/lema-custom.scss | 8 ++++++++
+ 2 files changed, 16 insertions(+) 2 files changed, 16 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 1e9e9c3..b1a3491
+Fast-forward
+ assets/styles/lema-feature.css | 9 +++------
+ assets/styles/lema-sof.css     | 4 ++++
+ 2 files changed, 7 insertions(+), 6 deletions(-) 2 files changed, 7 insertions(+), 6 deletions(-)
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating b1a3491..c817237
+Fast-forward
+ assets/styles/lema-sof.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Fail to update develop of lema-software
+Updating c817237..3aebf08
+Fast-forward
+ .../FeatureBlock/FeatureBlockShortcode.php         | 82 ++++++++++++----------
+ .../shortcodes/FeatureBlock/views/blocklayout1.php | 12 +++-
+ .../shortcodes/FeatureBlock/views/blocklayout2.php | 12 +++-
+ 3 files changed, 62 insertions(+), 44 deletions(-) 3 files changed, 62 insertions(+), 44 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/thangpd/catcourse
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/catcourse
+Fail to update develop of education
+Updating d25e476..088f3fe
+Fast-forward
+ .../extensions/lema/shortcodes/slz-shortcode-lema-category-list.php    | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-) 1 file changed, 2 insertions(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Updating 3aebf08..3665631
+Fast-forward
+ assets/styles/lema-cat-course-sw.css               | 38 +++++++++++++-
+ assets/styles/lema-sof.css                         |  3 ++
+ .../classes/front/views/coursecategory/view1.php   | 59 +++++++++++-----------
+ 3 files changed, 70 insertions(+), 30 deletions(-) 3 files changed, 70 insertions(+), 30 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 3665631..65711f8
+Fast-forward
+ assets/styles/lema-sof.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Fail to update develop of lema-software
+Updating 65711f8..91caa75
+Fast-forward
+ assets/styles/lema-sof.css | 11 +++++++++++
+ 1 file changed, 11 insertions(+) 1 file changed, 11 insertions(+)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 91caa75..1eef3c9
+Fast-forward
+ assets/styles/lema-sof.css | 6 ++++++
+ 1 file changed, 6 insertions(+) 1 file changed, 6 insertions(+)
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Updating 1eef3c9..ff43598
+Fast-forward
+ assets/styles/lema-cat-course-sw.css               | 23 ++++++++++++++--
+ .../front/views/coursecategory/coursewrapper.php   |  5 ++++
+ .../classes/front/views/coursecategory/view1.php   | 21 +++++++++++++--
+ .../classes/front/views/coursecategory/view2.php   | 31 +++++++++++++++++++---
+ 4 files changed, 73 insertions(+), 7 deletions(-) 4 files changed, 73 insertions(+), 7 deletions(-)
+Updating ff43598..d704a98
+Fast-forward
+ includes/classes/front/controllers/CourseCategoryController.php | 5 +++--
+ includes/classes/front/views/coursedetail/view.php              | 8 +++++---
+ includes/classes/shortcodes/courseinstructor/view/view.php      | 4 ++--
+ 3 files changed, 10 insertions(+), 7 deletions(-) 3 files changed, 10 insertions(+), 7 deletions(-)
+Updating d704a98..aea28e0
+Fast-forward
+ includes/classes/front/views/coursedetail/view.php | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-) 1 file changed, 1 insertion(+), 2 deletions(-)
+Updating aea28e0..c5852fa
+Fast-forward
+ includes/classes/front/views/coursedetail/view.php | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating c5852fa..8ea83ce
+Fast-forward
+ assets/styles/lema-cat-course-sw.css               | 41 ++++++++++++++++++++--
+ .../classes/front/views/coursecategory/view1.php   | 14 ++++----
+ 2 files changed, 46 insertions(+), 9 deletions(-) 2 files changed, 46 insertions(+), 9 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Updating 8ea83ce..92d6d76
+Fast-forward
+ includes/classes/front/views/coursedetail/view.php | 7 ++++---
+ 1 file changed, 4 insertions(+), 3 deletions(-) 1 file changed, 4 insertions(+), 3 deletions(-)
+Updating 92d6d76..3ab29e2
+Fast-forward
+ includes/classes/front/views/coursedetail/view.php | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-) 1 file changed, 3 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 3ab29e2..c34151b
+Fast-forward
+ assets/styles/lema-sof.css | 1 +
+ 1 file changed, 1 insertion(+) 1 file changed, 1 insertion(+)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating c34151b..0b5a6a7
+Fast-forward
+ assets/styles/lema-sof.css | 3 +++
+ 1 file changed, 3 insertions(+) 1 file changed, 3 insertions(+)
+Fail to update develop of lema-software

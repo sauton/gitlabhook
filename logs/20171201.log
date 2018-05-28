@@ -1,0 +1,975 @@
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating 625daf1..3d41be8
+Fast-forward
+ .../shortcodes/shortcodes/main-title/static/css/main-title.css    | 5 +++++
+ .../shortcodes/shortcodes/main-title/static/css/main-title.scss   | 8 ++++++++
+ 2 files changed, 13 insertions(+) 2 files changed, 13 insertions(+)
+Not expected branch : refs/heads/tai_lm
+Not expected branch : refs/heads/html_tab
+Fail to update develop of lema-marketplace-instructor
+Updating 1269191..e4b4f96
+Fast-forward
+ includes/classes/LemaPlugin.php                    |   21 +-
+ .../classes/front/views/dashboard/_tab_insight.php |  133 ++
+ static/libs/datepicker/datepicker.common.js        | 1518 +++++++++++++++++++
+ static/libs/datepicker/datepicker.css              |  206 +++
+ static/libs/datepicker/datepicker.esm.js           | 1514 +++++++++++++++++++
+ static/libs/datepicker/datepicker.js               | 1522 ++++++++++++++++++++
+ static/libs/datepicker/datepicker.min.css          |    9 +
+ static/libs/datepicker/datepicker.min.js           |   10 +
+ static/libs/highcharts.js                          |  387 +++++
+ static/libs/highstock.js                           |  520 +++++++
+ static/scripts/lema-mkins.js                       |  235 +++
+ static/styles/lema-marketplace.css                 |  268 ++++
+ 12 files changed, 6342 insertions(+), 1 deletion(-)
+ create mode 100644 static/libs/datepicker/datepicker.common.js
+ create mode 100644 static/libs/datepicker/datepicker.css
+ create mode 100644 static/libs/datepicker/datepicker.esm.js
+ create mode 100644 static/libs/datepicker/datepicker.js
+ create mode 100644 static/libs/datepicker/datepicker.min.css
+ create mode 100644 static/libs/datepicker/datepicker.min.js
+ create mode 100644 static/libs/highcharts.js
+ create mode 100644 static/libs/highstock.js create mode 100644 static/libs/highstock.js
+Not expected branch : refs/heads/tai_lm
+Not expected branch : 
+Updating 3d41be8..b531293
+Fast-forward
+ code/theme/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Fail to update develop of education
+Updating e4b4f96..267eeef
+Fast-forward
+ includes/Bootstrap.php                             |  1 +
+ includes/classes/Hooks.php                         | 15 +---
+ includes/classes/components/Helper.php             | 37 +++++++++
+ .../front/controllers/DashboardController.php      | 91 +++++++++++++++++++++-
+ .../classes/front/views/dashboard/_tab_insight.php |  1 +
+ 5 files changed, 131 insertions(+), 14 deletions(-) 5 files changed, 131 insertions(+), 14 deletions(-)
+Not expected branch : refs/heads/tai_lm
+Not expected branch : 
+Updating b531293..595474e
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 136 ++++++++++++++++++---------------
+ code/theme/static/css/lema-custom.scss |  19 ++++-
+ 2 files changed, 91 insertions(+), 64 deletions(-) 2 files changed, 91 insertions(+), 64 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/tai_lm
+Not expected branch : 
+Not expected branch : refs/heads/tai_lm
+Updating 595474e..0ae5995
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 8 ++------
+ code/theme/static/css/lema-custom.scss | 7 ++-----
+ 2 files changed, 4 insertions(+), 11 deletions(-) 2 files changed, 4 insertions(+), 11 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/tai_lm
+Not expected branch : 
+Not expected branch : refs/heads/tailm_style
+Not expected branch : 
+Updating 267eeef..651b6a4
+Fast-forward
+ includes/classes/components/Helper.php             | 22 +++++++++++++
+ .../front/controllers/DashboardController.php      |  7 +++-
+ .../classes/front/views/dashboard/_tab_insight.php | 37 +++++++++++-----------
+ includes/classes/front/views/dashboard/index.php   |  3 --
+ static/scripts/lema-mkins.js                       | 10 +++---
+ 5 files changed, 52 insertions(+), 27 deletions(-) 5 files changed, 52 insertions(+), 27 deletions(-)
+Updating c8f5fe2..6258a55
+Fast-forward
+ core/components/Hook.php               |  2 ++
+ front/controllers/CourseController.php |  1 +
+ helpers/GeneralHelper.php              |  1 +
+ models/CourseModel.php                 | 16 ++++++++++++++++
+ 4 files changed, 20 insertions(+) 4 files changed, 20 insertions(+)
+Updating 6258a55..ac81117
+Fast-forward
+ front/controllers/CourseController.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+M	vendor/composer/LICENSE
+M	vendor/composer/autoload_namespaces.php
+M	vendor/composer/autoload_real.php
+Updating 6c64eb9..1944920
+Fast-forward
+ includes/classes/front/controllers/CourseDetailController.php | 1 +
+ 1 file changed, 1 insertion(+) 1 file changed, 1 insertion(+)
+Not expected branch : refs/heads/html_tab
+Not expected branch : refs/heads/html_tab
+Not expected branch : refs/heads/tai_lm
+Not expected branch : 
+Fail to update develop of education
+Updating 0ae5995..1f380de
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 25 +++++++++++++------------
+ code/theme/static/css/lema-custom.scss | 26 ++++++++++++++------------
+ 2 files changed, 27 insertions(+), 24 deletions(-) 2 files changed, 27 insertions(+), 24 deletions(-)
+Not expected branch : refs/heads/html_tab
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : 
+Fail to update develop of education
+Updating 1f380de..463afcf
+Fast-forward
+ .../contact-form/static/css/_contact-form.scss     |   5 +-
+ .../shortcodes/shortcodes/partner/config.php       |  15 +-
+ .../shortcodes/partner/static/css/partner.css      | 211 +++++++++++++++++++--
+ .../shortcodes/partner/static/css/partner.scss     | 196 +++++++++++++++++--
+ .../shortcodes/partner/static/js/partner.js        |   4 +-
+ .../shortcodes/shortcodes/partner/vc_options.php   |  12 +-
+ code/theme/static/css/educhain-components.css      |   5 +-
+ 7 files changed, 398 insertions(+), 50 deletions(-) 7 files changed, 398 insertions(+), 50 deletions(-)
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Updating 463afcf..c7023f1
+Fast-forward
+ .../shortcodes/shortcodes/partner/static/css/partner.css       | 10 +++++-----
+ .../shortcodes/shortcodes/partner/static/css/partner.scss      |  2 +-
+ 2 files changed, 6 insertions(+), 6 deletions(-) 2 files changed, 6 insertions(+), 6 deletions(-)
+Fail to update develop of education
+Updating ac81117..1c653c1
+Fast-forward
+ core/components/Page.php               | 3 +++
+ front/controllers/CourseController.php | 1 -
+ models/CourseModel.php                 | 5 +++--
+ 3 files changed, 6 insertions(+), 3 deletions(-) 3 files changed, 6 insertions(+), 3 deletions(-)
+M	vendor/composer/LICENSE
+M	vendor/composer/autoload_namespaces.php
+M	vendor/composer/autoload_real.php
+Updating 1944920..0fb4797
+Fast-forward
+ includes/classes/front/controllers/CourseDetailController.php | 1 -
+ 1 file changed, 1 deletion(-) 1 file changed, 1 deletion(-)
+Not expected branch : refs/heads/html_tab
+Updating 651b6a4..7088301
+Fast-forward
+ includes/classes/LemaPlugin.php                    |    9 +-
+ .../classes/front/views/dashboard/_tab_insight.php |    4 +-
+ static/libs/datepicker/datepicker.common.js        | 1518 -------
+ static/libs/datepicker/datepicker.css              |  206 -
+ static/libs/datepicker/datepicker.esm.js           | 1514 -------
+ static/libs/datepicker/datepicker.js               | 1522 -------
+ static/libs/datepicker/datepicker.min.css          |    9 -
+ static/libs/datepicker/datepicker.min.js           |   10 -
+ .../libs/daterangepicker/daterangepicker.min.css   |    1 +
+ .../daterangepicker/jquery.daterangepicker.min.js  |    7 +
+ static/libs/moment.js                              | 4515 ++++++++++++++++++++
+ static/scripts/lema-mkins.js                       |  263 +-
+ static/styles/lema-marketplace.css                 |   39 +
+ 13 files changed, 4718 insertions(+), 4899 deletions(-)
+ delete mode 100644 static/libs/datepicker/datepicker.common.js
+ delete mode 100644 static/libs/datepicker/datepicker.css
+ delete mode 100644 static/libs/datepicker/datepicker.esm.js
+ delete mode 100644 static/libs/datepicker/datepicker.js
+ delete mode 100644 static/libs/datepicker/datepicker.min.css
+ delete mode 100644 static/libs/datepicker/datepicker.min.js
+ create mode 100644 static/libs/daterangepicker/daterangepicker.min.css
+ create mode 100755 static/libs/daterangepicker/jquery.daterangepicker.min.js
+ create mode 100644 static/libs/moment.js create mode 100644 static/libs/moment.js
+Fail to update develop of lema-marketplace-instructor
+M	vendor/composer/LICENSE
+M	vendor/composer/autoload_namespaces.php
+M	vendor/composer/autoload_real.php
+Updating 0fb4797..db6033d
+Fast-forward
+ assets/styles/sc-searchbox-uni-style.css | 99 ++++++++++++++++++++++++++++++++
+ 1 file changed, 99 insertions(+) 1 file changed, 99 insertions(+)
+Not expected branch : refs/heads/tailm_style
+Fail to update develop of lema-university
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Updating 1c653c1..e7418bc
+Fast-forward
+ front/controllers/OrderController.php | 2 ++
+ 1 file changed, 2 insertions(+) 1 file changed, 2 insertions(+)
+Not expected branch : refs/heads/luctc
+M	vendor/composer/LICENSE
+M	vendor/composer/autoload_namespaces.php
+M	vendor/composer/autoload_real.php
+Updating db6033d..1f2c1d0
+Fast-forward
+ assets/styles/lema-cat-course-uni.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Fail to update develop of lema-university
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating c7023f1..3ef383e
+Fast-forward
+ .../posts-block/static/css/_posts-block.scss       |   2 +-
+ code/theme/static/css/educhain-components.css      | 210 ++++++++++-----------
+ code/theme/style.css                               |   5 +
+ 3 files changed, 111 insertions(+), 106 deletions(-) 3 files changed, 111 insertions(+), 106 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/tailm_style
+Not expected branch : 
+Not expected branch : refs/heads/tailm_style
+Not expected branch : 
+Not expected branch : refs/heads/tai_lm
+Not expected branch : 
+Not expected branch : refs/heads/tailm_style
+Not expected branch : 
+Not expected branch : refs/heads/tailm_style
+Not expected branch : 
+Not expected branch : refs/heads/tai_lm
+Not expected branch : 
+Updating 3ef383e..85dddd1
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 96 +---------------------------------
+ code/theme/static/css/lema-custom.scss | 84 +----------------------------
+ 2 files changed, 2 insertions(+), 178 deletions(-) 2 files changed, 2 insertions(+), 178 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/tailm_style
+M	vendor/composer/LICENSE
+M	vendor/composer/autoload_namespaces.php
+M	vendor/composer/autoload_real.php
+Updating 1f2c1d0..306a2a9
+Fast-forward
+ assets/styles/sc-searchbox-uni-style.css | 38 +++++++++++++++++---------------
+ 1 file changed, 20 insertions(+), 18 deletions(-) 1 file changed, 20 insertions(+), 18 deletions(-)
+Fail to update develop of lema-university
+Not expected branch : refs/heads/tai_lm
+Not expected branch : 
+Updating 7088301..07991fa
+Fast-forward
+ includes/classes/Hooks.php               | 32 ++++++++++++++++++++++++++++++++
+ includes/classes/components/Helper.php   |  2 +-
+ includes/classes/models/AccountModel.php | 16 +++++++++++++---
+ 3 files changed, 46 insertions(+), 4 deletions(-) 3 files changed, 46 insertions(+), 4 deletions(-)
+Not expected branch : refs/heads/tailm_style
+Not expected branch : 
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating 85dddd1..bef5664
+Fast-forward
+ .../shortcodes/faq-block/static/css/faq-block.css  |   4 +-
+ .../static/css/gallery-carousel.css                |  12 +--
+ .../gallery-masonry/static/css/gallery-masonry.css |   4 +-
+ .../shortcodes/isotope/static/css/isotope.css      |   4 +-
+ .../shortcodes/instagram/static/css/instagram.css  |   4 +-
+ .../static/css/course-collection.css               |   4 +-
+ .../instructor/static/css/instructor.css           |   4 +-
+ .../shortcodes/new-tweet/static/css/new-tweet.css  |   4 +-
+ .../service-block/static/css/service-block.css     |   4 +-
+ .../count-down/static/css/count-down.css           |   4 +-
+ .../shortcodes/counterv2/static/css/counterv2.css  |   4 +-
+ .../features-block/static/css/features-block.css   |  70 ++++++-------
+ .../shortcodes/item-list/static/css/item-list.css  |   4 +-
+ .../shortcodes/shortcodes/map/static/css/map.css   |   4 +-
+ .../static/css/material-download.css               |   4 +-
+ .../newsletter/static/css/newsletter.css           |   8 +-
+ .../shortcodes/partner/static/css/partner.css      |   8 +-
+ .../posts-carousel/static/css/posts-carousel.css   |   4 +-
+ .../posts-grid/static/css/posts-grid.css           |  56 +++++------
+ .../posts-mansory/static/css/posts-masonry.css     |   4 +-
+ .../pricing-box/static/css/pricing-box.css         |  28 +++---
+ .../shortcodes/process/static/css/process.css      |  42 ++++----
+ .../progress-bar/static/css/progress-bar.css       |   8 +-
+ .../shortcodes/timeline/static/css/timeline.css    |  12 +--
+ .../video-carousel/static/css/video-carousel.css   |   4 +-
+ .../team-block/static/css/team-block.css           |  66 ++++++-------
+ .../team-carousel/static/css/team-carousel.css     |  20 ++--
+ .../testimonial/static/css/testimonial.css         | 110 ++++++++++-----------
+ .../extensions/widgets/static/css/widgets.css      |  72 +++++++-------
+ code/theme/static/css/custom-editor.css            |  60 +++++------
+ code/theme/static/css/educhain-forum.css           |  58 +++++------
+ 31 files changed, 347 insertions(+), 347 deletions(-) 31 files changed, 347 insertions(+), 347 deletions(-)
+M	vendor/composer/LICENSE
+M	vendor/composer/autoload_namespaces.php
+M	vendor/composer/autoload_real.php
+Updating 306a2a9..4d30a2a
+Fast-forward
+ assets/styles/sc-searchbox-uni-style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Fail to update develop of lema-university
+Not expected branch : refs/heads/tailm_style
+Updating bef5664..4619c9e
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 2 +-
+ code/theme/static/css/lema-custom.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/tai_lm
+Fail to update develop of education
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating 4619c9e..5962e71
+Fast-forward
+ code/theme/static/css/layout.css  | 10 ++--------
+ code/theme/static/css/layout.scss |  8 ++------
+ 2 files changed, 4 insertions(+), 14 deletions(-) 2 files changed, 4 insertions(+), 14 deletions(-)
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating 5962e71..9ad401d
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 7 -------
+ 1 file changed, 7 deletions(-) 1 file changed, 7 deletions(-)
+Not expected branch : refs/heads/html_tab
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 9ad401d..89d93a6
+Fast-forward
+ .../shortcodes/shortcodes/posts-block/config.php   |   6 +-
+ .../shortcodes/posts-block/options/layout-3.php    |  10 +-
+ .../posts-block/static/css/_posts-block.scss       |  74 +++++-
+ .../shortcodes/posts-block/views/layout-3.php      |  10 +
+ .../shortcodes/posts-block/views/list-layout-7.php |  76 +++---
+ .../shortcodes/posts-block/views/list-layout-8.php |  57 ++++
+ .../shortcodes/posts-block/views/list-layout-9.php |  60 +++++
+ code/theme/includes/helpers.php                    |  37 ++-
+ code/theme/static/css/educhain-components.css      | 292 +++++++++++++--------
+ code/theme/static/css/lema-custom.css              | 116 ++++----
+ 10 files changed, 527 insertions(+), 211 deletions(-)
+ create mode 100644 code/theme/framework-customizations/extensions/shortcodes/shortcodes/posts-block/views/list-layout-8.php
+ create mode 100644 code/theme/framework-customizations/extensions/shortcodes/shortcodes/posts-block/views/list-layout-9.php create mode 100644 code/theme/framework-customizations/extensions/shortcodes/shortcodes/posts-block/views/list-layout-9.php
+Not expected branch : refs/heads/thangpd/SCstyle
+Not expected branch : refs/heads/thangpd/SCstyle
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/thangpd/SCstyle
+Not expected branch : 
+Not expected branch : 
+Fail to update develop of education
+Updating 89d93a6..28c8ade
+Fast-forward
+ .../shortcodes/faq-block/static/css/faq-block.css  |   4 +-
+ .../static/css/gallery-carousel.css                |  12 +--
+ .../gallery-masonry/static/css/gallery-masonry.css |   4 +-
+ .../shortcodes/isotope/static/css/isotope.css      |   4 +-
+ .../shortcodes/instagram/static/css/instagram.css  |   4 +-
+ .../static/css/course-collection.css               |   4 +-
+ .../instructor/static/css/instructor.css           |   4 +-
+ .../shortcodes/new-tweet/static/css/new-tweet.css  |   4 +-
+ .../service-block/static/css/service-block.css     |   4 +-
+ .../count-down/static/css/count-down.css           |   4 +-
+ .../shortcodes/counterv2/static/css/counterv2.css  |   4 +-
+ .../features-block/static/css/features-block.css   |  70 ++++++-------
+ .../shortcodes/item-list/static/css/item-list.css  |   4 +-
+ .../shortcodes/shortcodes/map/static/css/map.css   |   4 +-
+ .../static/css/material-download.css               |   4 +-
+ .../newsletter/static/css/newsletter.css           |   8 +-
+ .../shortcodes/partner/static/css/partner.css      |   8 +-
+ .../posts-carousel/static/css/posts-carousel.css   |   4 +-
+ .../posts-grid/static/css/posts-grid.css           |  56 +++++------
+ .../posts-mansory/static/css/posts-masonry.css     |   4 +-
+ .../pricing-box/static/css/pricing-box.css         |  28 +++---
+ .../shortcodes/process/static/css/process.css      |  42 ++++----
+ .../progress-bar/static/css/progress-bar.css       |   8 +-
+ .../shortcodes/timeline/static/css/timeline.css    |  12 +--
+ .../video-carousel/static/css/video-carousel.css   |   4 +-
+ .../team-block/static/css/team-block.css           |  66 ++++++-------
+ .../team-carousel/static/css/team-carousel.css     |  20 ++--
+ .../testimonial/static/css/testimonial.css         | 110 ++++++++++-----------
+ .../extensions/widgets/static/css/widgets.css      |  72 +++++++-------
+ code/theme/static/css/custom-editor.css            |  60 +++++------
+ code/theme/static/css/educhain-forum.css           |  58 +++++------
+ code/theme/static/css/responsive.css               |   7 ++
+ code/theme/static/css/responsive.scss              |   4 +
+ 33 files changed, 358 insertions(+), 347 deletions(-) 33 files changed, 358 insertions(+), 347 deletions(-)
+Not expected branch : refs/heads/thangpd/SCstyle
+Fail to update develop of education
+Updating 28c8ade..3188feb
+Fast-forward
+ .../extensions/gallery/shortcodes/gallery-carousel/config.php |  1 +
+ .../gallery/shortcodes/gallery-carousel/options/layout-1.php  | 11 +++++++++++
+ .../gallery/shortcodes/gallery-carousel/views/layout-1.php    |  5 +++++
+ 3 files changed, 17 insertions(+) 3 files changed, 17 insertions(+)
+Not expected branch : refs/heads/duytn/footer-course-category
+Not expected branch : 
+Updating 3188feb..4bb4f86
+Fast-forward
+ code/theme/includes/hooks.php | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-) 1 file changed, 7 insertions(+), 1 deletion(-)
+Not expected branch : refs/heads/duytn/footer-course-category
+Fail to update develop of education
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Updating 4bb4f86..0d0586b
+Fast-forward
+ .../extensions/shortcodes/shortcodes/social/static/css/social.css     | 2 +-
+ .../extensions/shortcodes/shortcodes/social/static/css/social.scss    | 4 ++--
+ 2 files changed, 3 insertions(+), 3 deletions(-) 2 files changed, 3 insertions(+), 3 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/thangpd/searchbox
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating 0d0586b..09923fb
+Fast-forward
+ .../shortcodes/faq-block/static/css/faq-block.css  |   4 +-
+ .../static/css/gallery-carousel.css                |  12 +-
+ .../gallery-masonry/static/css/gallery-masonry.css |   4 +-
+ .../shortcodes/isotope/static/css/isotope.css      |   4 +-
+ .../shortcodes/instagram/static/css/instagram.css  |   4 +-
+ .../static/css/course-collection.css               |   4 +-
+ .../instructor/static/css/instructor.css           |   4 +-
+ .../shortcodes/new-tweet/static/css/new-tweet.css  |   4 +-
+ .../service-block/static/css/service-block.css     |   4 +-
+ .../count-down/static/css/count-down.css           |   4 +-
+ .../shortcodes/counterv2/static/css/counterv2.css  |   4 +-
+ .../features-block/static/css/features-block.css   |  70 +++----
+ .../shortcodes/item-list/static/css/item-list.css  |   4 +-
+ .../shortcodes/shortcodes/map/static/css/map.css   |   4 +-
+ .../static/css/material-download.css               |   4 +-
+ .../newsletter/static/css/newsletter.css           |   8 +-
+ .../shortcodes/partner/static/css/partner.css      |   8 +-
+ .../posts-carousel/static/css/posts-carousel.css   |   4 +-
+ .../posts-grid/static/css/posts-grid.css           |  56 +++---
+ .../posts-mansory/static/css/posts-masonry.css     |   4 +-
+ .../pricing-box/static/css/pricing-box.css         |  28 +--
+ .../shortcodes/process/static/css/process.css      |  42 ++---
+ .../progress-bar/static/css/progress-bar.css       |   8 +-
+ .../shortcodes/social/static/css/social.css        |  16 +-
+ .../shortcodes/social/static/css/social.scss       |  80 ++++----
+ .../shortcodes/timeline/static/css/timeline.css    |  12 +-
+ .../video-carousel/static/css/video-carousel.css   |   4 +-
+ .../team-block/static/css/team-block.css           |  66 +++----
+ .../team-carousel/static/css/team-carousel.css     |  20 +-
+ .../testimonial/static/css/testimonial.css         | 110 +++++------
+ .../extensions/widgets/static/css/widgets.css      |  72 +++----
+ code/theme/static/css/custom-editor.css            |  60 +++---
+ code/theme/static/css/educhain-components.css      | 208 ++++++++++-----------
+ code/theme/static/css/educhain-forum.css           |  58 +++---
+ code/theme/static/css/lema-custom.css              | 116 ++++++------
+ 35 files changed, 556 insertions(+), 558 deletions(-) 35 files changed, 556 insertions(+), 558 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 09923fb..69783ba
+Fast-forward
+ .../shortcodes/posts-block/options/layout-3.php    |   6 +-
+ .../posts-block/static/css/_posts-block.scss       | 111 +++++++++++++++--
+ .../shortcodes/posts-block/views/layout-3.php      |   5 +
+ .../shortcodes/posts-block/views/list-layout-8.php |   4 +-
+ .../shortcodes/posts-block/views/list-layout-9.php |  25 ++--
+ .../theme/custom-color.php                         |   5 +-
+ code/theme/static/css/educhain-components.css      | 131 +++++++++++++++++----
+ 7 files changed, 240 insertions(+), 47 deletions(-) 7 files changed, 240 insertions(+), 47 deletions(-)
+M	vendor/composer/LICENSE
+M	vendor/composer/autoload_namespaces.php
+M	vendor/composer/autoload_real.php
+Updating 4d30a2a..68f5c10
+Fast-forward
+ .../classes/front/assets/css/uni-search-page-style.css  | 17 +++++++++++++++++
+ includes/classes/front/views/search/view.php            |  6 +++++-
+ 2 files changed, 22 insertions(+), 1 deletion(-) 2 files changed, 22 insertions(+), 1 deletion(-)
+Not expected branch : refs/heads/thangpd/searchbox
+Fail to update develop of lema-university
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Updating 69783ba..132f2af
+Fast-forward
+ .../shortcodes/shortcodes/posts-block/static/css/_posts-block.scss       | 1 +
+ code/theme/static/css/educhain-components.css                            | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating 132f2af..27b4a4c
+Fast-forward
+ .../shortcodes/social/static/css/social.css        | 22 +++++++++++++++++++++
+ .../shortcodes/social/static/css/social.scss       | 23 ++++++++++++++++++++++
+ .../theme/custom-color.php                         |  6 +++---
+ 3 files changed, 48 insertions(+), 3 deletions(-) 3 files changed, 48 insertions(+), 3 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/social
+Not expected branch : 
+Fail to update develop of solazu-core
+Not expected branch : refs/heads/thangpd/social
+Updating 53b646d..e4deb80
+Fast-forward
+ .../framework/extensions/shortcodes/shortcodes/social/views/view.php  | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/thangpd/searchbox
+Not expected branch : refs/heads/thangpd/searchbox
+Not expected branch : refs/heads/thangpd/searchbox
+Not expected branch : refs/heads/thangpd/searchbox
+Not expected branch : refs/heads/thangpd/searchbox
+Not expected branch : refs/heads/duytn/fix-ajax
+Not expected branch : 
+Not expected branch : refs/heads/duytn/fix-ajax
+M	vendor/composer/LICENSE
+M	vendor/composer/autoload_namespaces.php
+M	vendor/composer/autoload_real.php
+Updating 68f5c10..dbc0eaf
+Fast-forward
+ .../front/controllers/CourseCategoryController.php | 152 ++++++++++++++++-----
+ .../front/views/coursecategory/courses-wrapper.php |  96 ++++++-------
+ .../front/views/coursecategory/filter-bar.php      |  11 +-
+ 3 files changed, 167 insertions(+), 92 deletions(-) 3 files changed, 167 insertions(+), 92 deletions(-)
+Fail to update develop of lema-university
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Updating 27b4a4c..0824b70
+Fast-forward
+ .../extensions/shortcodes/shortcodes/social/static.php                  | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating 0824b70..03b3ec1
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-) 1 file changed, 2 insertions(+), 1 deletion(-)
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Updating 03b3ec1..c66a74c
+Fast-forward
+ .../shortcodes/social/static/css/social.css         | 21 ---------------------
+ .../shortcodes/social/static/css/social.scss        | 19 +------------------
+ 2 files changed, 1 insertion(+), 39 deletions(-) 2 files changed, 1 insertion(+), 39 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/tai_lm
+Not expected branch : 
+Fail to update develop of education
+Updating c66a74c..e740a99
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 25 +++++++++++++++++++++++++
+ code/theme/static/css/lema-custom.scss | 27 +++++++++++++++++++++++++++
+ code/theme/style.css                   |  7 +++++++
+ 3 files changed, 59 insertions(+) 3 files changed, 59 insertions(+)
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating e740a99..43e9a3c
+Fast-forward
+ .../shortcodes/faq-block/static/css/faq-block.css  |   4 +-
+ .../static/css/gallery-carousel.css                |  12 +-
+ .../gallery-masonry/static/css/gallery-masonry.css |   4 +-
+ .../shortcodes/isotope/static/css/isotope.css      |   4 +-
+ .../shortcodes/instagram/static/css/instagram.css  |   4 +-
+ .../static/css/course-collection.css               |   4 +-
+ .../instructor/static/css/instructor.css           |   4 +-
+ .../shortcodes/new-tweet/static/css/new-tweet.css  |   4 +-
+ .../service-block/static/css/service-block.css     |   4 +-
+ .../count-down/static/css/count-down.css           |   4 +-
+ .../shortcodes/counterv2/static/css/counterv2.css  |   4 +-
+ .../features-block/static/css/features-block.css   |  70 +++----
+ .../image-carousel/static/css/_image-carousel.scss |   4 +
+ .../shortcodes/item-list/static/css/item-list.css  |   4 +-
+ .../shortcodes/shortcodes/map/static/css/map.css   |   4 +-
+ .../static/css/material-download.css               |   4 +-
+ .../newsletter/static/css/newsletter.css           |   8 +-
+ .../shortcodes/partner/static/css/partner.css      |   8 +-
+ .../posts-carousel/static/css/posts-carousel.css   |   4 +-
+ .../posts-grid/static/css/posts-grid.css           |  56 +++---
+ .../posts-mansory/static/css/posts-masonry.css     |   4 +-
+ .../pricing-box/static/css/pricing-box.css         |  28 +--
+ .../shortcodes/process/static/css/process.css      |  42 ++--
+ .../progress-bar/static/css/progress-bar.css       |   8 +-
+ .../shortcodes/timeline/static/css/timeline.css    |  12 +-
+ .../video-carousel/static/css/video-carousel.css   |   4 +-
+ .../team-block/static/css/team-block.css           |  66 +++----
+ .../team-carousel/static/css/team-carousel.css     |  20 +-
+ .../testimonial/static/css/testimonial.css         | 110 +++++------
+ .../extensions/widgets/static/css/widgets.css      |  72 +++----
+ code/theme/static/css/custom-editor.css            |  60 +++---
+ code/theme/static/css/educhain-components.css      | 216 +++++++++++----------
+ code/theme/static/css/educhain-components.scss     |   3 +-
+ code/theme/static/css/educhain-forum.css           |  58 +++---
+ code/theme/static/css/lema-custom.css              | 116 +++++------
+ code/theme/style.css                               |   9 +-
+ 36 files changed, 529 insertions(+), 513 deletions(-) 36 files changed, 529 insertions(+), 513 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating 43e9a3c..a8d0e00
+Fast-forward
+ .../shortcodes/faq-block/static/css/faq-block.css  |   4 +-
+ .../static/css/gallery-carousel.css                |  12 +-
+ .../gallery-masonry/static/css/gallery-masonry.css |   4 +-
+ .../shortcodes/isotope/static/css/isotope.css      |   4 +-
+ .../shortcodes/instagram/static/css/instagram.css  |   4 +-
+ .../static/css/course-collection.css               |   4 +-
+ .../instructor/static/css/instructor.css           |   4 +-
+ .../shortcodes/new-tweet/static/css/new-tweet.css  |   4 +-
+ .../service-block/static/css/service-block.css     |   4 +-
+ .../count-down/static/css/count-down.css           |   4 +-
+ .../shortcodes/counterv2/static/css/counterv2.css  |   4 +-
+ .../features-block/static/css/features-block.css   |  70 +++----
+ .../shortcodes/item-list/static/css/item-list.css  |   4 +-
+ .../shortcodes/shortcodes/map/static/css/map.css   |   4 +-
+ .../static/css/material-download.css               |   4 +-
+ .../newsletter/static/css/newsletter.css           |   8 +-
+ .../shortcodes/partner/static/css/partner.css      |   8 +-
+ .../posts-carousel/static/css/posts-carousel.css   |   4 +-
+ .../posts-grid/static/css/posts-grid.css           |  56 +++---
+ .../posts-mansory/static/css/posts-masonry.css     |   4 +-
+ .../pricing-box/static/css/pricing-box.css         |  28 +--
+ .../shortcodes/process/static/css/process.css      |  42 ++---
+ .../progress-bar/static/css/progress-bar.css       |   8 +-
+ .../shortcodes/social/static/css/social.css        | 103 ++++++++++
+ .../shortcodes/social/static/css/social.scss       |  38 +++-
+ .../shortcodes/timeline/static/css/timeline.css    |  12 +-
+ .../video-carousel/static/css/video-carousel.css   |   4 +-
+ .../team-block/static/css/team-block.css           |  66 +++----
+ .../team-carousel/static/css/team-carousel.css     |  20 +-
+ .../testimonial/static/css/testimonial.css         | 110 +++++------
+ .../extensions/widgets/static/css/widgets.css      |  72 +++----
+ code/theme/static/css/custom-editor.css            |  60 +++---
+ code/theme/static/css/educhain-components.css      | 208 ++++++++++-----------
+ code/theme/static/css/educhain-forum.css           |  58 +++---
+ code/theme/static/css/lema-custom.css              | 116 ++++++------
+ 35 files changed, 648 insertions(+), 511 deletions(-) 35 files changed, 648 insertions(+), 511 deletions(-)
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Updating a8d0e00..1bfbdef
+Fast-forward
+ .../shortcodes/social/static/css/social.css        |  63 ++++----
+ .../shortcodes/social/static/css/social.scss       | 160 +++++++++++----------
+ 2 files changed, 113 insertions(+), 110 deletions(-) 2 files changed, 113 insertions(+), 110 deletions(-)
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Updating 1bfbdef..548c881
+Fast-forward
+ .../extensions/shortcodes/shortcodes/social/static/css/social.css     | 4 ----
+ .../extensions/shortcodes/shortcodes/social/static/css/social.scss    | 1 -
+ 2 files changed, 5 deletions(-) 2 files changed, 5 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : 
+Fail to update develop of education
+Updating 548c881..79899bb
+Fast-forward
+ code/theme/static/css/educhain-components.css  | 4 ++--
+ code/theme/static/css/educhain-components.scss | 4 ++--
+ 2 files changed, 4 insertions(+), 4 deletions(-) 2 files changed, 4 insertions(+), 4 deletions(-)
+Fail to update develop of lema-university
+M	vendor/composer/LICENSE
+M	vendor/composer/autoload_namespaces.php
+M	vendor/composer/autoload_real.php
+Updating dbc0eaf..f3d4a0c
+Fast-forward
+ assets/styles/lema-cat-course-uni.css | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-) 1 file changed, 4 insertions(+), 4 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/fix_uni_search-box
+Not expected branch : 
+M	vendor/composer/LICENSE
+M	vendor/composer/autoload_namespaces.php
+M	vendor/composer/autoload_real.php
+Updating f3d4a0c..2c021b4
+Fast-forward
+ assets/styles/lema-cat-course-uni.css | 27 +++++++++++++++++++--------
+ 1 file changed, 19 insertions(+), 8 deletions(-) 1 file changed, 19 insertions(+), 8 deletions(-)
+Fail to update develop of lema-university
+Not expected branch : refs/heads/fix_uni_search-box
+Updating e4deb80..c291ff4
+Fast-forward
+ solazu-unyson/solazu-unyson.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/tai_lm
+Not expected branch : refs/heads/master
+Not expected branch : 
+Fail to update develop of education
+Updating 79899bb..9799b80
+Fast-forward
+ .../shortcodes/gallery-carousel/static/css/gallery-carousel.css    | 7 +++++++
+ 1 file changed, 7 insertions(+) 1 file changed, 7 insertions(+)
+Updating e7418bc..ee211ca
+Fast-forward
+ learnmaster.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/master
+Updating 9799b80..dded424
+Fast-forward
+ code/theme/plugins/learnmaster.zip     | Bin 6242662 -> 6258057 bytes
+ code/theme/plugins/lema-university.zip | Bin 0 -> 170699 bytes
+ code/theme/plugins/solazu-unyson.zip   | Bin 8670253 -> 8674591 bytes
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 code/theme/plugins/lema-university.zip create mode 100644 code/theme/plugins/lema-university.zip
+Not expected branch : refs/heads/fix_uni_search-box
+Not expected branch : refs/heads/fix_uni_search-box
+Not expected branch : 
+Not expected branch : refs/heads/tai_lm
+Not expected branch : 
+Fail to update develop of education
+Updating dded424..00f3a09
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 10 ++++++++--
+ code/theme/static/css/lema-custom.scss |  7 +++++--
+ 2 files changed, 13 insertions(+), 4 deletions(-) 2 files changed, 13 insertions(+), 4 deletions(-)
+M	vendor/composer/LICENSE
+M	vendor/composer/autoload_namespaces.php
+M	vendor/composer/autoload_real.php
+Updating 2c021b4..072b4d4
+Fast-forward
+ assets/styles/lema-cat-course-uni.css | 13 ++++++++-----
+ 1 file changed, 8 insertions(+), 5 deletions(-) 1 file changed, 8 insertions(+), 5 deletions(-)
+Not expected branch : refs/heads/fix_uni_search-box
+Not expected branch : refs/heads/duytn/plugins
+Not expected branch : 
+Not expected branch : refs/heads/duytn/plugins
+Updating 00f3a09..54c186e
+Fast-forward
+ code/theme/footer.php                              |   7 ++-
+ .../framework-customizations/theme/manifest.php    |  62 +++++++++++++++++++--
+ .../static/img/demo-images/educhain_college.png    | Bin 0 -> 114428 bytes
+ .../static/img/demo-images/educhain_university.png | Bin 0 -> 114428 bytes
+ .../img/demo-images/preview_educhain_college.png   | Bin 0 -> 739605 bytes
+ .../demo-images/preview_educhain_university.png    | Bin 0 -> 739605 bytes
+ code/theme/static/img/tgm-images/learnmaster.jpg   | Bin 0 -> 14466 bytes
+ .../theme/static/img/tgm-images/lema-affiliate.jpg | Bin 0 -> 14466 bytes
+ .../static/img/tgm-images/lema-subscription.jpg    | Bin 0 -> 14466 bytes
+ .../static/img/tgm-images/lema-university.jpg      | Bin 0 -> 14466 bytes
+ 10 files changed, 64 insertions(+), 5 deletions(-)
+ create mode 100644 code/theme/static/img/demo-images/educhain_college.png
+ create mode 100644 code/theme/static/img/demo-images/educhain_university.png
+ create mode 100644 code/theme/static/img/demo-images/preview_educhain_college.png
+ create mode 100644 code/theme/static/img/demo-images/preview_educhain_university.png
+ create mode 100644 code/theme/static/img/tgm-images/learnmaster.jpg
+ create mode 100644 code/theme/static/img/tgm-images/lema-affiliate.jpg
+ create mode 100644 code/theme/static/img/tgm-images/lema-subscription.jpg
+ create mode 100644 code/theme/static/img/tgm-images/lema-university.jpg create mode 100644 code/theme/static/img/tgm-images/lema-university.jpg
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/duytn/page-title
+Not expected branch : refs/heads/duytn/cf7
+Not expected branch : 
+Not expected branch : refs/heads/duytn/cf7
+Updating 54c186e..5a00a90
+Fast-forward
+ code/theme/framework-customizations/theme/manifest.php | 9 +++++++++
+ 1 file changed, 9 insertions(+) 1 file changed, 9 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/duytn/cf7
+Not expected branch : 
+Not expected branch : refs/heads/duytn/cf7
+Updating 5a00a90..b66872a
+Fast-forward
+ code/theme/framework-customizations/theme/manifest.php | 1 +
+ 1 file changed, 1 insertion(+) 1 file changed, 1 insertion(+)
+Fail to update develop of education
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Updating b66872a..cb2ab83
+Fast-forward
+ .../shortcodes/gallery-carousel/static/css/gallery-carousel.css    | 7 -------
+ code/theme/style.css                                               | 7 +++++++
+ 2 files changed, 7 insertions(+), 7 deletions(-) 2 files changed, 7 insertions(+), 7 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/master
+Not expected branch : 
+Fail to update develop of education
+Updating cb2ab83..907525e
+Fast-forward
+ code/theme/style.css | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-) 1 file changed, 6 insertions(+), 1 deletion(-)
+Fail to update develop of lema-university
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Updating 907525e..97c3e3e
+Fast-forward
+ .../extensions/widgets/static/css/widgets.css      | 25 ++++++++++++++++++++--
+ .../extensions/widgets/static/css/widgets.scss     | 18 +++++++++++++++-
+ 2 files changed, 40 insertions(+), 3 deletions(-) 2 files changed, 40 insertions(+), 3 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Updating 97c3e3e..b0a6e47
+Fast-forward
+ .../framework-customizations/extensions/widgets/static/css/widgets.css   | 1 +
+ .../framework-customizations/extensions/widgets/static/css/widgets.scss  | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Fail to update develop of education
+Updating b0a6e47..0278c01
+Fast-forward
+ code/theme/plugins/lema-university.zip | Bin 170699 -> 178739 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-) 1 file changed, 0 insertions(+), 0 deletions(-)
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Updating 0278c01..7f19057
+Fast-forward
+ .../shortcodes/shortcodes/contact-form/static/css/_contact-form.scss    | 2 +-
+ code/theme/static/css/educhain-components.css                           | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Updating 7f19057..0ead6af
+Fast-forward
+ code/theme/style.css | 12 +++++++++---
+ 1 file changed, 9 insertions(+), 3 deletions(-) 1 file changed, 9 insertions(+), 3 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/tai_lm
+Not expected branch : 
+Not expected branch : refs/heads/hieutct/updateData
+Not expected branch : 
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating 0ead6af..635bc4f
+Fast-forward
+ code/theme/style.css | 14 +++++++++++++-
+ 1 file changed, 13 insertions(+), 1 deletion(-) 1 file changed, 13 insertions(+), 1 deletion(-)
+Updating 635bc4f..49a7a8b
+Fast-forward
+ .../framework-customizations/extensions/faq/static/css/_faq.scss | 9 +++++++++
+ 1 file changed, 9 insertions(+) 1 file changed, 9 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating 49a7a8b..f335eb1
+Fast-forward
+ .../framework-customizations/extensions/faq/static/css/_faq.scss    | 2 +-
+ code/theme/static/css/educhain-components.css                       | 6 ++++++
+ 2 files changed, 7 insertions(+), 1 deletion(-) 2 files changed, 7 insertions(+), 1 deletion(-)
+Updating f335eb1..2771d39
+Fast-forward
+ .../event-block/static/css/event-block.css         |   623 +-
+ .../event-block/static/css/event-block.scss        |  1097 +-
+ .../event-carousel/static/css/event-carousel.css   |   491 +-
+ .../event-carousel/static/css/event-carousel.scss  |   830 +-
+ .../extensions/events/static/css/_events.scss      |  1269 +-
+ .../shortcodes/faq-block/static/css/faq-block.css  |    78 +-
+ .../shortcodes/faq-block/static/css/faq-block.scss |   130 +-
+ .../extensions/faq/static/css/_faq.scss            |   487 +-
+ .../static/css/gallery-carousel.css                |   855 +-
+ .../static/css/gallery-carousel.scss               |  1365 +-
+ .../gallery-grid/static/css/gallery-grid.css       |   195 +-
+ .../gallery-grid/static/css/gallery-grid.scss      |   347 +-
+ .../gallery-masonry/static/css/gallery-masonry.css |    72 +-
+ .../static/css/gallery-masonry.scss                |   166 +-
+ .../shortcodes/isotope/static/css/isotope.css      |   213 +-
+ .../shortcodes/isotope/static/css/isotope.scss     |   455 +-
+ .../shortcodes/instagram/static/css/instagram.css  |   133 +-
+ .../shortcodes/instagram/static/css/instagram.scss |   222 +-
+ .../static/css/course-collection.css               |   866 +-
+ .../static/css/course-collection.scss              |  1336 +-
+ .../featured-course/static/css/featured-course.css |   456 +-
+ .../static/css/featured-course.scss                |   702 +-
+ .../instructor/static/css/instructor.css           |   571 +-
+ .../instructor/static/css/instructor.scss          |   922 +-
+ .../shortcodes/new-tweet/static/css/new-tweet.css  |   405 +-
+ .../shortcodes/new-tweet/static/css/new-tweet.scss |   470 +-
+ .../static/css/portfolio-carousel.css              |     2 +-
+ .../static/css/portfolio-carousel.scss             |     2 +-
+ .../portfolio-list/static/css/portfolio-list.css   |   124 +-
+ .../portfolio-list/static/css/portfolio-list.scss  |   218 +-
+ .../portfolio/static/css/_portfolio.scss           |   646 +-
+ .../service-block/static/css/service-block.css     |   112 +-
+ .../service-block/static/css/service-block.scss    |   223 +-
+ .../shortcodes/about-me/static/css/about-me.css    |   486 +-
+ .../shortcodes/about-me/static/css/about-me.scss   |   600 +-
+ .../shortcodes/accordion/static/css/accordion.css  |   398 +-
+ .../shortcodes/accordion/static/css/accordion.scss |   644 +-
+ .../shortcodes/button/static/css/_button.scss      |   416 +-
+ .../contact-form/static/css/_contact-form.scss     |  1469 +-
+ .../shortcodes/contact/static/css/contact.css      |   623 +-
+ .../shortcodes/contact/static/css/contact.scss     |   955 +-
+ .../statics/css/content-carousel.css               |   216 +-
+ .../statics/css/content-carousel.scss              |   278 +-
+ .../count-down/static/css/count-down.css           |   391 +-
+ .../count-down/static/css/count-down.scss          |   642 +-
+ .../shortcodes/counterv2/static/css/counterv2.css  |   632 +-
+ .../shortcodes/counterv2/static/css/counterv2.scss |  1232 +-
+ .../features-block/static/css/features-block.css   |   655 +-
+ .../features-block/static/css/features-block.scss  |  1144 +-
+ .../icons-block/static/css/_icon-block.scss        |  3156 ++--
+ .../image-carousel/static/css/_image-carousel.scss |  1790 +--
+ .../shortcodes/item-list/static/css/item-list.css  |   516 +-
+ .../shortcodes/item-list/static/css/item-list.scss |   906 +-
+ .../main-title/static/css/main-title.css           |   266 +-
+ .../main-title/static/css/main-title.scss          |   627 +-
+ .../shortcodes/shortcodes/map/static/css/map.css   |   102 +-
+ .../shortcodes/shortcodes/map/static/css/map.scss  |   161 +-
+ .../static/css/material-download.css               |    20 +-
+ .../static/css/material-download.scss              |    32 +-
+ .../newsletter/static/css/newsletter.css           |   469 +-
+ .../newsletter/static/css/newsletter.scss          |   673 +-
+ .../shortcodes/partner/static/css/partner.css      |   301 +-
+ .../shortcodes/partner/static/css/partner.scss     |   372 +-
+ .../posts-block/static/css/_posts-block.scss       |  4067 +++---
+ .../posts-carousel/static/css/posts-carousel.css   |   892 +-
+ .../posts-carousel/static/css/posts-carousel.scss  |  1451 +-
+ .../posts-grid/static/css/posts-grid.css           |   646 +-
+ .../posts-grid/static/css/posts-grid.scss          |   984 +-
+ .../posts-mansory/static/css/posts-masonry.css     |    48 +-
+ .../posts-mansory/static/css/posts-masonry.scss    |   100 +-
+ .../pricing-box/static/css/pricing-box.css         |  1321 +-
+ .../pricing-box/static/css/pricing-box.scss        |  2068 +--
+ .../shortcodes/process/static/css/process.css      |   747 +-
+ .../shortcodes/process/static/css/process.scss     |   778 +-
+ .../progress-bar/static/css/progress-bar.css       |   168 +-
+ .../progress-bar/static/css/progress-bar.scss      |   248 +-
+ .../shortcodes/social/static/css/social.css        |   122 +-
+ .../shortcodes/social/static/css/social.scss       |   161 +-
+ .../shortcodes/timeline/static/css/timeline.css    |   938 +-
+ .../shortcodes/timeline/static/css/timeline.scss   |   928 +-
+ .../video-carousel/static/css/video-carousel.css   |   425 +-
+ .../video-carousel/static/css/video-carousel.scss  |   570 +-
+ .../shortcodes/video/static/css/_video.scss        |  1462 +-
+ .../team-block/static/css/team-block.css           |  1154 +-
+ .../team-block/static/css/team-block.scss          |  1893 +--
+ .../team-carousel/static/css/team-carousel.css     |   830 +-
+ .../team-carousel/static/css/team-carousel.scss    |  1060 +-
+ .../extensions/teams/static/css/_teams.scss        |   242 +-
+ .../testimonial/static/css/testimonial.css         |  2974 ++--
+ .../testimonial/static/css/testimonial.scss        |  4844 +++----
+ .../extensions/widgets/static/css/widgets.css      |  1713 +--
+ .../extensions/widgets/static/css/widgets.scss     |  2342 +--
+ code/theme/library.scss                            |   274 +-
+ code/theme/static/css/custom-editor.css            |   384 +-
+ code/theme/static/css/custom-editor.scss           |   380 +-
+ code/theme/static/css/educhain-components.css      | 10583 +++++++-------
+ code/theme/static/css/educhain-components.scss     |  1594 +-
+ code/theme/static/css/educhain-forum.css           |  3573 ++---
+ code/theme/static/css/educhain-forum.scss          |  4902 +++----
+ code/theme/static/css/layout.css                   |  3822 ++---
+ code/theme/static/css/layout.scss                  |  5609 ++++----
+ code/theme/static/css/lema-custom.css              |  6931 ++++-----
+ code/theme/static/css/lema-custom.scss             | 14395 ++++++++++---------
+ code/theme/static/css/responsive.css               |   316 +-
+ code/theme/static/css/responsive.scss              |   435 +-
+ code/theme/style.css                               |    26 +-
+ 106 files changed, 62899 insertions(+), 61756 deletions(-) 106 files changed, 62899 insertions(+), 61756 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/hieutct/updateData
+Not expected branch : 
+Updating 2771d39..85ff94c
+Fast-forward
+ code/theme/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/master

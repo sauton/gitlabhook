@@ -1,0 +1,62 @@
+Updating f9e9a30..c3c860f
+Fast-forward
+ code/theme/includes/helpers.php | 12 ++++++++----
+ 1 file changed, 8 insertions(+), 4 deletions(-) 1 file changed, 8 insertions(+), 4 deletions(-)
+Not expected branch : refs/heads/son_pq
+Not expected branch : 
+Not expected branch : refs/heads/son_pq
+Not expected branch : 
+Not expected branch : refs/heads/son
+Not expected branch : 
+Not expected branch : refs/heads/son
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/son_qq/gitfix
+Not expected branch : refs/heads/son_qq/gitfix
+Not expected branch : refs/heads/son_fix
+Not expected branch : 
+Not expected branch : refs/heads/son_fix
+Updating c3c860f..33dca51
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 12 +++++++-----
+ code/theme/static/css/lema-custom.scss | 14 ++++++++------
+ 2 files changed, 15 insertions(+), 11 deletions(-) 2 files changed, 15 insertions(+), 11 deletions(-)
+Fail to update develop of education
+Updating 33dca51..8a8da2b
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 22 ++++++++++++++++++++++
+ code/theme/static/css/lema-custom.scss | 25 +++++++++++++++++++++++++
+ 2 files changed, 47 insertions(+) 2 files changed, 47 insertions(+)
+Not expected branch : refs/heads/son_fix
+Not expected branch : 
+Not expected branch : refs/heads/master
+Not expected branch : 
+Not expected branch : refs/heads/tai_abc
+Not expected branch : refs/heads/tai_abc
+Updating 8a8da2b..17a3d89
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 3 ++-
+ code/theme/static/css/lema-custom.scss | 3 ++-
+ 2 files changed, 4 insertions(+), 2 deletions(-) 2 files changed, 4 insertions(+), 2 deletions(-)
+Updating 17a3d89..2af692b
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 1 +
+ code/theme/static/css/lema-custom.scss | 3 ++-
+ 2 files changed, 3 insertions(+), 1 deletion(-) 2 files changed, 3 insertions(+), 1 deletion(-)
+Updating 2af692b..cee388e
+Fast-forward
+ code/theme/static/css/lema-custom.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Already up-to-date.Already up-to-date.
+Updating b12a5c9..f12ffc7
+Fast-forward
+ front/views/course/detail.php | 74 +++++++++++++++++++++----------------------
+ 1 file changed, 37 insertions(+), 37 deletions(-) 1 file changed, 37 insertions(+), 37 deletions(-)
+Updating f12ffc7..3be7047
+Fast-forward
+ front/views/course/detail.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 3be7047..b392ed6
+Fast-forward
+ front/views/course/detail.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)

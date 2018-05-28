@@ -1,0 +1,53 @@
+Updating 9c1f451..a0e96c8
+Fast-forward
+ .../theme/custom-color.php                         |  8 +++
+ code/theme/static/css/lema-custom.css              | 64 ++++++++++++++++--
+ code/theme/static/css/lema-custom.scss             | 78 ++++++++++++++++++++--
+ 3 files changed, 140 insertions(+), 10 deletions(-) 3 files changed, 140 insertions(+), 10 deletions(-)
+Updating a0e96c8..0b34e4f
+Fast-forward
+ .../newsletter/static/css/newsletter.css           |  1 +
+ .../newsletter/static/css/newsletter.scss          |  1 +
+ .../theme/custom-color.php                         | 14 +++++++
+ code/theme/static/css/lema-custom.css              | 38 ++++++++++++++++-
+ code/theme/static/css/lema-custom.scss             | 47 +++++++++++++++++++++-
+ 5 files changed, 97 insertions(+), 4 deletions(-) 5 files changed, 97 insertions(+), 4 deletions(-)
+Updating 0b34e4f..6a5c6a0
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 6 +++++-
+ code/theme/static/css/lema-custom.scss | 5 ++++-
+ 2 files changed, 9 insertions(+), 2 deletions(-) 2 files changed, 9 insertions(+), 2 deletions(-)
+Updating 6a5c6a0..2ec903f
+Fast-forward
+ code/theme/static/css/layout.css       | 5 +++++
+ code/theme/static/css/layout.scss      | 5 +++++
+ code/theme/static/css/lema-custom.css  | 3 ++-
+ code/theme/static/css/lema-custom.scss | 3 ++-
+ 4 files changed, 14 insertions(+), 2 deletions(-) 4 files changed, 14 insertions(+), 2 deletions(-)
+Updating 2ec903f..97315f5
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 1 +
+ code/theme/static/css/lema-custom.scss | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Updating 97315f5..c58ba4b
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 4 ++--
+ code/theme/static/css/lema-custom.scss | 4 ++--
+ code/theme/style.css                   | 5 +++++
+ 3 files changed, 9 insertions(+), 4 deletions(-) 3 files changed, 9 insertions(+), 4 deletions(-)
+Updating c58ba4b..f9e9a30
+Fast-forward
+ .../instagram/shortcodes/instagram/views/view-grid.php   | 16 +++++++++-------
+ .../instagram/shortcodes/instagram/views/view-slider.php | 15 ++++++++++-----
+ 2 files changed, 19 insertions(+), 12 deletions(-) 2 files changed, 19 insertions(+), 12 deletions(-)
+Not expected branch : refs/heads/thangpd/instagram
+Not expected branch : refs/heads/thangpd/instagram
+Not expected branch : 
+Fail to update develop of solazu-core
+Not expected branch : refs/heads/thangpd/instagram
+Updating 1fd1676..75b9ce6
+Fast-forward
+ solazu-unyson/framework/extensions/instagram/helpers.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/son
+Not expected branch : 

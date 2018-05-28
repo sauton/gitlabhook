@@ -1,0 +1,152 @@
+Not expected branch : 
+Fail to update develop of education
+Updating 895e4ee..d215a3f
+Fast-forward
+ .../shortcodes/icons-block/options/layout-2.php    |   1 +
+ .../icons-block/static/css/_icon-block.scss        | 298 ++++++++++++++++++---
+ .../shortcodes/icons-block/views/layout-2.php      |   4 +-
+ code/theme/static/css/educhain-components.css      | 277 ++++++++++++++++++-
+ 4 files changed, 534 insertions(+), 46 deletions(-) 4 files changed, 534 insertions(+), 46 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/duytn/header-blocks
+Updating d215a3f..aa1e86a
+Fast-forward
+ code/theme/package.json | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/duytn/header-blocks
+Updating aa1e86a..9aa218f
+Fast-forward
+ code/theme/package.json | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/thangpd/social
+Not expected branch : 
+Not expected branch : refs/heads/duytn/header-blocks
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/thanh/contact-form
+Not expected branch : refs/heads/thanh/contact-form
+Not expected branch : 
+Updating 9aa218f..afdaf2c
+Fast-forward
+ .../event-block/static/css/event-block.css         |   1 -
+ .../event-block/static/css/event-block.scss        |   1 -
+ .../event-carousel/static/css/event-carousel.css   |   1 -
+ .../event-carousel/static/css/event-carousel.scss  |   3 +-
+ .../extensions/events/static/css/_events.scss      |   4 +-
+ .../shortcodes/faq-block/static/css/faq-block.scss |   4 +-
+ .../extensions/faq/static/css/_faq.scss            |   9 +-
+ .../static/css/gallery-carousel.css                |   5 +-
+ .../static/css/gallery-carousel.scss               |  11 +-
+ .../gallery-grid/static/css/gallery-grid.css       |   1 -
+ .../gallery-grid/static/css/gallery-grid.scss      |   7 +-
+ .../gallery-masonry/static/css/gallery-masonry.css |   1 -
+ .../static/css/gallery-masonry.scss                |   7 +-
+ .../shortcodes/isotope/static/css/isotope.css      |   3 +-
+ .../shortcodes/isotope/static/css/isotope.scss     |  11 +-
+ .../shortcodes/instagram/static/css/instagram.scss |   4 +-
+ .../shortcodes/new-tweet/static/css/new-tweet.scss |   4 +-
+ .../static/css/portfolio-carousel.scss             |   4 +-
+ .../portfolio-list/static/css/portfolio-list.scss  |   4 +-
+ .../portfolio/static/css/_portfolio.scss           |   8 +-
+ .../service-block/static/css/service-block.css     |   1 -
+ .../service-block/static/css/service-block.scss    |   7 +-
+ .../shortcodes/about-me/static/css/about-me.scss   |   4 +-
+ .../shortcodes/accordion/static/css/accordion.css  |   2 +-
+ .../shortcodes/accordion/static/css/accordion.scss |   8 +-
+ .../shortcodes/button/static/css/_button.scss      |  12 +-
+ .../contact-form/static/css/_contact-form.scss     |  16 +-
+ .../shortcodes/contact/static/css/contact.css      |  12 +-
+ .../shortcodes/contact/static/css/contact.scss     |  16 +-
+ .../statics/css/content-carousel.scss              |   3 +-
+ .../count-down/static/css/count-down.scss          |   4 +-
+ .../shortcodes/counterv2/static/css/counterv2.css  |   6 +-
+ .../shortcodes/counterv2/static/css/counterv2.scss |   8 +-
+ .../features-block/static/css/features-block.css   |   4 +-
+ .../features-block/static/css/features-block.scss  |   8 +-
+ .../icons-block/static/css/_icon-block.scss        |   6 +-
+ .../image-carousel/static/css/_image-carousel.scss |  20 +--
+ .../shortcodes/item-list/static/css/item-list.css  |   1 -
+ .../shortcodes/item-list/static/css/item-list.scss |   5 +-
+ .../main-title/static/css/main-title.scss          |   5 +-
+ .../shortcodes/shortcodes/map/static/css/map.scss  |   6 +-
+ .../static/css/material-download.scss              |   4 +-
+ .../newsletter/static/css/newsletter.css           |   4 +-
+ .../newsletter/static/css/newsletter.scss          |  10 +-
+ .../shortcodes/partner/static/css/partner.css      |   2 +-
+ .../shortcodes/partner/static/css/partner.scss     |   6 +-
+ .../posts-block/static/css/_posts-block.scss       |  18 +--
+ .../posts-carousel/static/css/posts-carousel.scss  |   4 +-
+ .../posts-grid/static/css/posts-grid.css           |   2 +-
+ .../posts-grid/static/css/posts-grid.scss          |   6 +-
+ .../posts-mansory/static/css/posts-masonry.scss    |   4 +-
+ .../pricing-box/static/css/pricing-box.css         | 124 +++++++-------
+ .../pricing-box/static/css/pricing-box.scss        | 123 ++++++--------
+ .../shortcodes/process/static/css/process.css      | 178 +++++++++++++--------
+ .../shortcodes/process/static/css/process.scss     | 139 ++++++----------
+ .../progress-bar/static/css/progress-bar.css       |  42 +++--
+ .../progress-bar/static/css/progress-bar.scss      |  49 +++---
+ .../shortcodes/timeline/static/css/timeline.css    | 122 +++++++-------
+ .../shortcodes/timeline/static/css/timeline.scss   | 157 +++++-------------
+ .../video-carousel/static/css/video-carousel.scss  |   7 +-
+ .../video-list/static/css/video-list.scss          |   4 +-
+ .../shortcodes/video/static/css/_video.scss        |  11 +-
+ .../team-block/static/css/team-block.css           |   5 +-
+ .../team-block/static/css/team-block.scss          |  10 +-
+ .../team-carousel/static/css/team-carousel.scss    |   8 +-
+ .../extensions/teams/static/css/_teams.scss        |   4 +
+ .../testimonial/static/css/testimonial.css         |  21 ++-
+ .../testimonial/static/css/testimonial.scss        |  26 ++-
+ code/theme/static/css/educhain-components.css      |  31 ++--
+ 69 files changed, 632 insertions(+), 736 deletions(-) 69 files changed, 632 insertions(+), 736 deletions(-)
+Updating afdaf2c..32b12d9
+Fast-forward
+ .../headers/headers/header-09/options.php          | 15 ++++--
+ .../headers/headers/header-09/options/button.php   | 56 ++++++++++++++++++++++
+ .../headers/header-09/options/cart_icon.php        |  9 ++++
+ .../headers/header-09/options/course_category.php  |  7 ++-
+ .../headers/header-09/options/login_register.php   | 33 +++++++------
+ .../headers/headers/header-09/options/logo.php     | 11 +++++
+ .../headers/headers/header-09/options/menu.php     | 13 +++--
+ .../headers/header-09/options/search_box.php       | 20 ++++++++
+ .../headers/header-09/options/text_link.php        | 20 ++++++++
+ .../headers/headers/header-09/views/button.php     | 44 +++++++++++++++++
+ .../headers/headers/header-09/views/cart_icon.php  |  5 +-
+ .../headers/header-09/views/course_category.php    |  5 +-
+ .../headers/headers/header-09/views/logo.php       | 13 ++++-
+ .../headers/headers/header-09/views/menu.php       |  5 +-
+ .../headers/headers/header-09/views/search_box.php | 19 ++++++--
+ .../headers/headers/header-09/views/text_link.php  | 26 ++++++++++
+ 16 files changed, 269 insertions(+), 32 deletions(-)
+ create mode 100644 code/theme/framework-customizations/extensions/headers/headers/header-09/options/button.php
+ create mode 100644 code/theme/framework-customizations/extensions/headers/headers/header-09/options/cart_icon.php
+ create mode 100644 code/theme/framework-customizations/extensions/headers/headers/header-09/options/search_box.php
+ create mode 100644 code/theme/framework-customizations/extensions/headers/headers/header-09/options/text_link.php
+ create mode 100644 code/theme/framework-customizations/extensions/headers/headers/header-09/views/button.php
+ create mode 100644 code/theme/framework-customizations/extensions/headers/headers/header-09/views/text_link.php create mode 100644 code/theme/framework-customizations/extensions/headers/headers/header-09/views/text_link.php
+Fail to update develop of education
+Not expected branch : refs/heads/duytn/header-blocks
+Updating 32b12d9..d7b0f0b
+Fast-forward
+ .../contact-form/static/css/_contact-form.scss     | 20 +++++
+ .../shortcodes/timeline/static/css/timeline.css    | 82 ++++++++++++++++++++-
+ .../shortcodes/timeline/static/css/timeline.scss   | 85 +++++++++++++++++++++-
+ code/theme/static/css/educhain-components.css      | 18 +++++
+ 4 files changed, 201 insertions(+), 4 deletions(-) 4 files changed, 201 insertions(+), 4 deletions(-)
+Fail to update develop of education
+Updating d7b0f0b..98444df
+Fast-forward
+ .../shortcodes/timeline/static/css/timeline.scss   | 12 +++---
+ code/theme/static/css/educhain-woocommerce.css     | 10 ++---
+ code/theme/static/css/theme-admin.css              | 16 +++----
+ code/theme/static/js/educhain-main.js              | 49 +++++++++++-----------
+ code/theme/static/js/preloader.js                  |  6 +--
+ 5 files changed, 46 insertions(+), 47 deletions(-) 5 files changed, 46 insertions(+), 47 deletions(-)
+Not expected branch : refs/heads/hieutct/font
+Not expected branch : 
+Updating 98444df..19d5133
+Fast-forward
+ code/theme/static/css/layout.css  |  6 ++---
+ code/theme/static/css/layout.scss |  7 +++---
+ code/theme/style.css              | 50 +++++++++++++++------------------------
+ 3 files changed, 26 insertions(+), 37 deletions(-) 3 files changed, 26 insertions(+), 37 deletions(-)

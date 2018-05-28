@@ -1,0 +1,299 @@
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating b25b540..7e6085c
+Fast-forward
+ .../testimonial/static/css/testimonial.css         |  2 +-
+ .../testimonial/static/css/testimonial.scss        | 48 +++++++++++-----------
+ 2 files changed, 26 insertions(+), 24 deletions(-) 2 files changed, 26 insertions(+), 24 deletions(-)
+Not expected branch : refs/heads/luctc
+Updating 7e6085c..7775c34
+Fast-forward
+ code/theme/static/css/default.css | 4 ++++
+ code/theme/style.css              | 1 +
+ 2 files changed, 5 insertions(+) 2 files changed, 5 insertions(+)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 7775c34..665d041
+Fast-forward
+ .../shortcodes/item-list/static/css/item-list.css  | 64 +++++++++++++++
+ .../shortcodes/item-list/static/css/item-list.scss | 94 +++++++++++++++++-----
+ .../testimonial/static/css/testimonial.css         |  4 +-
+ .../testimonial/static/css/testimonial.scss        |  4 +-
+ 4 files changed, 142 insertions(+), 24 deletions(-) 4 files changed, 142 insertions(+), 24 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/duytn/fix-header
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/hieutct/fixjssetup
+Not expected branch : 
+Not expected branch : refs/heads/hieutct/fixjssetup
+Updating 665d041..caace08
+Fast-forward
+ code/theme/setup/class-educhain-setup.php          |   2 -
+ .../setup/data-master/views/import_attachments.php |   8 +-
+ .../theme/setup/data-master/views/import_pages.php |   8 +-
+ code/theme/setup/static/css/setup-wizard.css       |   2 +-
+ .../js/learnmaster-setup-import-attachment.js      |  59 --------
+ .../static/js/learnmaster-setup-import-page.js     |  74 ----------
+ code/theme/setup/static/js/learnmaster-step-5.js   | 152 +++++++++++++++++++--
+ code/theme/setup/steps/generate-demo.php           |   2 +-
+ 8 files changed, 153 insertions(+), 154 deletions(-)
+ delete mode 100644 code/theme/setup/static/js/learnmaster-setup-import-attachment.js
+ delete mode 100644 code/theme/setup/static/js/learnmaster-setup-import-page.js delete mode 100644 code/theme/setup/static/js/learnmaster-setup-import-page.js
+Already up-to-date.Already up-to-date.
+Updating caace08..e45df09
+Fast-forward
+ .../header-09/class-slz-header-header-09.php       | 100 ++++++++++++++++++---
+ code/theme/header.php                              |  15 +++-
+ 2 files changed, 100 insertions(+), 15 deletions(-) 2 files changed, 100 insertions(+), 15 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/duytn/fix-header
+Updating e45df09..af377ce
+Fast-forward
+ code/theme/static/css/layout.css  | 3 +++
+ code/theme/static/css/layout.scss | 4 +++-
+ 2 files changed, 6 insertions(+), 1 deletion(-) 2 files changed, 6 insertions(+), 1 deletion(-)
+Updating af377ce..a0cce76
+Fast-forward
+ code/theme/style.css | 6 ++++++
+ 1 file changed, 6 insertions(+) 1 file changed, 6 insertions(+)
+Not expected branch : refs/heads/thangpd/categorylist
+Not expected branch : 
+Updating a0cce76..8607cf0
+Fast-forward
+ .../framework-customizations/theme/options/general-settings.php    | 4 ++--
+ code/theme/includes/constants.php                                  | 4 +++-
+ code/theme/includes/hooks.php                                      | 7 ++++++-
+ code/theme/setup/steps/check-requirement.php                       | 2 +-
+ 4 files changed, 12 insertions(+), 5 deletions(-) 4 files changed, 12 insertions(+), 5 deletions(-)
+Not expected branch : refs/heads/duytn/hotfix-header
+Not expected branch : 
+Not expected branch : refs/heads/duytn/hotfix-header
+Updating 8607cf0..e012dee
+Fast-forward
+ .../extensions/headers/headers/header-09/class-slz-header-header-09.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Fail to update develop of education
+Updating e814981..e8fa926
+Fast-forward
+ shortcodes/course/CategoryShortcode.php           | 10 +++++-----
+ shortcodes/course/assets/styles/lema-category.css | 10 +++++-----
+ 2 files changed, 10 insertions(+), 10 deletions(-) 2 files changed, 10 insertions(+), 10 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating e012dee..7227f47
+Fast-forward
+ .../shortcodes/posts-carousel/config.php           |   3 +-
+ .../posts-carousel/static/css/posts-carousel.css   | 205 ++++++++++++++--
+ .../posts-carousel/static/css/posts-carousel.scss  | 262 +++++++++++++++++----
+ .../posts-carousel/static/js/posts-carousel.js     |   1 -
+ .../shortcodes/posts-carousel/vc_options.php       |  13 +-
+ .../posts-carousel/views/large_module.php          |  42 +++-
+ 6 files changed, 440 insertions(+), 86 deletions(-) 6 files changed, 440 insertions(+), 86 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/hieutct/updatedata
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : refs/heads/duytn/fix-get-post-choices
+Not expected branch : 
+Updating 7227f47..c599390
+Fast-forward
+ .../shortcodes/posts-carousel/static/css/posts-carousel.css   | 11 +++++++++++
+ .../shortcodes/posts-carousel/static/css/posts-carousel.scss  |  5 +++++
+ 2 files changed, 16 insertions(+) 2 files changed, 16 insertions(+)
+Fail to update develop of education
+Updating c599390..3f0313b
+Fast-forward
+ code/theme/setup/data-master/attachments/educhain_affiliate             | 2 +-
+ code/theme/setup/data-master/attachments/educhain_default               | 2 +-
+ code/theme/setup/data-master/attachments/educhain_lesscourses           | 2 +-
+ code/theme/setup/data-master/attachments/educhain_marketplace           | 2 +-
+ code/theme/setup/data-master/menus/educhain_affiliate                   | 2 +-
+ code/theme/setup/data-master/menus/educhain_default                     | 2 +-
+ code/theme/setup/data-master/menus/educhain_lesscourses                 | 2 +-
+ code/theme/setup/data-master/pages/educhain_affiliate                   | 2 +-
+ code/theme/setup/data-master/pages/educhain_lesscourses                 | 2 +-
+ code/theme/setup/data-master/pages/educhain_marketplace                 | 2 +-
+ code/theme/setup/data-master/theme_settings/educhain_affiliate.setting  | 2 +-
+ code/theme/setup/data-master/theme_settings/educhain_default.setting    | 2 +-
+ .../theme/setup/data-master/theme_settings/educhain_lesscourses.setting | 2 +-
+ 13 files changed, 13 insertions(+), 13 deletions(-) 13 files changed, 13 insertions(+), 13 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/hieutct/updatedata
+Not expected branch : refs/heads/duytn/fix-get-post-choices
+Fail to update develop of education
+Updating 3f0313b..8cdd861
+Fast-forward
+ .../framework-customizations/theme/options/post-settings.php     | 9 +++++++--
+ code/theme/framework-customizations/theme/options/posts/post.php | 8 +++++++-
+ 2 files changed, 14 insertions(+), 3 deletions(-) 2 files changed, 14 insertions(+), 3 deletions(-)
+Not expected branch : refs/heads/duytn/fix-get-post-choices
+Not expected branch : refs/heads/duytn/hotfix-
+Not expected branch : 
+Updating 8cdd861..2364a25
+Fast-forward
+ code/theme/framework-customizations/theme/options/posts/post.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Fail to update develop of education
+Not expected branch : refs/heads/duytn/hotfix-
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Updating e8fa926..6f3f464
+Fast-forward
+ config.php                                 | 4 ++--
+ core/components/Page.php                   | 7 +++++--
+ learnmaster.php                            | 5 ++++-
+ shortcodes/cart/assets/scripts/add-cart.js | 4 ++--
+ shortcodes/cart/views/icon.php             | 2 +-
+ 5 files changed, 14 insertions(+), 8 deletions(-) 5 files changed, 14 insertions(+), 8 deletions(-)
+Updating 6f3f464..b8a28bb
+Fast-forward
+ learnmaster.php | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-) 1 file changed, 3 insertions(+), 3 deletions(-)
+Not expected branch : refs/heads/master
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 2364a25..2a38ca9
+Fast-forward
+ .../shortcodes/shortcodes/about-me/vc_options.php  |  3 +-
+ .../posts-carousel/static/css/posts-carousel.css   | 51 +++++++++++++++++++-
+ .../posts-carousel/static/css/posts-carousel.scss  | 56 ++++++++++++++++++++--
+ 3 files changed, 103 insertions(+), 7 deletions(-) 3 files changed, 103 insertions(+), 7 deletions(-)
+Updating 2a38ca9..af5740a
+Fast-forward
+ code/theme/plugins/learnmaster.zip        | Bin 6242607 -> 6242662 bytes
+ code/theme/setup/class-educhain-setup.php |   3 +++
+ 2 files changed, 3 insertions(+) 2 files changed, 3 insertions(+)
+Not expected branch : refs/heads/duytn/fix-header-menu
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/duytn/fix-header-menu
+Updating af5740a..e52c37d
+Fast-forward
+ .../header-09/class-slz-header-header-09.php       | 71 ++++++++++++++++++++++
+ code/theme/includes/hooks.php                      | 41 -------------
+ 2 files changed, 71 insertions(+), 41 deletions(-) 2 files changed, 71 insertions(+), 41 deletions(-)
+Fail to update develop of education
+Not expected branch : 
+Updating e52c37d..cff14ec
+Fast-forward
+ .../shortcodes/about-me/static/css/about-me.css    | 113 +++++++++++++++++++++
+ .../shortcodes/about-me/static/css/about-me.scss   | 102 +++++++++++++++++++
+ 2 files changed, 215 insertions(+) 2 files changed, 215 insertions(+)
+Fail to update develop of education
+Updating cff14ec..cd6711f
+Fast-forward
+ .../extensions/events/static/css/_events.scss      |  2 +-
+ .../shortcodes/button/static/css/_button.scss      |  6 +----
+ .../contact-form/static/css/_contact-form.scss     |  2 +-
+ .../posts-block/static/css/_posts-block.scss       |  2 +-
+ .../shortcodes/video/static/css/_video.scss        |  2 +-
+ .../extensions/widgets/static/css/widgets.css      |  2 +-
+ .../extensions/widgets/static/css/widgets.scss     |  2 +-
+ code/theme/static/css/educhain-components.css      | 31 +++++++++-------------
+ code/theme/static/css/educhain-components.scss     | 10 +++----
+ 9 files changed, 23 insertions(+), 36 deletions(-) 9 files changed, 23 insertions(+), 36 deletions(-)
+Updating c43ae59..a9b144a
+Fast-forward
+ .../components/extensions/manager/class--slz-extensions-manager.php  | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-) 1 file changed, 3 insertions(+), 2 deletions(-)
+Updating a9b144a..2e2d814
+Fast-forward
+ solazu-unyson/solazu-unyson.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/master
+Updating cd6711f..765fbda
+Fast-forward
+ code/theme/plugins/solazu-unyson.zip | Bin 8670244 -> 8670253 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-) 1 file changed, 0 insertions(+), 0 deletions(-)
+Not expected branch : refs/heads/hieutct/data
+Not expected branch : refs/heads/hieutct/datadefault
+Not expected branch : 
+Not expected branch : refs/heads/hieutct/datadefault
+Updating 765fbda..d507f23
+Fast-forward
+ .../headers/headers/header-09/class-slz-header-header-09.php  |  3 +++
+ code/theme/includes/hooks.php                                 | 11 +++++++++++
+ code/theme/setup/data-master/default/themesetting.json        |  1 +
+ 3 files changed, 15 insertions(+)
+ create mode 100644 code/theme/setup/data-master/default/themesetting.json create mode 100644 code/theme/setup/data-master/default/themesetting.json
+Fail to update develop of education
+Not expected branch : refs/heads/hieutct/datadefault
+Not expected branch : 
+Updating d507f23..73c857b
+Fast-forward
+ code/theme/includes/hooks.php | 16 ++++++++++------
+ 1 file changed, 10 insertions(+), 6 deletions(-) 1 file changed, 10 insertions(+), 6 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/hieutct/datadefault
+Not expected branch : refs/heads/luctc
+Updating 73c857b..d46ce65
+Fast-forward
+ .../extensions/events/static/css/_events.scss      |    8 +-
+ .../contact-form/static/css/_contact-form.scss     | 1533 +++---
+ .../posts-block/static/css/_posts-block.scss       |   13 +-
+ .../shortcodes/video/static/css/_video.scss        |  918 ++--
+ .../extensions/widgets/static/css/widgets.css      |   20 +-
+ .../extensions/widgets/static/css/widgets.scss     | 2673 +++++-----
+ code/theme/library.scss                            |    3 +-
+ code/theme/static/css/custom-editor.css            |    1 -
+ code/theme/static/css/default.css                  |   11 +-
+ code/theme/static/css/educhain-components.css      |   30 +-
+ code/theme/static/css/educhain-components.scss     |   10 +-
+ code/theme/static/css/educhain-forum.css           |   58 +-
+ code/theme/static/css/educhain-forum.scss          | 5388 ++++++++++----------
+ code/theme/static/css/educhain-woocommerce.css     |  203 +-
+ code/theme/static/css/layout.css                   |   21 +-
+ code/theme/static/css/layout.scss                  |   26 +-
+ code/theme/static/css/lema-custom.css              |   73 +-
+ code/theme/static/css/lema-custom.scss             |  105 +-
+ 18 files changed, 5486 insertions(+), 5608 deletions(-) 18 files changed, 5486 insertions(+), 5608 deletions(-)
+Updating d46ce65..f36fb4f
+Fast-forward
+ .../headers/headers/header-09/class-slz-header-header-09.php         | 4 ++--
+ code/theme/includes/hooks.php                                        | 5 +++--
+ code/theme/setup/data-master/default/themesetting.json               | 2 +-
+ 3 files changed, 6 insertions(+), 5 deletions(-) 3 files changed, 6 insertions(+), 5 deletions(-)
+Updating f36fb4f..09579d6
+Fast-forward
+ code/theme/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/master
+Not expected branch : refs/heads/hieutct/fixflow
+Not expected branch : 
+Not expected branch : refs/heads/hieutct/fixflow
+Fail to update develop of education
+Updating 09579d6..80df100
+Fast-forward
+ code/theme/includes/hooks.php | 9 +++++----
+ 1 file changed, 5 insertions(+), 4 deletions(-) 1 file changed, 5 insertions(+), 4 deletions(-)
+Not expected branch : refs/heads/hieutct/fixflow
+Not expected branch : 
+Not expected branch : refs/heads/hieutct/fixflow
+Updating 80df100..ec8218b
+Fast-forward
+ code/theme/includes/hooks.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/master
+Updating ec8218b..895e4ee
+Fast-forward
+ code/theme/includes/hooks.php | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Updating c85bb2c..3df9f3f
+Fast-forward
+ solazu-live-settings/inc/SLZ_Live_Settings.php   | 5 ++---
+ solazu-live-settings/statics/js/live-settings.js | 2 --
+ 2 files changed, 2 insertions(+), 5 deletions(-) 2 files changed, 2 insertions(+), 5 deletions(-)
+Updating 3df9f3f..0b849ff
+Fast-forward
+ solazu-live-settings/inc/SLZ_Live_Settings.php   | 4 ++++
+ solazu-live-settings/statics/js/live-settings.js | 8 +++++++-
+ 2 files changed, 11 insertions(+), 1 deletion(-) 2 files changed, 11 insertions(+), 1 deletion(-)

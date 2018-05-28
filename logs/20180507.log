@@ -1,0 +1,60 @@
+Not expected branch : refs/heads/sonpq
+Updating 1f45916..35675ba
+Fast-forward
+ .../shortcodes/contact-form/static/css/_contact-form.scss          | 4 ++++
+ code/static/css/cryptoio-components.css                            | 7 +++++++
+ 2 files changed, 11 insertions(+) 2 files changed, 11 insertions(+)
+Updating 35675ba..a9a8f56
+Fast-forward
+ .../shortcodes/contact-form/static/css/_contact-form.scss         | 8 ++++++++
+ code/static/css/cryptoio-components.css                           | 8 ++++++++
+ 2 files changed, 16 insertions(+) 2 files changed, 16 insertions(+)
+Updating a9a8f56..66a8b20
+Fast-forward
+ .../shortcodes/shortcodes/contact-form/static/css/_contact-form.scss | 2 ++
+ code/static/css/cryptoio-components.css                              | 5 +++++
+ 2 files changed, 7 insertions(+) 2 files changed, 7 insertions(+)
+Updating 66a8b20..f2c1d3b
+Fast-forward
+ .../shortcodes/contact-form/static/css/_contact-form.scss          | 3 +++
+ code/static/css/cryptoio-components.css                            | 7 +++++++
+ 2 files changed, 10 insertions(+) 2 files changed, 10 insertions(+)
+Updating f2c1d3b..26d5bdd
+Fast-forward
+ .../shortcodes/contact-form/static/css/_contact-form.scss    |  8 +++++++-
+ code/static/css/cryptoio-components.css                      | 12 ++++++++++++
+ 2 files changed, 19 insertions(+), 1 deletion(-) 2 files changed, 19 insertions(+), 1 deletion(-)
+Updating 26d5bdd..3265abc
+Fast-forward
+ .../shortcodes/shortcodes/contact-form/static/css/_contact-form.scss    | 2 +-
+ code/static/css/cryptoio-components.css                                 | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 3265abc..644619d
+Fast-forward
+ .../shortcodes/shortcodes/contact-form/static/css/_contact-form.scss  | 4 ++--
+ code/static/css/cryptoio-components.css                               | 4 ++--
+ 2 files changed, 4 insertions(+), 4 deletions(-) 2 files changed, 4 insertions(+), 4 deletions(-)
+Updating 644619d..2fdf4c0
+Fast-forward
+ .../shortcodes/shortcodes/contact-form/static/css/_contact-form.scss    | 2 +-
+ code/static/css/cryptoio-components.css                                 | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 2fdf4c0..6137649
+Fast-forward
+ .../shortcodes/contact-form/static/css/_contact-form.scss          | 4 ++++
+ code/static/css/cryptoio-components.css                            | 7 +++++++
+ 2 files changed, 11 insertions(+) 2 files changed, 11 insertions(+)
+Updating 6137649..0056fbc
+Fast-forward
+ .../shortcodes/shortcodes/contact-form/static/css/_contact-form.scss  | 4 ++--
+ code/static/css/cryptoio-components.css                               | 4 ++--
+ 2 files changed, 4 insertions(+), 4 deletions(-) 2 files changed, 4 insertions(+), 4 deletions(-)
+Updating 0056fbc..6a972db
+Fast-forward
+ .../shortcodes/shortcodes/contact-form/static/css/_contact-form.scss    | 2 +-
+ code/static/css/cryptoio-components.css                                 | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 6a972db..b05894d
+Fast-forward
+ code/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)

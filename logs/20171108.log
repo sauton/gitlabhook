@@ -1,0 +1,120 @@
+Not expected branch : refs/heads/thanh/contact-form
+Not expected branch : refs/heads/thanh/contact-form
+Not expected branch : 
+Not expected branch : refs/heads/thanh/contact-form
+Not expected branch : 
+Not expected branch : 
+Not expected branch : 
+Fail to update develop of education
+Updating bdf1621..037c9b6
+Fast-forward
+ .../shortcodes/shortcodes/pricing-box/static/css/pricing-box.scss      | 3 ---
+ code/theme/framework-customizations/theme/custom-color.php             | 2 +-
+ 2 files changed, 1 insertion(+), 4 deletions(-) 2 files changed, 1 insertion(+), 4 deletions(-)
+Updating 8eecff9..c85bb2c
+Fast-forward
+ solazu-live-settings/statics/css/live-settings.css | 4 ++++
+ 1 file changed, 4 insertions(+) 1 file changed, 4 insertions(+)
+Not expected branch : refs/heads/useracess
+Not expected branch : 
+Not expected branch : refs/heads/header
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/duytn/fix-missing-icon
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/duytn/fix-missing-icion
+Not expected branch : 
+Not expected branch : refs/heads/duytn/fix-missing-icon
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/duytn/fix-missing-icion
+Not expected branch : 
+Not expected branch : refs/heads/useracess
+Not expected branch : refs/heads/duytn/fix-missing-icion
+Fail to update develop of solazu-core
+Updating e0d6072..04fca7e
+Fast-forward
+ solazu-unyson/framework/extensions/optimization/config.php              | 1 +
+ .../framework/includes/option-types/icon/class-slz-option-type-icon.php | 2 +-
+ 2 files changed, 2 insertions(+), 1 deletion(-) 2 files changed, 2 insertions(+), 1 deletion(-)
+Not expected branch : 
+Updating 23f5794..948aac6
+Fast-forward
+ admin/controllers/AdminController.php      |  2 ++
+ admin/controllers/PermissionController.php | 30 ++++++++++++++++++++++++++++++
+ functions.php                              |  2 ++
+ 3 files changed, 34 insertions(+)
+ create mode 100644 admin/controllers/PermissionController.php create mode 100644 admin/controllers/PermissionController.php
+Not expected branch : refs/heads/useracess
+Fail to update develop of learn-master
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Updating 037c9b6..ec4130b
+Fast-forward
+ .../extensions/events/views/single.php             |  8 +++++-
+ .../extensions/portfolio/views/single.php          | 11 ++++++--
+ .../extensions/services/views/single.php           |  9 +++++-
+ .../extensions/widgets/static/css/widgets.css      |  6 ++--
+ .../extensions/widgets/static/css/widgets.scss     |  2 +-
+ code/theme/static/js/educhain-main.js              | 33 +++++++++++++++-------
+ 6 files changed, 50 insertions(+), 19 deletions(-) 6 files changed, 50 insertions(+), 19 deletions(-)
+Fail to update develop of education
+Updating ec4130b..333bb48
+Fast-forward
+ code/theme/setup/class-educhain-setup.php | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Updating 333bb48..c94a891
+Fast-forward
+ .../extensions/shortcodes/shortcodes/video/config.php                   | 2 +-
+ .../extensions/shortcodes/shortcodes/video/vc_options.php               | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/thanh/contact-form
+Not expected branch : refs/heads/thanh/contact-form
+Not expected branch : 
+Not expected branch : refs/heads/duytn/fix-missing-menu
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/duytn/fix-missing-menu
+Not expected branch : 
+Not expected branch : refs/heads/duytn/fix-missing-menu
+Updating c94a891..e76a71c
+Fast-forward
+ code/theme/header-none.php                  |  13 +++-
+ code/theme/header.php                       | 113 +++++++++++++++-------------
+ code/theme/includes/hooks.php               |  26 -------
+ code/theme/includes/menus.php               |  37 +++++----
+ code/theme/includes/static.php              |   7 +-
+ code/theme/plugins/js_composer.zip          | Bin 0 -> 5293114 bytes
+ code/theme/plugins/lema-affiliate.zip       | Bin 0 -> 2693930 bytes
+ code/theme/plugins/revslider.zip            | Bin 0 -> 7592878 bytes
+ code/theme/plugins/solazu-live-settings.zip |   0
+ 9 files changed, 98 insertions(+), 98 deletions(-)
+ mode change 100644 => 100755 code/theme/plugins/revslider.zip
+ delete mode 100644 code/theme/plugins/solazu-live-settings.zip delete mode 100644 code/theme/plugins/solazu-live-settings.zip
+Fail to update develop of education
+Not expected branch : refs/heads/hieutct/esc
+Updating e76a71c..07a0d88
+Fast-forward
+ .../icons-block/static/css/_icon-block.scss        | 30 ++++++----------------
+ code/theme/static/css/educhain-components.css      | 30 ++++++----------------
+ 2 files changed, 16 insertions(+), 44 deletions(-) 2 files changed, 16 insertions(+), 44 deletions(-)
+Fail to update develop of education
+Not expected branch : 
+Not expected branch : refs/heads/hieutct/fixresetquery
+Not expected branch : 
+Updating 07a0d88..a8294cc
+Fast-forward
+ code/theme/page-templates/coming-soon.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Fail to update develop of education
+Not expected branch : refs/heads/hieutct/fixresetquery
+Updating a8294cc..67728a8
+Fast-forward
+ .../extensions/events/includes/class-slz-event.php     |  1 -
+ .../shortcodes/event-carousel/views/layout-2.php       | 16 ++++++++--------
+ code/theme/setup/steps/generate-demo.php               | 18 +++++++++---------
+ code/theme/setup/steps/welcome.php                     | 12 ++++++------
+ 4 files changed, 23 insertions(+), 24 deletions(-) 4 files changed, 23 insertions(+), 24 deletions(-)
+Not expected branch : refs/heads/hieutct/esc
+Fail to update develop of education

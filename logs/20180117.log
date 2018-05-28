@@ -1,0 +1,28 @@
+Fail to update develop of education
+Not expected branch : refs/heads/thangpd/pricingbox
+Updating e0f37f6..2b6abf6
+Fast-forward
+ .../shortcodes/pricing-box/views/layout-1.php      | 26 +++++++++++++++++-----
+ 1 file changed, 20 insertions(+), 6 deletions(-) 1 file changed, 20 insertions(+), 6 deletions(-)
+Not expected branch : refs/heads/thangpd/scVideo
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/scVideo
+Fail to update develop of education
+Updating 2b6abf6..f8d7a05
+Fast-forward
+ .../shortcodes/shortcodes/video/config.php         |   3 +-
+ .../shortcodes/shortcodes/video/views/layout-3.php | 191 +++++++++++++++++++++
+ .../shortcodes/shortcodes/video/views/view.php     |   4 +
+ 3 files changed, 197 insertions(+), 1 deletion(-)
+ create mode 100644 code/theme/framework-customizations/extensions/shortcodes/shortcodes/video/views/layout-3.php create mode 100644 code/theme/framework-customizations/extensions/shortcodes/shortcodes/video/views/layout-3.php
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating f8d7a05..105714b
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 16 ++++++++++++++++
+ code/theme/static/css/lema-custom.scss |  7 +++++++
+ 2 files changed, 23 insertions(+) 2 files changed, 23 insertions(+)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm

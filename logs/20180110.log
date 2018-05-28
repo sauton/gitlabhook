@@ -1,0 +1,127 @@
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Updating bab7655..eb49767
+Fast-forward
+ .../theme/custom-color.php                         |   7 ++
+ code/theme/static/css/layout.css                   | 140 +++++++++++++++++++++
+ code/theme/static/css/layout.scss                  | 124 ++++++++++++++++++
+ code/theme/static/js/main.js                       |  13 +-
+ 4 files changed, 283 insertions(+), 1 deletion(-) 4 files changed, 283 insertions(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating eb49767..2fd6835
+Fast-forward
+ code/theme/static/css/layout.css  | 30 ++++++++++++++++++++----------
+ code/theme/static/css/layout.scss | 26 ++++++++++++++++----------
+ 2 files changed, 36 insertions(+), 20 deletions(-) 2 files changed, 36 insertions(+), 20 deletions(-)
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 2fd6835..c30021a
+Fast-forward
+ code/theme/static/css/layout.css  | 14 +++++++-------
+ code/theme/static/css/layout.scss | 14 +++++++-------
+ 2 files changed, 14 insertions(+), 14 deletions(-) 2 files changed, 14 insertions(+), 14 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Updating c30021a..9cb39fc
+Fast-forward
+ code/theme/static/css/layout.css  | 8 ++++----
+ code/theme/static/css/layout.scss | 8 ++++----
+ 2 files changed, 8 insertions(+), 8 deletions(-) 2 files changed, 8 insertions(+), 8 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 9cb39fc..4530dfe
+Fast-forward
+ code/theme/static/css/layout.css  | 23 +++++++++++++----------
+ code/theme/static/css/layout.scss | 23 +++++++++++++----------
+ 2 files changed, 26 insertions(+), 20 deletions(-) 2 files changed, 26 insertions(+), 20 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 4530dfe..a24a301
+Fast-forward
+ code/theme/static/css/layout.css  | 41 ++++++---------------------------------
+ code/theme/static/css/layout.scss | 40 +++++++-------------------------------
+ code/theme/static/js/main.js      |  6 +++---
+ 3 files changed, 16 insertions(+), 71 deletions(-) 3 files changed, 16 insertions(+), 71 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating a24a301..e428da0
+Fast-forward
+ code/theme/static/css/layout.css  | 20 ++------------------
+ code/theme/static/css/layout.scss | 19 ++-----------------
+ 2 files changed, 4 insertions(+), 35 deletions(-) 2 files changed, 4 insertions(+), 35 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating e428da0..eb2b8f0
+Fast-forward
+ code/theme/static/css/layout.css  | 2 --
+ code/theme/static/css/layout.scss | 2 --
+ 2 files changed, 4 deletions(-) 2 files changed, 4 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating eb2b8f0..cfde073
+Fast-forward
+ code/theme/static/css/layout.css  | 4 ++--
+ code/theme/static/css/layout.scss | 4 ++--
+ 2 files changed, 4 insertions(+), 4 deletions(-) 2 files changed, 4 insertions(+), 4 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating cfde073..dad4d28
+Fast-forward
+ code/theme/static/css/layout.css  | 3 ++-
+ code/theme/static/css/layout.scss | 3 ++-
+ 2 files changed, 4 insertions(+), 2 deletions(-) 2 files changed, 4 insertions(+), 2 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating dad4d28..2b8c2d7
+Fast-forward
+ code/theme/static/css/layout.css  | 4 +++-
+ code/theme/static/css/layout.scss | 4 +++-
+ 2 files changed, 6 insertions(+), 2 deletions(-) 2 files changed, 6 insertions(+), 2 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 2b8c2d7..add79f9
+Fast-forward
+ code/theme/static/css/layout.css  | 6 +++++-
+ code/theme/static/css/layout.scss | 5 ++++-
+ code/theme/static/js/main.js      | 9 +++++----
+ 3 files changed, 14 insertions(+), 6 deletions(-) 3 files changed, 14 insertions(+), 6 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/thangpd/categorylist
+Not expected branch : refs/heads/thangpd/categorylist
+Not expected branch : 
+Not expected branch : 
+Not expected branch : 

@@ -1,0 +1,41 @@
+Not expected branch : refs/heads/thangpd/eventsetting
+Fail to update develop of education
+Updating 28b309c..314189a
+Fast-forward
+ .../extensions/events/views/single.php             | 67 +++++++++++++++++++++-
+ .../extensions/portfolio/hooks.php                 |  4 +-
+ .../theme/options/post-settings.php                | 64 +++++++++++++++++++++
+ code/theme/includes/implement-options.php          |  4 +-
+ 4 files changed, 133 insertions(+), 6 deletions(-) 4 files changed, 133 insertions(+), 6 deletions(-)
+Not expected branch : refs/heads/thangpd/postsetting
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/postsetting
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/postsetting
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/postsetting
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/postsetting
+Fail to update develop of education
+Updating 314189a..a43a9a0
+Fast-forward
+ .../posts/posts/post-01/views/related_item.php     | 43 ++++++++------------
+ .../posts/posts/post-02/views/related_item.php     | 46 ++++++++--------------
+ .../extensions/posts/posts/post-02/views/view.php  |  2 +-
+ .../posts/posts/post-03/views/related_item.php     | 44 ++++++++-------------
+ .../extensions/posts/posts/post-03/views/view.php  |  1 -
+ .../posts/posts/post-04/views/related_item.php     | 40 ++++++-------------
+ .../extensions/posts/posts/post-04/views/view.php  |  3 +-
+ .../posts/posts/post-05/views/related_item.php     | 42 ++++++--------------
+ .../theme/options/post-settings.php                |  3 +-
+ 9 files changed, 79 insertions(+), 145 deletions(-) 9 files changed, 79 insertions(+), 145 deletions(-)
+Not expected branch : refs/heads/thangpd/postsetting
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/postsetting
+Updating a43a9a0..922ae2b
+Fast-forward
+ .../extensions/posts/posts/post-03/views/view.php                        | 1 +
+ 1 file changed, 1 insertion(+) 1 file changed, 1 insertion(+)
+Fail to update develop of education
+Not expected branch : refs/heads/thangpd/postsetting
+Not expected branch : 

@@ -1,0 +1,105 @@
+Not expected branch : refs/heads/duytn/fix-counter-v2-js
+Not expected branch : 
+Not expected branch : refs/heads/hieutct/structer
+Not expected branch : 
+Not expected branch : refs/heads/duytn/fix-counter-v2-js
+Fail to update develop of education
+Updating ce544d9..e64c226
+Fast-forward
+ .../extensions/shortcodes/shortcodes/counterv2/static/js/counterv2.js   | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/tailm/fix_css
+Not expected branch : 
+Updating e64c226..cfa19ce
+Fast-forward
+ .../posts-carousel/static/js/posts-carousel.js     | 38 +++++-----
+ code/theme/static/css/lema-custom.css              | 81 ++++++++++++++++++++++
+ code/theme/static/css/lema-custom.scss             | 61 ++++++++++++++++
+ 3 files changed, 163 insertions(+), 17 deletions(-) 3 files changed, 163 insertions(+), 17 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/tailm/fix_css
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Updating cfa19ce..5d990ad
+Fast-forward
+ .../extensions/events/includes/class-slz-event.php |  22 +--
+ .../events/shortcodes/event-carousel/config.php    |   1 +
+ .../shortcodes/event-carousel/options/layout-3.php |  21 ++
+ .../event-carousel/static/css/event-carousel.css   | 198 ++++++++++++++++++-
+ .../event-carousel/static/css/event-carousel.scss  | 219 ++++++++++++++++++---
+ .../shortcodes/event-carousel/vc_options.php       |  12 ++
+ .../shortcodes/event-carousel/views/layout-1.php   |   2 -
+ .../shortcodes/event-carousel/views/layout-3.php   | 155 ++++++++-------
+ code/theme/static/css/layout.css                   |  11 ++
+ code/theme/static/css/layout.scss                  |  11 +-
+ code/theme/static/css/lema-custom.css              |  14 +-
+ code/theme/static/css/lema-custom.scss             |  12 +-
+ code/theme/static/js/lema-custom.js                |  10 +-
+ 13 files changed, 567 insertions(+), 121 deletions(-)
+ create mode 100644 code/theme/framework-customizations/extensions/events/shortcodes/event-carousel/options/layout-3.php create mode 100644 code/theme/framework-customizations/extensions/events/shortcodes/event-carousel/options/layout-3.php
+Already up-to-date.Already up-to-date.
+Updating 5d990ad..d6508a2
+Fast-forward
+ code/theme/static/css/educhain-components.css | 9 ++++++++-
+ 1 file changed, 8 insertions(+), 1 deletion(-) 1 file changed, 8 insertions(+), 1 deletion(-)
+Fail to update develop of education
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/tailm/fix_css
+Updating d6508a2..dbf1aba
+Fast-forward
+ .../lema/shortcodes/slz-shortcode-lema-course-list-filtered.php      | 5 +++--
+ code/theme/static/font/font-icon/font-awesome/css/font-awesome.css   | 4 ++--
+ .../static/font/font-icon/font-awesome/css/font-awesome.min.css      | 2 +-
+ code/theme/static/font/font-icon/ionicons-2.0.1/css/ionicons.css     | 2 +-
+ code/theme/static/font/font-icon/ionicons-2.0.1/css/ionicons.min.css | 2 +-
+ 5 files changed, 8 insertions(+), 7 deletions(-) 5 files changed, 8 insertions(+), 7 deletions(-)
+Not expected branch : refs/heads/master
+Not expected branch : refs/heads/master
+Updating dbf1aba..24b359e
+Fast-forward
+ code/theme/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/hieutct/changelog
+Not expected branch : 
+Fail to update develop of education
+Updating 24b359e..982a2f1
+Fast-forward
+ code/theme/change_log.txt                          |  19 +++++++++++++++++++
+ .../theme/views/change-log.php                     |  12 ++++++++++++
+ code/theme/screenshot.png                          | Bin 811493 -> 936822 bytes
+ 3 files changed, 31 insertions(+) 3 files changed, 31 insertions(+)
+Not expected branch : refs/heads/hieutct/changelog
+Not expected branch : 
+Not expected branch : refs/heads/master
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 982a2f1..da6d6a4
+Fast-forward
+ .../extensions/posts/posts/post-01/views/view.php  |   12 +-
+ .../extensions/posts/posts/post-02/views/view.php  |    8 +-
+ .../extensions/posts/posts/post-03/views/view.php  |    8 +-
+ .../extensions/posts/posts/post-04/views/view.php  |   10 +-
+ .../extensions/posts/posts/post-05/views/view.php  |   11 +-
+ .../theme/options/general-settings.php             |   14 +
+ code/theme/static/css/lema-custom.scss             |    3 +
+ code/theme/static/js/educhain-main.js              | 2036 +++++++++++---------
+ 8 files changed, 1162 insertions(+), 940 deletions(-) 8 files changed, 1162 insertions(+), 940 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating da6d6a4..bd2a9ce
+Fast-forward
+ code/theme/static/css/educhain-components.css | 9 +--------
+ code/theme/static/css/lema-custom.css         | 4 ++++
+ 2 files changed, 5 insertions(+), 8 deletions(-) 2 files changed, 5 insertions(+), 8 deletions(-)
+Updating 1b17b1d..d006a3d
+Fast-forward
+ solazu-live-settings/inc/SLZ_Live_Settings.php | 34 +++++++++++++++-----------
+ 1 file changed, 20 insertions(+), 14 deletions(-) 1 file changed, 20 insertions(+), 14 deletions(-)

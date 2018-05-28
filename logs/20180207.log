@@ -1,0 +1,45 @@
+Not expected branch : refs/heads/tai_abc
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Updating 28743a0..8b7fdbe
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-) 1 file changed, 3 insertions(+), 1 deletion(-)
+Updating 8b7fdbe..c0f6bd9
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating c0f6bd9..76d6450
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 76d6450..d8bc670
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating d8bc670..efd7253
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-) 1 file changed, 2 insertions(+), 1 deletion(-)
+Updating efd7253..3c665e4
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-) 1 file changed, 3 insertions(+), 1 deletion(-)
+Updating 3c665e4..c532654
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating c532654..317d51a
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-) 1 file changed, 5 insertions(+), 1 deletion(-)
+Updating 317d51a..43a4c15
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-) 1 file changed, 2 insertions(+), 1 deletion(-)
+Updating 43a4c15..bc07f5f
+Fast-forward
+ .../extensions/widgets/static/css/widgets.css                         | 3 +--
+ .../extensions/widgets/static/css/widgets.scss                        | 3 +--
+ code/theme/static/css/educhain-woocommerce.css                        | 4 ++--
+ 3 files changed, 4 insertions(+), 6 deletions(-) 3 files changed, 4 insertions(+), 6 deletions(-)

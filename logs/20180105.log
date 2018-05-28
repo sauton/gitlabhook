@@ -1,0 +1,132 @@
+Not expected branch : 
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/footer
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/footer
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/header
+Not expected branch : 
+Not expected branch : 
+Not expected branch : 
+Fail to update develop of education
+Not expected branch : refs/heads/thangpd/footer
+Updating 01a2928..f102526
+Fast-forward
+ .../footers/footers/footer-01/options.php          |  6 ++++++
+ .../footers/footers/footer-01/views/view.php       | 24 +++++++++++++++++++---
+ .../footers/footers/footer-02/options.php          |  6 ++++++
+ .../footers/footers/footer-02/views/view.php       | 22 ++++++++++++++++++--
+ .../footers/footers/footer-03/options.php          |  6 ++++++
+ .../footers/footers/footer-03/views/view.php       | 22 ++++++++++++++++++--
+ .../footers/footers/footer-04/options.php          |  6 ++++++
+ .../footers/footers/footer-04/views/view.php       | 21 +++++++++++++++++--
+ .../headers/headers/header-09/config.php           |  1 +
+ 9 files changed, 105 insertions(+), 9 deletions(-) 9 files changed, 105 insertions(+), 9 deletions(-)
+Not expected branch : refs/heads/thangpd/header
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/header
+Fail to update develop of education
+Updating f102526..156a2ae
+Fast-forward
+ .../extensions/headers/headers/header-09/config.php                 | 3 ++-
+ .../extensions/headers/headers/header-09/views/view.php             | 6 +++++-
+ 2 files changed, 7 insertions(+), 2 deletions(-) 2 files changed, 7 insertions(+), 2 deletions(-)
+Updating 156a2ae..79f6fa5
+Fast-forward
+ code/theme/export/class-educhain-export.php | 20 ++++++++++++++++----
+ 1 file changed, 16 insertions(+), 4 deletions(-) 1 file changed, 16 insertions(+), 4 deletions(-)
+Updating 79f6fa5..0237bf0
+Fast-forward
+ code/theme/includes/hooks.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/thangpd/404page
+Not expected branch : 
+Not expected branch : 
+Fail to update develop of solazu-live-settings
+Not expected branch : refs/heads/thangpd/categorylist
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/404page
+Fail to update develop of education
+Updating 0237bf0..1d9d3ec
+Fast-forward
+ code/theme/404.php                                 | 33 +++++++++++--
+ .../theme/options/page-404-settings.php            | 56 ++++++++++++++++++++--
+ 2 files changed, 82 insertions(+), 7 deletions(-) 2 files changed, 82 insertions(+), 7 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/thangpd/categorylist
+Updating 1d9d3ec..e49167b
+Fast-forward
+ .../slz-shortcode-lema-category-list.php           | 17 ++++-
+ .../views/lema_category_list/la-united-kingdom.php | 81 ++++++++++++++++++++++
+ 2 files changed, 97 insertions(+), 1 deletion(-)
+ create mode 100644 code/theme/framework-customizations/extensions/lema/shortcodes/views/lema_category_list/la-united-kingdom.php create mode 100644 code/theme/framework-customizations/extensions/lema/shortcodes/views/lema_category_list/la-united-kingdom.php
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating e49167b..3a2d739
+Fast-forward
+ .../pricing-box/static/css/pricing-box.css         | 116 +++++++++++++++++++++
+ .../pricing-box/static/css/pricing-box.scss        |  99 ++++++++++++++++++
+ .../theme/custom-color.php                         |  12 +++
+ code/theme/library.scss                            |   1 +
+ code/theme/static/css/lema-custom.css              |   7 ++
+ code/theme/static/css/lema-custom.scss             |  10 ++
+ 6 files changed, 245 insertions(+) 6 files changed, 245 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 3a2d739..1c01cc6
+Fast-forward
+ code/theme/static/css/layout.css  | 29 +++++++++++++++++++++++++++++
+ code/theme/static/css/layout.scss | 21 +++++++++++++++++++++
+ 2 files changed, 50 insertions(+) 2 files changed, 50 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 1c01cc6..a73abf5
+Fast-forward
+ code/theme/static/css/layout.css  | 6 +++---
+ code/theme/static/css/layout.scss | 2 +-
+ 2 files changed, 4 insertions(+), 4 deletions(-) 2 files changed, 4 insertions(+), 4 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating a73abf5..5c00992
+Fast-forward
+ code/theme/static/css/layout.css  | 4 ++++
+ code/theme/static/css/layout.scss | 1 +
+ 2 files changed, 5 insertions(+) 2 files changed, 5 insertions(+)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Updating 5c00992..de81c6f
+Fast-forward
+ code/theme/static/css/layout.css  | 12 ++++++------
+ code/theme/static/css/layout.scss |  6 +++---
+ 2 files changed, 9 insertions(+), 9 deletions(-) 2 files changed, 9 insertions(+), 9 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Fail to update develop of education
+Updating de81c6f..bdd4e88
+Fast-forward
+ code/theme/static/css/layout.css  | 13 +++++++------
+ code/theme/static/css/layout.scss |  7 ++++---
+ 2 files changed, 11 insertions(+), 9 deletions(-) 2 files changed, 11 insertions(+), 9 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating bdd4e88..b375962
+Fast-forward
+ code/theme/static/css/layout.css  | 8 ++++----
+ code/theme/static/css/layout.scss | 2 +-
+ 2 files changed, 5 insertions(+), 5 deletions(-) 2 files changed, 5 insertions(+), 5 deletions(-)
+Fail to update develop of education

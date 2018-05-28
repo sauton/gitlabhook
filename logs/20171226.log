@@ -1,0 +1,36 @@
+Not expected branch : refs/heads/thangpd/sevices
+Not expected branch : 
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/postCarousel
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/postCarousel
+Fail to update develop of education
+Not expected branch : refs/heads/thangpd/PostCarousel
+Updating 2a9c9ed..1d82e6c
+Fast-forward
+ code/theme/static/js/educhain-main.js | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-) 1 file changed, 4 insertions(+), 4 deletions(-)
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/sevices
+Fail to update develop of education
+Updating 1d82e6c..b403250
+Fast-forward
+ .../extensions/services/static/js/slz-services-js.js                | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-) 1 file changed, 5 insertions(+), 1 deletion(-)
+Fail to update develop of solazu-core
+Not expected branch : refs/heads/thangpd/PostCarousel
+Updating fb25c79..c1477e0
+Fast-forward
+ .../templates/templates/post-format-gallery/views/view.php           | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-) 1 file changed, 3 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/master
+Not expected branch : refs/heads/master
+Notthing
+Not expected branch : refs/heads/master
+Not expected branch : refs/heads/master
+Fail to update develop of designart
+Already up-to-date.Already up-to-date.
+Fail to update develop of designart
+Already up-to-date.Already up-to-date.
+Fail to update develop of designart

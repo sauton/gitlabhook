@@ -1,0 +1,13 @@
+Updating 0ce8159..1f45916
+Fast-forward
+ .../class-slz-widget-category-course.php           | 81 ----------------------
+ .../widgets/widgets/category-course/config.php     | 19 -----
+ .../widgets/widgets/category-course/static.php     |  3 -
+ .../widgets/category-course/views/admin.php        | 55 ---------------
+ .../widgets/category-course/views/front.php        | 78 ---------------------
+ 5 files changed, 236 deletions(-)
+ delete mode 100644 code/framework-customizations/extensions/widgets/widgets/category-course/class-slz-widget-category-course.php
+ delete mode 100644 code/framework-customizations/extensions/widgets/widgets/category-course/config.php
+ delete mode 100644 code/framework-customizations/extensions/widgets/widgets/category-course/static.php
+ delete mode 100644 code/framework-customizations/extensions/widgets/widgets/category-course/views/admin.php
+ delete mode 100644 code/framework-customizations/extensions/widgets/widgets/category-course/views/front.php delete mode 100644 code/framework-customizations/extensions/widgets/widgets/category-course/views/front.php

@@ -1,0 +1,191 @@
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 3597424..67d22fa
+Fast-forward
+ .../statics/css/scholarship-block.css              | 173 ++++++++++++++++++++-
+ .../statics/css/scholarship-block.scss             | 143 ++++++++++++++++-
+ .../scholarship-block/statics/js/scholarship.js    |  23 ++-
+ .../shortcodes/scholarship-block/views/item.php    |  44 ++++--
+ 4 files changed, 363 insertions(+), 20 deletions(-) 4 files changed, 363 insertions(+), 20 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/hotfix/1.1.8
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Updating 67d22fa..5fc6806
+Fast-forward
+ code/theme/default-templates/author-bio.php                  |  2 +-
+ .../shortcodes/posts-block/static/css/_posts-block.scss      | 11 ++++++++++-
+ code/theme/static/css/educhain-components.css                |  9 ++++++++-
+ code/theme/static/css/layout.css                             |  6 ++++++
+ code/theme/static/css/layout.scss                            |  3 +++
+ code/theme/style.css                                         | 12 ------------
+ 6 files changed, 28 insertions(+), 15 deletions(-) 6 files changed, 28 insertions(+), 15 deletions(-)
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/hieutct/extension_scholarship
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 5fc6806..e9e789d
+Fast-forward
+ .../shortcodes/shortcodes/partner/config.php       |   3 +-
+ .../shortcodes/partner/static/css/partner.css      |  70 ++++
+ .../shortcodes/partner/static/css/partner.scss     | 400 ++++++++++++---------
+ .../shortcodes/shortcodes/partner/vc_options.php   |  26 +-
+ .../theme/custom-color.php                         |  11 +-
+ 5 files changed, 324 insertions(+), 186 deletions(-) 5 files changed, 324 insertions(+), 186 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Updating e9e789d..1bee119
+Fast-forward
+ .../shortcodes/counterv2/static/css/counterv2.css         | 15 ++++++---------
+ .../shortcodes/counterv2/static/css/counterv2.scss        | 14 +++++++-------
+ 2 files changed, 13 insertions(+), 16 deletions(-) 2 files changed, 13 insertions(+), 16 deletions(-)
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 1bee119..edbe78e
+Fast-forward
+ .../shortcodes/item-list/static/css/item-list.css  |   40 +
+ .../shortcodes/item-list/static/css/item-list.scss | 1048 ++++++++++----------
+ .../shortcodes/shortcodes/item-list/vc_options.php |    3 +-
+ .../shortcodes/partner/static/css/partner.css      |    1 -
+ .../shortcodes/partner/static/css/partner.scss     |    1 -
+ .../shortcodes/partner/static/js/partner.js        |   11 +-
+ .../theme/custom-color.php                         |    4 +
+ 7 files changed, 598 insertions(+), 510 deletions(-) 7 files changed, 598 insertions(+), 510 deletions(-)
+Not expected branch : refs/heads/hieutct/extension_scholarship
+Not expected branch : refs/heads/hieutct/extension_scholarship
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Updating edbe78e..a209f9e
+Fast-forward
+ .../posts-carousel/static/css/posts-carousel.css   |   35 +-
+ .../posts-carousel/static/css/posts-carousel.scss  | 1369 ++++++++++----------
+ .../theme/custom-color.php                         |    8 +
+ code/theme/static/css/layout.css                   |    5 +
+ code/theme/static/css/layout.scss                  |    5 +-
+ 5 files changed, 713 insertions(+), 709 deletions(-) 5 files changed, 713 insertions(+), 709 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating a209f9e..ed031f4
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 1 -
+ 1 file changed, 1 deletion(-) 1 file changed, 1 deletion(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/hotfix/1.1.8
+Not expected branch : 
+Updating ed031f4..34badb8
+Fast-forward
+ .../contact-form/static/css/_contact-form.scss     | 1499 ++++++++++----------
+ .../theme/custom-color.php                         |   14 +-
+ code/theme/static/css/educhain-components.css      |   10 +
+ 3 files changed, 776 insertions(+), 747 deletions(-) 3 files changed, 776 insertions(+), 747 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/hotfix/1.1.8
+Not expected branch : refs/heads/hotfix/1.1.8
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 34badb8..221540c
+Fast-forward
+ .../shortcodes/shortcodes/item-list/static/css/item-list.css   |  8 ++++++--
+ .../shortcodes/shortcodes/item-list/static/css/item-list.scss  |  6 +++---
+ .../shortcodes/shortcodes/video/static/css/_video.scss         |  1 -
+ code/theme/framework-customizations/theme/custom-color.php     | 10 ++++++++++
+ code/theme/static/css/educhain-components.css                  |  1 -
+ 5 files changed, 19 insertions(+), 7 deletions(-) 5 files changed, 19 insertions(+), 7 deletions(-)
+Not expected branch : refs/heads/hotfix/1.1.8
+Not expected branch : refs/heads/hotfix/1.1.8
+Not expected branch : refs/heads/hotfix/1.1.8
+Not expected branch : refs/heads/hotfix/1.1.8
+Not expected branch : refs/heads/hotfix/1.1.8
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Updating 221540c..0a4c0ab
+Fast-forward
+ .../posts-carousel/static/css/posts-carousel.css       | 16 +++++++++++++---
+ .../posts-carousel/static/css/posts-carousel.scss      | 11 +++++++++--
+ .../shortcodes/posts-carousel/views/large_module.php   |  3 ++-
+ .../testimonials/shortcodes/testimonial/config.php     |  2 ++
+ .../shortcodes/testimonial/options/layout-2.php        | 18 ++++++++++++++++++
+ .../shortcodes/testimonial/views/layout-2.php          | 10 ++++++++--
+ .../framework-customizations/theme/custom-color.php    |  7 +++++--
+ 7 files changed, 57 insertions(+), 10 deletions(-) 7 files changed, 57 insertions(+), 10 deletions(-)
+Fail to update develop of education
+Updating 0a4c0ab..363e806
+Fast-forward
+ code/theme/404.php                                 |   2 +-
+ code/theme/default-templates/author-bio.php        |   2 +-
+ code/theme/default-templates/page.php              |   4 +-
+ .../extensions/events/includes/class-slz-event.php |   2 +-
+ .../extensions/events/views/single.php             |   3 --
+ .../shortcodes/gallery-carousel/views/layout-1.php |   2 +-
+ .../shortcodes/gallery-carousel/views/layout-2.php |   6 +--
+ .../shortcodes/gallery-carousel/views/layout-3.php |   4 +-
+ .../shortcodes/gallery-carousel/views/layout-4.php |   4 +-
+ .../shortcodes/gallery-carousel/views/layout-5.php |   2 +-
+ .../shortcodes/gallery-carousel/views/layout-6.php |   4 +-
+ .../gallery-masonry/views/block-gallery.php        |   2 +-
+ .../gallery-masonry/views/block-portfolio.php      |   2 +-
+ .../headers/headers/header-09/views/menu.php       |   3 +-
+ .../shortcodes/instagram/views/view-grid.php       |   2 +-
+ .../shortcodes/instagram/views/view-slider.php     |   2 +-
+ .../lema/includes/SLZ_Lema_Shortcode.php           |   7 +++-
+ .../lema/includes/class-slz-lema-course.php        |   2 +-
+ .../shortcodes/featured-course/views/layout-1.php  |   2 +-
+ .../shortcodes/featured-course/views/layout-2.php  |   2 +-
+ .../new-tweet/shortcodes/new-tweet/views/item.php  |   2 +
+ .../extensions/portfolio/views/gallery-item.php    |   2 +-
+ .../extensions/services/views/gallery-item.php     |   2 +-
+ .../shortcodes/button/views/layout-2.php           |   2 +-
+ .../statics/js/content-carousel.js                 |   1 +
+ .../shortcodes/counterv2/views/layout-1.php        |   2 +-
+ .../shortcodes/counterv2/views/layout-2.php        |   2 +-
+ .../shortcodes/icons-block/views/layout-1.php      |   2 +-
+ .../shortcodes/icons-block/views/layout-2.php      |   2 +-
+ .../shortcodes/icons-block/views/layout-3.php      |   2 +-
+ .../shortcodes/icons-block/views/layout-4.php      |   2 +-
+ .../shortcodes/shortcodes/map/static/js/map.js     |   1 +
+ .../shortcodes/pricing-box/views/layout-4.php      |   2 +-
+ .../shortcodes/video-carousel/views/view.php       |   6 +--
+ .../shortcodes/video-list/views/block-item.php     |   2 +-
+ .../shortcodes/video-list/views/view.php           |   2 +-
+ .../shortcodes/shortcodes/video/views/layout-1.php |  28 +++++++++++---
+ .../shortcodes/shortcodes/video/views/layout-2.php |  42 +++++++++++++++------
+ .../widgets/button/class-slz-widget-button.php     |   1 +
+ .../widgets/partner/class-slz-widget-partner.php   |   1 +
+ .../theme/options/theme-requirements.php           |   2 +-
+ .../theme/views/welcome.php                        |   8 ++--
+ code/theme/includes/class-breadcrumb.php           |  23 +++++------
+ .../theme/includes/class-tgm-plugin-activation.php |   2 +-
+ code/theme/includes/helpers.php                    |   8 ++--
+ code/theme/plugins/js_composer.zip                 | Bin 5293114 -> 5294011 bytes
+ code/theme/setup/class-educhain-setup.php          |   3 +-
+ code/theme/setup/layout.php                        |   4 +-
+ code/theme/setup/steps/select-template.php         |   2 +-
+ code/theme/setup/steps/select-template/item.php    |   2 +-
+ code/theme/static/js/educhain-main.js              |   2 +-
+ code/theme/static/js/login.js                      |   1 +
+ code/theme/static/libs/circle-progress.js          |   1 +
+ code/theme/style.css                               |   6 ++-
+ 54 files changed, 140 insertions(+), 89 deletions(-) 54 files changed, 140 insertions(+), 89 deletions(-)
+Not expected branch : refs/heads/luctc

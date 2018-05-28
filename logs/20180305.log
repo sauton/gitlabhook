@@ -1,0 +1,63 @@
+Not expected branch : refs/heads/master
+Updating 9c22c13..b507af8
+Fast-forward
+ assets/scripts/resource-category.js                |  97 ++++++++
+ includes/classes/Hooks.php                         |   8 +-
+ .../admin/controllers/ResourceController.php       |  16 +-
+ .../front/controllers/ResourceFrontController.php  |  61 ++++-
+ .../classes/front/views/resourcefront/_filter.php  |  56 +++++
+ .../classes/front/views/resourcefront/_result.php  | 170 +++++++++++++
+ .../classes/front/views/resourcefront/view.php     | 264 +++++----------------
+ includes/classes/model/ResourceModel.php           |  20 +-
+ 8 files changed, 461 insertions(+), 231 deletions(-)
+ create mode 100644 assets/scripts/resource-category.js
+ create mode 100644 includes/classes/front/views/resourcefront/_filter.php
+ create mode 100644 includes/classes/front/views/resourcefront/_result.php create mode 100644 includes/classes/front/views/resourcefront/_result.php
+Updating b507af8..448b6a4
+Fast-forward
+ includes/classes/Hooks.php                         |  3 +-
+ .../classes/front/views/resourcefront/_filter.php  |  2 +-
+ .../classes/front/views/resourcefront/_result.php  | 93 ++++++++--------------
+ .../classes/front/views/resourcefront/view.php     |  3 +-
+ includes/classes/model/ResourceModel.php           |  6 +-
+ 5 files changed, 38 insertions(+), 69 deletions(-) 5 files changed, 38 insertions(+), 69 deletions(-)
+Updating ebe539b..1185581
+Fast-forward
+ front/controllers/SearchController.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 1800280..0b63520
+Fast-forward
+ .../theme/options/page-header-settings.php         |  46 ---
+ code/theme/includes/helpers.php                    |  18 +-
+ code/theme/includes/implement-options.php          | 379 +++++++++++----------
+ 3 files changed, 207 insertions(+), 236 deletions(-) 3 files changed, 207 insertions(+), 236 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Updating 0b63520..2b6e7bc
+Fast-forward
+ code/theme/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 2b6e7bc..4309c01
+Fast-forward
+ .../shortcodes/contact/views/layout-2.php          | 17 ++++++++----
+ .../shortcodes/contact/views/layout-3.php          | 31 +++++++++++++---------
+ 2 files changed, 31 insertions(+), 17 deletions(-) 2 files changed, 31 insertions(+), 17 deletions(-)
+Updating 1185581..0f1428c
+Fast-forward
+ front/views/search/_result.php | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-) 1 file changed, 3 insertions(+), 1 deletion(-)
+Updating 448b6a4..56c4a07
+Fast-forward
+ includes/classes/Hooks.php | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-) 1 file changed, 7 insertions(+), 1 deletion(-)
+Updating 0f1428c..3acd664
+Fast-forward
+ front/views/search/_result.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 3acd664..afe502f
+Fast-forward
+ front/controllers/SearchController.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating afe502f..7533847
+Fast-forward
+ front/views/search/_result.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)

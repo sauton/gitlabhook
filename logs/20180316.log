@@ -1,0 +1,152 @@
+Updating b392ed6..df8e5a0
+Fast-forward
+ front/views/instructor/profile.php | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-) 1 file changed, 3 insertions(+), 1 deletion(-)
+Updating df8e5a0..c50c0a6
+Fast-forward
+ front/views/instructor/profile.php | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-) 1 file changed, 3 insertions(+), 3 deletions(-)
+Updating cee388e..1eeb474
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 2 +-
+ code/theme/static/css/lema-custom.css                      | 2 +-
+ code/theme/static/css/lema-custom.scss                     | 2 +-
+ 3 files changed, 3 insertions(+), 3 deletions(-) 3 files changed, 3 insertions(+), 3 deletions(-)
+Updating 1eeb474..e3c339a
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating e3c339a..3c761a5
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 3 +++
+ 1 file changed, 3 insertions(+) 1 file changed, 3 insertions(+)
+Updating 3c761a5..5c1fe59
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 2 ++
+ code/theme/static/css/lema-custom.scss | 2 ++
+ 2 files changed, 4 insertions(+) 2 files changed, 4 insertions(+)
+Updating 5c1fe59..8eea9bc
+Fast-forward
+ .../lema/shortcodes/course-collection/static/css/course-collection.css   | 1 +
+ .../lema/shortcodes/course-collection/static/css/course-collection.scss  | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Updating 8eea9bc..c1e3ca3
+Fast-forward
+ .../course-collection/static/css/course-collection.css         | 10 +++++-----
+ .../course-collection/static/css/course-collection.scss        |  4 ++--
+ 2 files changed, 7 insertions(+), 7 deletions(-) 2 files changed, 7 insertions(+), 7 deletions(-)
+Updating c1e3ca3..067a5f1
+Fast-forward
+ code/theme/style.css | 1 +
+ 1 file changed, 1 insertion(+) 1 file changed, 1 insertion(+)
+Updating c50c0a6..5b73ed8
+Fast-forward
+ front/views/instructor/profile.php | 21 ++++++++++++---------
+ 1 file changed, 12 insertions(+), 9 deletions(-) 1 file changed, 12 insertions(+), 9 deletions(-)
+Updating 067a5f1..b2c0711
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 12 +++++++++++-
+ code/theme/static/css/lema-custom.scss |  8 +++++++-
+ 2 files changed, 18 insertions(+), 2 deletions(-) 2 files changed, 18 insertions(+), 2 deletions(-)
+Updating 5b73ed8..d6c4c1a4
+Fast-forward
+ front/views/instructor/profile.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating b2c0711..70589bc
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 28 ++++++++++++++++++++++++----
+ code/theme/static/css/lema-custom.scss | 23 +++++++++++++++++++++--
+ 2 files changed, 45 insertions(+), 6 deletions(-) 2 files changed, 45 insertions(+), 6 deletions(-)
+Updating 70589bc..dc33e14
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 41 +++++++++++++---------------------
+ code/theme/static/css/lema-custom.scss | 33 +++++++++------------------
+ 2 files changed, 27 insertions(+), 47 deletions(-) 2 files changed, 27 insertions(+), 47 deletions(-)
+Already up-to-date.Already up-to-date.
+Updating dc33e14..5bccd8e
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 12 ++++++------
+ code/theme/static/css/lema-custom.scss | 21 ++++++++++++---------
+ 2 files changed, 18 insertions(+), 15 deletions(-) 2 files changed, 18 insertions(+), 15 deletions(-)
+Already up-to-date.Already up-to-date.
+Updating 5bccd8e..f16cd6e
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 2 +-
+ code/theme/static/css/lema-custom.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating f16cd6e..a9b8886
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 1 +
+ 1 file changed, 1 insertion(+) 1 file changed, 1 insertion(+)
+Updating a9b8886..617d60e
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 2 ++
+ code/theme/static/css/lema-custom.scss | 2 ++
+ 2 files changed, 4 insertions(+) 2 files changed, 4 insertions(+)
+Updating 617d60e..fcc3150
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 2 ++
+ code/theme/static/css/lema-custom.scss | 2 ++
+ 2 files changed, 4 insertions(+) 2 files changed, 4 insertions(+)
+Updating fcc3150..db6005f
+Fast-forward
+ code/theme/static/css/lema-custom.css  |  6 +++++-
+ code/theme/static/css/lema-custom.scss | 12 +++++++++++-
+ 2 files changed, 16 insertions(+), 2 deletions(-) 2 files changed, 16 insertions(+), 2 deletions(-)
+Updating db6005f..55b728c
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 2 +-
+ code/theme/static/css/lema-custom.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 55b728c..91f7f44
+Fast-forward
+ code/theme/static/css/educhain-components.css  | 3 ++-
+ code/theme/static/css/educhain-components.scss | 3 ++-
+ 2 files changed, 4 insertions(+), 2 deletions(-) 2 files changed, 4 insertions(+), 2 deletions(-)
+Updating 91f7f44..b4b50bf
+Fast-forward
+ .../extensions/widgets/static/css/widgets.css                         | 4 ++--
+ .../extensions/widgets/static/css/widgets.scss                        | 4 ++--
+ 2 files changed, 4 insertions(+), 4 deletions(-) 2 files changed, 4 insertions(+), 4 deletions(-)
+Not expected branch : refs/heads/tailmsearch
+Not expected branch : 
+Not expected branch : refs/heads/tailmsearch
+Updating d6c4c1a4..4c67e5d
+Fast-forward
+ front/assets/css/tab-filter.css |  8 +++++---
+ front/views/search/_result.php  | 34 ++++++++++++++++++++++++----------
+ 2 files changed, 29 insertions(+), 13 deletions(-) 2 files changed, 29 insertions(+), 13 deletions(-)
+Fail to update develop of learn-master
+Updating 4c67e5d..62edd09
+Fast-forward
+ front/views/search/_result.php | 25 +++++++++++--------------
+ 1 file changed, 11 insertions(+), 14 deletions(-) 1 file changed, 11 insertions(+), 14 deletions(-)
+Updating 62edd09..215b067
+Fast-forward
+ front/views/search/_result.php | 10 ----------
+ 1 file changed, 10 deletions(-) 1 file changed, 10 deletions(-)
+Updating 215b067..2ae8d2b
+Fast-forward
+ front/assets/css/tab-filter.css | 5 +++++
+ 1 file changed, 5 insertions(+) 1 file changed, 5 insertions(+)
+Updating 2ae8d2b..5c683e2
+Fast-forward
+ front/assets/css/tab-filter.css | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-) 1 file changed, 3 insertions(+), 1 deletion(-)
+Updating b4b50bf..f2f2f9d
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 2 +-
+ code/theme/static/css/lema-custom.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating f2f2f9d..69b1f8d
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 6 +++---
+ code/theme/static/css/lema-custom.scss | 6 +++---
+ 2 files changed, 6 insertions(+), 6 deletions(-) 2 files changed, 6 insertions(+), 6 deletions(-)
+Updating 5c683e2..ba3d546
+Fast-forward
+ front/assets/css/tab-filter.css | 4 ++++
+ 1 file changed, 4 insertions(+) 1 file changed, 4 insertions(+)
+Not expected branch : refs/heads/thangpd/instagram
+Not expected branch : refs/heads/thangpd/instagram
+Not expected branch : 

@@ -1,0 +1,71 @@
+Not expected branch : refs/heads/hieutct/structer
+Not expected branch : refs/heads/hieutct/structer
+Not expected branch : refs/heads/hieutct/structer
+Not expected branch : 
+Updating 7286faf..c571f55
+Fast-forward
+ .../header-09/class-slz-header-header-09.php       |  1 +
+ .../headers/headers/header-09/options.php          |  1 +
+ .../headers/headers/header-09/options/logo.php     | 30 ++++++++++
+ .../headers/headers/header-09/options/menu.php     |  1 +
+ .../headers/headers/header-09/views/logo.php       | 21 ++++++-
+ .../theme/custom-color.php                         |  4 ++
+ code/theme/static/css/layout.css                   | 53 ++++++++++++++----
+ code/theme/static/css/layout.scss                  | 64 +++++++++++++++++++---
+ 8 files changed, 153 insertions(+), 22 deletions(-)
+ create mode 100644 code/theme/framework-customizations/extensions/headers/headers/header-09/options/logo.php create mode 100644 code/theme/framework-customizations/extensions/headers/headers/header-09/options/logo.php
+Not expected branch : refs/heads/duytn/live-settings
+Not expected branch : 
+Updating c571f55..61608f0
+Fast-forward
+ code/theme/includes/implement-options.php | 35 ++++++++++++++++++++++++++++---
+ 1 file changed, 32 insertions(+), 3 deletions(-) 1 file changed, 32 insertions(+), 3 deletions(-)
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/duytn/live-settings
+Updating 0d3268e..32c6a57
+Fast-forward
+ shortcodes/rating/RatingShortcode.php |  2 +-
+ templates/error.php                   | 45 +++++++++++++++++------------------
+ 2 files changed, 23 insertions(+), 24 deletions(-) 2 files changed, 23 insertions(+), 24 deletions(-)
+Not expected branch : refs/heads/duytn/live-settings
+Not expected branch : 
+Updating 61608f0..ffa897d
+Fast-forward
+ code/theme/includes/implement-options.php | 32 ++++++++++++++++++++-----------
+ 1 file changed, 21 insertions(+), 11 deletions(-) 1 file changed, 21 insertions(+), 11 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/duytn/live-settings
+Updating ffa897d..4663882
+Fast-forward
+ .../theme/custom-color.php                         | 30 ++++++++++--------
+ code/theme/style.css                               | 37 +++++++---------------
+ 2 files changed, 29 insertions(+), 38 deletions(-) 2 files changed, 29 insertions(+), 38 deletions(-)
+Not expected branch : refs/heads/duytn/postblock
+Not expected branch : 
+Updating 4663882..714ec86
+Fast-forward
+ .../shortcodes/shortcodes/posts-block/config.php   | 102 ++++++++++-----------
+ .../shortcodes/posts-block/options/layout-4.php    |  24 +++++
+ .../shortcodes/posts-block/views/layout-4.php      |  17 +++-
+ .../theme/options/general-settings.php             |  28 ++++++
+ code/theme/includes/implement-options.php          |   6 +-
+ 5 files changed, 119 insertions(+), 58 deletions(-) 5 files changed, 119 insertions(+), 58 deletions(-)
+Not expected branch : refs/heads/duytn/postblock
+Already up-to-date.Already up-to-date.
+Updating 714ec86..69f8c66
+Fast-forward
+ .../posts-block/static/css/_posts-block.scss       |  7 +++---
+ .../theme/custom-color.php                         | 19 ++++++---------
+ code/theme/includes/implement-options.php          | 28 +++++++++++-----------
+ code/theme/static/css/education-components.css     |  7 +++---
+ 4 files changed, 27 insertions(+), 34 deletions(-) 4 files changed, 27 insertions(+), 34 deletions(-)
+Updating 69f8c66..a9a585d
+Fast-forward
+ .../extensions/shortcodes/shortcodes/posts-block/views/layout-4.php   | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Updating a9a585d..333191b
+Fast-forward
+ .../extensions/shortcodes/shortcodes/posts-block/views/layout-4.php     | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/hieutct/structer
+Not expected branch : 

@@ -1,0 +1,43 @@
+Updating a90a392..ce164f9
+Fast-forward
+ code/static/css/custom-editor.css |  26 +--
+ code/static/css/default.css       | 132 ++++++++++--
+ code/static/js/main.js            |  58 ++++-
+ code/style.css                    | 436 ++++++++++++++++++++++++++------------
+ 4 files changed, 476 insertions(+), 176 deletions(-) 4 files changed, 476 insertions(+), 176 deletions(-)
+Updating ce164f9..e2d53c6
+Fast-forward
+ code/static/css/custom-editor.css | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Updating e2d53c6..be18741
+Fast-forward
+ code/style.css | 7 +++++++
+ 1 file changed, 7 insertions(+) 1 file changed, 7 insertions(+)
+Updating be18741..3ef283f
+Fast-forward
+ code/style.css | 3 +++
+ 1 file changed, 3 insertions(+) 1 file changed, 3 insertions(+)
+Updating 3ef283f..9b5ce16
+Fast-forward
+ code/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 9b5ce16..ca3926a
+Fast-forward
+ code/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating ca3926a..507a310
+Fast-forward
+ code/static/js/main.js | 12 ++++++------
+ 1 file changed, 6 insertions(+), 6 deletions(-) 1 file changed, 6 insertions(+), 6 deletions(-)
+Updating 507a310..a08adce
+Fast-forward
+ code/static/js/main.js | 11 +++++------
+ 1 file changed, 5 insertions(+), 6 deletions(-) 1 file changed, 5 insertions(+), 6 deletions(-)
+Updating a08adce..8dd7e56
+Fast-forward
+ code/style.css | 52 ++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 52 insertions(+) 1 file changed, 52 insertions(+)
+Updating 8dd7e56..bba79d1
+Fast-forward
+ code/style.css | 28 +++++++++++++++++++++-------
+ 1 file changed, 21 insertions(+), 7 deletions(-) 1 file changed, 21 insertions(+), 7 deletions(-)

@@ -1,0 +1,104 @@
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Updating f68f8a0..aca5a1c
+Fast-forward
+ .../shortcodes/shortcodes/social/static/css/social.css           | 5 ++++-
+ .../shortcodes/shortcodes/social/static/css/social.scss          | 4 ++--
+ code/theme/static/css/layout.css                                 | 1 -
+ code/theme/static/css/layout.scss                                | 1 -
+ code/theme/style.css                                             | 9 ++++++++-
+ 5 files changed, 14 insertions(+), 6 deletions(-) 5 files changed, 14 insertions(+), 6 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Updating aca5a1c..7a2ff0e
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 21 +++++++++++++++++++--
+ code/theme/static/css/lema-custom.scss | 30 ++++++++++++++++++++++++++++--
+ 2 files changed, 47 insertions(+), 4 deletions(-) 2 files changed, 47 insertions(+), 4 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 7a2ff0e..b87f366
+Fast-forward
+ .../framework-customizations/theme/custom-color.php      | 16 +++++++++++++++-
+ code/theme/static/css/educhain-woocommerce.css           | 10 +---------
+ code/theme/static/css/layout.css                         |  4 ++++
+ code/theme/static/css/layout.scss                        |  7 +++++++
+ code/theme/static/css/lema-custom.css                    |  2 +-
+ code/theme/static/css/lema-custom.scss                   |  2 +-
+ 6 files changed, 29 insertions(+), 12 deletions(-) 6 files changed, 29 insertions(+), 12 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Updating b87f366..6739bf8
+Fast-forward
+ .../theme/custom-color.php                         | 16 ++++++++++
+ code/theme/static/css/educhain-woocommerce.css     | 36 ++++++++++++++++++++++
+ 2 files changed, 52 insertions(+) 2 files changed, 52 insertions(+)
+Not expected branch : refs/heads/hieutct/insight
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/coursePrice
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 6739bf8..cd7f7af
+Fast-forward
+ .../shortcodes/shortcodes/count-down/static/css/count-down.css    | 8 +++++++-
+ .../shortcodes/shortcodes/count-down/static/css/count-down.scss   | 5 ++++-
+ .../extensions/shortcodes/shortcodes/social/static/css/social.css | 6 ++++++
+ .../shortcodes/shortcodes/social/static/css/social.scss           | 3 +++
+ 4 files changed, 20 insertions(+), 2 deletions(-) 4 files changed, 20 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/page404
+Updating cd7f7af..752d4e3
+Fast-forward
+ code/theme/404.php                                                      | 1 +
+ code/theme/framework-customizations/theme/options/page-404-settings.php | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Updating 752d4e3..9da3c7f
+Fast-forward
+ .../theme/framework-customizations/theme/custom-color.php | 15 +++++++++++++++
+ code/theme/style.css                                      |  6 ++++++
+ 2 files changed, 21 insertions(+) 2 files changed, 21 insertions(+)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/duytn/manifest
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/duytn/manifest
+Not expected branch : refs/heads/duytn/manifest
+Updating 9da3c7f..95ab6ec
+Fast-forward
+ .../framework-customizations/theme/manifest.php    |  33 +++++++++++++++++++--
+ .../static/img/demo-images/educhain_college.png    | Bin 114428 -> 131366 bytes
+ .../img/demo-images/educhain_one_instructor.png    | Bin 0 -> 97055 bytes
+ .../static/img/demo-images/educhain_university.png | Bin 114428 -> 114823 bytes
+ .../img/demo-images/preview_educhain_college.png   | Bin 739605 -> 979236 bytes
+ .../preview_educhain_one_instructor.png            | Bin 0 -> 707638 bytes
+ .../demo-images/preview_educhain_university.png    | Bin 739605 -> 980309 bytes
+ 7 files changed, 31 insertions(+), 2 deletions(-)
+ create mode 100644 code/theme/static/img/demo-images/educhain_one_instructor.png
+ create mode 100644 code/theme/static/img/demo-images/preview_educhain_one_instructor.png create mode 100644 code/theme/static/img/demo-images/preview_educhain_one_instructor.png
+Fail to update develop of education

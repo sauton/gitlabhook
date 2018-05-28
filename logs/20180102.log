@@ -1,0 +1,11 @@
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating 922ae2b..e842960
+Fast-forward
+ code/theme/static/css/layout.css  | 24 +++++++++++++++++++++++-
+ code/theme/static/css/layout.scss | 19 ++++++++++++++++++-
+ 2 files changed, 41 insertions(+), 2 deletions(-) 2 files changed, 41 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/thangpd/scContact
+Not expected branch : 
+Not expected branch : 

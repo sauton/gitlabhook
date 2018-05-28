@@ -1,0 +1,183 @@
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : 
+Fail to update develop of education
+Updating c7372d0..77e4540
+Fast-forward
+ code/theme/static/css/lema-custom.scss | 11 +++++++----
+ 1 file changed, 7 insertions(+), 4 deletions(-) 1 file changed, 7 insertions(+), 4 deletions(-)
+Updating 77e4540..88d9a8e
+Fast-forward
+ code/theme/static/css/lema-custom.css | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-) 1 file changed, 9 insertions(+), 1 deletion(-)
+Not expected branch : refs/heads/tailm_fix
+Updating 27530b4..9bfed14
+Fast-forward
+ includes/classes/Hooks.php                                          | 6 +++---
+ includes/classes/components/PaymentRequestInterface.php             | 4 ++--
+ .../{InstructorManagementController.php => CourseController.php}    | 2 +-
+ includes/classes/front/controllers/DashboardController.php          | 2 +-
+ .../{InstructorPaymentController.php => PaymentController.php}      | 2 +-
+ .../front/views/{instructormanagement => course}/buttonSave.php     | 0
+ .../front/views/{instructormanagement => course}/buttonTrash.php    | 0
+ .../classes/front/views/{instructormanagement => course}/modal.php  | 0
+ .../front/views/{instructormanagement => course}/permalink.php      | 4 ++--
+ .../front/views/{instructormanagement => course}/sidebar.php        | 2 +-
+ .../front/views/{instructormanagement => course}/sidebar/form.php   | 0
+ .../front/views/{instructormanagement => course}/sidebar/tag.php    | 0
+ .../front/views/{instructormanagement => course}/tabCurriculum.php  | 0
+ .../front/views/{instructormanagement => course}/tabInfo.php        | 0
+ .../views/{instructormanagement => course}/templates/image.php      | 0
+ .../views/{instructormanagement => course}/templates/video.php      | 0
+ .../classes/front/views/{instructormanagement => course}/view.php   | 0
+ includes/classes/front/views/{instructorpayment => payment}/404.php | 0
+ .../front/views/{instructorpayment => payment}/_itemRequest.php     | 0
+ .../front/views/{instructorpayment => payment}/createView.php       | 2 +-
+ .../classes/front/views/{instructorpayment => payment}/fail.php     | 0
+ .../front/views/{instructorpayment => payment}/managerView.php      | 2 +-
+ .../classes/front/views/{instructorpayment => payment}/success.php  | 2 +-
+ 23 files changed, 14 insertions(+), 14 deletions(-)
+ rename includes/classes/front/controllers/{InstructorManagementController.php => CourseController.php} (98%)
+ rename includes/classes/front/controllers/{InstructorPaymentController.php => PaymentController.php} (97%)
+ rename includes/classes/front/views/{instructormanagement => course}/buttonSave.php (100%)
+ rename includes/classes/front/views/{instructormanagement => course}/buttonTrash.php (100%)
+ rename includes/classes/front/views/{instructormanagement => course}/modal.php (100%)
+ rename includes/classes/front/views/{instructormanagement => course}/permalink.php (70%)
+ rename includes/classes/front/views/{instructormanagement => course}/sidebar.php (91%)
+ rename includes/classes/front/views/{instructormanagement => course}/sidebar/form.php (100%)
+ rename includes/classes/front/views/{instructormanagement => course}/sidebar/tag.php (100%)
+ rename includes/classes/front/views/{instructormanagement => course}/tabCurriculum.php (100%)
+ rename includes/classes/front/views/{instructormanagement => course}/tabInfo.php (100%)
+ rename includes/classes/front/views/{instructormanagement => course}/templates/image.php (100%)
+ rename includes/classes/front/views/{instructormanagement => course}/templates/video.php (100%)
+ rename includes/classes/front/views/{instructormanagement => course}/view.php (100%)
+ rename includes/classes/front/views/{instructorpayment => payment}/404.php (100%)
+ rename includes/classes/front/views/{instructorpayment => payment}/_itemRequest.php (100%)
+ rename includes/classes/front/views/{instructorpayment => payment}/createView.php (98%)
+ rename includes/classes/front/views/{instructorpayment => payment}/fail.php (100%)
+ rename includes/classes/front/views/{instructorpayment => payment}/managerView.php (94%)
+ rename includes/classes/front/views/{instructorpayment => payment}/success.php (87%) rename includes/classes/front/views/{instructorpayment => payment}/success.php (87%)
+Not expected branch : refs/heads/thangpd/serchbox
+Not expected branch : refs/heads/thangpd/serchbox
+Not expected branch : refs/heads/thangpd/serchbox
+Not expected branch : refs/heads/thangpd/serchbox
+Not expected branch : refs/heads/thangpd/serchbox
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/searchbox
+Not expected branch : refs/heads/thangpd/searchbox
+Not expected branch : 
+Not expected branch : 
+Not expected branch : 
+Updating 9bfed14..dff6cb4
+Fast-forward
+ includes/classes/front/controllers/CourseController.php  | 15 +++++++++++----
+ includes/classes/front/views/course/tabInfo.php          |  1 +
+ includes/classes/front/views/course/view.php             |  4 +++-
+ includes/classes/front/views/dashboard/__course_list.php |  5 ++++-
+ 4 files changed, 19 insertions(+), 6 deletions(-) 4 files changed, 19 insertions(+), 6 deletions(-)
+Not expected branch : refs/heads/educhain_vubd
+Not expected branch : refs/heads/educhain_vubd
+Not expected branch : 
+Updating 88d9a8e..322befa
+Fast-forward
+ .../shortcodes/shortcodes/newsletter/static/css/newsletter.css          | 2 ++
+ .../shortcodes/shortcodes/newsletter/static/css/newsletter.scss         | 2 ++
+ 2 files changed, 4 insertions(+) 2 files changed, 4 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/educhain_vubd
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : 
+Updating 37bd3da..01f8e98
+Fast-forward
+ assets/scripts/lema-uni.js                         |   6 +-
+ assets/styles/lema-uni.css                         | 204 +++++++++++++++++++++
+ .../front/controllers/CourseDetailController.php   |   1 +
+ includes/classes/front/views/coursedetail/view.php |  84 +++++----
+ 4 files changed, 251 insertions(+), 44 deletions(-)
+ create mode 100644 assets/styles/lema-uni.css create mode 100644 assets/styles/lema-uni.css
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 322befa..18e6d75
+Fast-forward
+ code/theme/404.php                                     |  1 +
+ .../theme/options/page-404-settings.php                |  1 +
+ code/theme/static/js/educhain-main.js                  | 18 +++++++++++++++---
+ 3 files changed, 17 insertions(+), 3 deletions(-) 3 files changed, 17 insertions(+), 3 deletions(-)
+Updating 18e6d75..aed363b
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 8 ++++++++
+ 1 file changed, 8 insertions(+) 1 file changed, 8 insertions(+)
+Updating aed363b..fb82090
+Fast-forward
+ code/theme/static/css/default.css | 46 +++++++++++++++++++--------------------
+ 1 file changed, 23 insertions(+), 23 deletions(-) 1 file changed, 23 insertions(+), 23 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/educhain_vubd
+Not expected branch : refs/heads/educhain_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating fb82090..19078c6
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 207 ++++++++++++++++++++++++---------
+ code/theme/static/css/lema-custom.scss |  83 +++++++++++++
+ 2 files changed, 233 insertions(+), 57 deletions(-) 2 files changed, 233 insertions(+), 57 deletions(-)
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : 
+Fail to update develop of education
+Updating 19078c6..2e88b8f
+Fast-forward
+ .../posts-carousel/static/css/posts-carousel.scss  |   1 +
+ .../testimonial/static/css/testimonial.scss        | 117 +++++++++++++++++++++
+ 2 files changed, 118 insertions(+) 2 files changed, 118 insertions(+)
+Updating 2e88b8f..a368abf
+Fast-forward
+ .../posts-carousel/static/css/posts-carousel.css   |   1 +
+ .../testimonial/static/css/testimonial.css         | 142 +++++++++++++++++++++
+ code/theme/static/css/lema-custom.css              | 116 ++++++++---------
+ 3 files changed, 201 insertions(+), 58 deletions(-) 3 files changed, 201 insertions(+), 58 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : 
+Not expected branch : 
+Fail to update develop of education
+Updating a368abf..62da7f9
+Fast-forward
+ .../instagram/shortcodes/instagram/config.php      |  34 +++
+ .../shortcodes/instagram/static/css/instagram.css  |  92 +++++++
+ .../shortcodes/instagram/static/css/instagram.scss |  81 +++++++
+ .../shortcodes/instagram/static/js/instagram.js    | 269 ++++++++++++++++-----
+ .../instagram/shortcodes/instagram/vc_options.php  | 146 +++++++++++
+ .../shortcodes/instagram/views/view-grid.php       |  48 ++++
+ .../shortcodes/instagram/views/view-slider.php     |  64 +++++
+ 7 files changed, 676 insertions(+), 58 deletions(-)
+ create mode 100644 code/theme/framework-customizations/extensions/instagram/shortcodes/instagram/config.php
+ create mode 100644 code/theme/framework-customizations/extensions/instagram/shortcodes/instagram/vc_options.php
+ create mode 100644 code/theme/framework-customizations/extensions/instagram/shortcodes/instagram/views/view-grid.php
+ create mode 100644 code/theme/framework-customizations/extensions/instagram/shortcodes/instagram/views/view-slider.php create mode 100644 code/theme/framework-customizations/extensions/instagram/shortcodes/instagram/views/view-slider.php
+Updating 62da7f9..15a6b88
+Fast-forward
+ .../extensions/testimonials/shortcodes/testimonial/views/layout-6.php  | 3 +++
+ 1 file changed, 3 insertions(+) 1 file changed, 3 insertions(+)
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 15a6b88..a191783
+Fast-forward
+ .../shortcodes/instagram/static/css/instagram.css  |  7 ++++
+ .../shortcodes/instagram/static/css/instagram.scss |  6 ++++
+ .../shortcodes/contact/static/css/contact.css      | 40 ++++++++++++++++++++++
+ .../shortcodes/contact/static/css/contact.scss     | 39 ++++++++++++++++++++-
+ 4 files changed, 91 insertions(+), 1 deletion(-) 4 files changed, 91 insertions(+), 1 deletion(-)
+Not expected branch : refs/heads/luctc

@@ -1,0 +1,128 @@
+Updating 83f29f9..9f7bb77
+Fast-forward
+ code/functions.php                |   7 +
+ code/includes/static.php          |  84 +++----
+ code/includes/visual_composer.php | 515 ++++++++++++++++++++++++++++++++++++++
+ code/static/js/Chartjs.min.js     |  10 +
+ code/vc_templates/slz_charts.php  | 162 ++++++++++++
+ 5 files changed, 736 insertions(+), 42 deletions(-)
+ create mode 100644 code/includes/visual_composer.php
+ create mode 100644 code/static/js/Chartjs.min.js
+ create mode 100644 code/vc_templates/slz_charts.php create mode 100644 code/vc_templates/slz_charts.php
+Not expected branch : refs/heads/thangpd/scchart
+Updating 9f7bb77..c08ee19
+Fast-forward
+ .../css/{starter-theme-woocommerce.css => cryptoio-woocommerce.css}       | 0
+ code/static/js/{starter-theme-woocommerce.js => cryptoio-woocommerce.js}  | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ rename code/static/css/{starter-theme-woocommerce.css => cryptoio-woocommerce.css} (100%)
+ rename code/static/js/{starter-theme-woocommerce.js => cryptoio-woocommerce.js} (100%) rename code/static/js/{starter-theme-woocommerce.js => cryptoio-woocommerce.js} (100%)
+Updating c08ee19..13e95b2
+Fast-forward
+ .../shortcodes/shortcodes/progress-bar/config.php  |  28 ++
+ .../progress-bar/static/css/progress-bar.css       |   2 +-
+ .../shortcodes/progress-bar/vc_options.php         | 116 +++++++
+ .../shortcodes/progress-bar/views/layout-1.php     | 208 +++++++-----
+ .../shortcodes/progress-bar/views/layout-2.php     | 110 ------
+ .../theme/options/general-settings.php             | 374 +++++++++++++--------
+ 6 files changed, 502 insertions(+), 336 deletions(-)
+ create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/progress-bar/config.php
+ create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/progress-bar/vc_options.php
+ delete mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/progress-bar/views/layout-2.php delete mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/progress-bar/views/layout-2.php
+Updating 13e95b2..7bf9371
+Fast-forward
+ .../shortcodes/shortcodes/button/static/css/_button.scss           | 7 ++++---
+ code/static/css/cryptoio-components.css                            | 7 ++++---
+ 2 files changed, 8 insertions(+), 6 deletions(-) 2 files changed, 8 insertions(+), 6 deletions(-)
+Updating 7bf9371..ea5fc1f
+Fast-forward
+ .../extensions/shortcodes/shortcodes/button/static/css/_button.scss   | 3 +++
+ .../shortcodes/shortcodes/progress-bar/static/css/progress-bar.css    | 2 +-
+ code/static/css/cryptoio-components.css                               | 4 ++++
+ 3 files changed, 8 insertions(+), 1 deletion(-) 3 files changed, 8 insertions(+), 1 deletion(-)
+Updating ea5fc1f..754ef4e
+Fast-forward
+ .../extensions/shortcodes/shortcodes/button/static/css/_button.scss   | 1 +
+ code/static/css/cryptoio-components.css                               | 4 ++++
+ 2 files changed, 5 insertions(+) 2 files changed, 5 insertions(+)
+Updating 754ef4e..328537a
+Fast-forward
+ .../shortcodes/shortcodes/button/static/css/_button.scss         | 4 ++++
+ code/static/css/cryptoio-components.css                          | 9 +++++++++
+ 2 files changed, 13 insertions(+) 2 files changed, 13 insertions(+)
+Updating 328537a..b484c8f
+Fast-forward
+ .../shortcodes/button/static/css/_button.scss      |  2 +-
+ .../shortcodes/button/views/layout-3.php           | 28 +++++++++++-----------
+ code/static/css/cryptoio-components.css            |  6 ++---
+ 3 files changed, 18 insertions(+), 18 deletions(-) 3 files changed, 18 insertions(+), 18 deletions(-)
+Updating b484c8f..40de714
+Fast-forward
+ .../shortcodes/shortcodes/button/static/css/_button.scss  | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+) 1 file changed, 15 insertions(+)
+Updating 40de714..e14595c
+Fast-forward
+ code/static/css/cryptoio-components.css | 23 +++++++++++++++++++++++
+ 1 file changed, 23 insertions(+) 1 file changed, 23 insertions(+)
+Updating e14595c..82ebcad
+Fast-forward
+ .../shortcodes/shortcodes/button/static/css/_button.scss       |  6 ++++++
+ code/static/css/cryptoio-components.css                        | 10 ++++++++++
+ 2 files changed, 16 insertions(+) 2 files changed, 16 insertions(+)
+Updating 82ebcad..f7e070a
+Fast-forward
+ .../shortcodes/button/static/css/_button.scss      | 23 ++++++++++++++--------
+ code/static/css/cryptoio-components.css            | 16 +++++++--------
+ 2 files changed, 23 insertions(+), 16 deletions(-) 2 files changed, 23 insertions(+), 16 deletions(-)
+Updating f7e070a..1ce60a9
+Fast-forward
+ .../extensions/shortcodes/shortcodes/button/static/css/_button.scss  | 5 +++++
+ code/static/css/cryptoio-components.css                              | 4 ++++
+ 2 files changed, 9 insertions(+) 2 files changed, 9 insertions(+)
+Updating 1ce60a9..887ba0b
+Fast-forward
+ .../shortcodes/button/static/css/_button.scss      | 184 ++++++++++-----------
+ code/static/css/cryptoio-components.css            |   5 +
+ 2 files changed, 96 insertions(+), 93 deletions(-) 2 files changed, 96 insertions(+), 93 deletions(-)
+Updating 887ba0b..1dbb466
+Fast-forward
+ .../extensions/shortcodes/shortcodes/button/static/css/_button.scss     | 2 +-
+ code/static/css/cryptoio-components.css                                 | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 1dbb466..4084f48
+Fast-forward
+ .../extensions/shortcodes/shortcodes/button/static/css/_button.scss   | 4 ++--
+ code/static/css/cryptoio-components.css                               | 4 ++--
+ 2 files changed, 4 insertions(+), 4 deletions(-) 2 files changed, 4 insertions(+), 4 deletions(-)
+Updating 4084f48..27c393e
+Fast-forward
+ .../shortcodes/button/static/css/_button.scss       |  8 ++++----
+ code/static/css/cryptoio-components.css             | 21 ++++++++++++---------
+ 2 files changed, 16 insertions(+), 13 deletions(-) 2 files changed, 16 insertions(+), 13 deletions(-)
+Updating 27c393e..b28c9bb
+Fast-forward
+ .../shortcodes/button/static/css/_button.scss      | 24 +++++++++++-----------
+ code/static/css/cryptoio-components.css            | 13 ------------
+ 2 files changed, 12 insertions(+), 25 deletions(-) 2 files changed, 12 insertions(+), 25 deletions(-)
+Updating b28c9bb..da4f6a3
+Fast-forward
+ .../shortcodes/shortcodes/button/static/css/_button.scss         | 4 ++++
+ code/static/css/cryptoio-components.css                          | 9 +++++++++
+ 2 files changed, 13 insertions(+) 2 files changed, 13 insertions(+)
+Updating da4f6a3..5b007ba
+Fast-forward
+ .../shortcodes/button/static/css/_button.scss       | 21 ++++++++-------------
+ code/static/css/cryptoio-components.css             | 12 ++++++++++++
+ 2 files changed, 20 insertions(+), 13 deletions(-) 2 files changed, 20 insertions(+), 13 deletions(-)
+Updating 5b007ba..f139c3b
+Fast-forward
+ .../shortcodes/button/static/css/_button.scss      | 45 +++++++++++-----------
+ .../main-title/static/css/main-title.css           |  1 +
+ .../main-title/static/css/main-title.scss          |  1 +
+ code/static/css/cryptoio-components.css            | 25 ++++++------
+ 4 files changed, 38 insertions(+), 34 deletions(-) 4 files changed, 38 insertions(+), 34 deletions(-)
+Updating f139c3b..6a77de6
+Fast-forward
+ .../shortcodes/shortcodes/main-title/static/css/main-title.css           | 1 +
+ .../shortcodes/shortcodes/main-title/static/css/main-title.scss          | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)

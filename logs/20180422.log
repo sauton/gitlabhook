@@ -1,0 +1,41 @@
+Updating f633639..a90a392
+Fast-forward
+ .../extensions/optimization/static.php             |  164 ++
+ code/includes/constants.php                        |    7 +
+ code/static/css/cryptoio-components.css            |    0
+ code/static/css/cryptoio.css                       |    0
+ code/static/css/theme-customs.css                  |    0
+ .../font/font-icon/font-job-resume/Flaticon.eot    |  Bin 0 -> 36342 bytes
+ .../font/font-icon/font-job-resume/Flaticon.svg    | 1073 +++++++
+ .../font/font-icon/font-job-resume/Flaticon.ttf    |  Bin 0 -> 36164 bytes
+ .../font/font-icon/font-job-resume/Flaticon.woff   |  Bin 0 -> 21676 bytes
+ .../font/font-icon/font-job-resume/flaticon.css    |   83 +
+ .../font/font-icon/ionicons-2.0.1/css/ionicons.css | 2965 ++++++++++++++++++++
+ .../font-icon/ionicons-2.0.1/css/ionicons.min.css  |   11 +
+ .../font-icon/ionicons-2.0.1/fonts/ionicons.eot    |  Bin 0 -> 120724 bytes
+ .../font-icon/ionicons-2.0.1/fonts/ionicons.svg    | 2230 +++++++++++++++
+ .../font-icon/ionicons-2.0.1/fonts/ionicons.ttf    |  Bin 0 -> 188508 bytes
+ .../font-icon/ionicons-2.0.1/fonts/ionicons.woff   |  Bin 0 -> 67904 bytes
+ ...crypto_menu_icon.png => cryptoio_menu_icon.png} |  Bin
+ code/static/js/cryptoio-main.js                    | 1178 ++++++++
+ code/static/js/main.js                             |   62 +-
+ code/static/js/shortcode-pagination.js             |   74 +
+ 20 files changed, 7839 insertions(+), 8 deletions(-)
+ create mode 100755 code/framework-customizations/extensions/optimization/static.php
+ create mode 100644 code/static/css/cryptoio-components.css
+ create mode 100644 code/static/css/cryptoio.css
+ create mode 100644 code/static/css/theme-customs.css
+ create mode 100644 code/static/font/font-icon/font-job-resume/Flaticon.eot
+ create mode 100644 code/static/font/font-icon/font-job-resume/Flaticon.svg
+ create mode 100644 code/static/font/font-icon/font-job-resume/Flaticon.ttf
+ create mode 100644 code/static/font/font-icon/font-job-resume/Flaticon.woff
+ create mode 100644 code/static/font/font-icon/font-job-resume/flaticon.css
+ create mode 100644 code/static/font/font-icon/ionicons-2.0.1/css/ionicons.css
+ create mode 100644 code/static/font/font-icon/ionicons-2.0.1/css/ionicons.min.css
+ create mode 100644 code/static/font/font-icon/ionicons-2.0.1/fonts/ionicons.eot
+ create mode 100644 code/static/font/font-icon/ionicons-2.0.1/fonts/ionicons.svg
+ create mode 100644 code/static/font/font-icon/ionicons-2.0.1/fonts/ionicons.ttf
+ create mode 100644 code/static/font/font-icon/ionicons-2.0.1/fonts/ionicons.woff
+ rename code/static/img/theme-option/{crypto_menu_icon.png => cryptoio_menu_icon.png} (100%)
+ create mode 100644 code/static/js/cryptoio-main.js
+ create mode 100644 code/static/js/shortcode-pagination.js create mode 100644 code/static/js/shortcode-pagination.js

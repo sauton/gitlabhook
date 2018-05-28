@@ -1,0 +1,170 @@
+Not expected branch : refs/heads/hotfix/1.1.6
+Not expected branch : refs/heads/thanh/contact-form
+Not expected branch : refs/heads/hotfix/1.1.6
+Not expected branch : refs/heads/thanh/contact-form
+Not expected branch : refs/heads/hotfix/1.1.6
+Not expected branch : 
+Not expected branch : refs/heads/hotfix/1.1.6
+Not expected branch : refs/heads/thangpd/social
+Not expected branch : 
+Not expected branch : 
+Fail to update develop of education
+Updating 19d5133..9533b26
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/static/css/_icon-block.scss      | 3 ++-
+ code/theme/static/css/educhain-components.css                          | 3 ++-
+ 2 files changed, 4 insertions(+), 2 deletions(-) 2 files changed, 4 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/hotfix/1.1.6
+Not expected branch : refs/heads/hotfix/1.1.6
+Updating 9533b26..42e8dcf
+Fast-forward
+ code/theme/library.scss           |  3 +--
+ code/theme/static/css/layout.css  |  3 +--
+ code/theme/static/css/layout.scss | 45 +++++----------------------------------
+ 3 files changed, 7 insertions(+), 44 deletions(-) 3 files changed, 7 insertions(+), 44 deletions(-)
+Not expected branch : refs/heads/thanh/contact-form
+Not expected branch : refs/heads/hotfix/1.1.6
+Updating 42e8dcf..f9e9b0f
+Fast-forward
+ code/theme/default-templates/single.php            |  13 ++-
+ .../extensions/events/hooks.php                    |   2 +
+ code/theme/includes/helpers.php                    |  38 ++++---
+ code/theme/static/css/default.css                  | 110 +++++++++++----------
+ code/theme/style.css                               |  24 ++++-
+ 5 files changed, 110 insertions(+), 77 deletions(-) 5 files changed, 110 insertions(+), 77 deletions(-)
+Not expected branch : refs/heads/master
+Not expected branch : refs/heads/thanh/contact-form
+Updating f9e9b0f..6a9cb76
+Fast-forward
+ code/theme/static/css/default.css | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-) 1 file changed, 4 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/thanh/contact-form
+Not expected branch : 
+Updating 6a9cb76..fc8bf2a
+Fast-forward
+ .../contact-form/static/css/_contact-form.scss     | 45 ++++++++++++++++++++++
+ code/theme/static/css/educhain-components.css      | 45 ++++++++++++++++++++++
+ 2 files changed, 90 insertions(+) 2 files changed, 90 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/hieutct/structer
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating fc8bf2a..5f908ba
+Fast-forward
+ .../contact-form/static/css/_contact-form.scss     | 65 +++++++++++++------
+ .../icons-block/static/css/_icon-block.scss        |  4 ++
+ .../theme/custom-color.php                         |  4 ++
+ code/theme/static/css/educhain-components.css      | 72 +++++++++++++++++-----
+ 4 files changed, 112 insertions(+), 33 deletions(-) 4 files changed, 112 insertions(+), 33 deletions(-)
+Not expected branch : refs/heads/duytn/fix-get-post-choices
+Not expected branch : refs/heads/duytn/header
+Not expected branch : 
+Not expected branch : refs/heads/duytn/header
+Updating 5f908ba..0878eb2
+Fast-forward
+ .../headers/headers/header-09/class-slz-header-header-09.php       | 7 ++++++-
+ .../extensions/headers/headers/header-09/views/logo.php            | 4 +++-
+ 2 files changed, 9 insertions(+), 2 deletions(-) 2 files changed, 9 insertions(+), 2 deletions(-)
+Fail to update develop of education
+Updating 0878eb2..656dfef
+Fast-forward
+ .../headers/headers/header-09/views/text_link.php  |  2 +-
+ code/theme/static/css/layout.css                   | 19 ++++++++----
+ code/theme/static/css/layout.scss                  | 35 ++++++++++++++--------
+ 3 files changed, 36 insertions(+), 20 deletions(-) 3 files changed, 36 insertions(+), 20 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Updating 656dfef..2b1ea2b
+Fast-forward
+ code/theme/default-templates/page.php              |  8 ++-
+ .../shortcodes/team-block/options/layout-3.php     |  1 +
+ .../teams/shortcodes/team-block/views/layout-3.php | 13 +++-
+ .../theme/custom-color.php                         | 81 +++++++++++++---------
+ 4 files changed, 67 insertions(+), 36 deletions(-) 4 files changed, 67 insertions(+), 36 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/luctc
+Updating 2b1ea2b..97b4859
+Fast-forward
+ .../headers/headers/header-09/views/text_link.php  |  4 +--
+ code/theme/static/css/layout.css                   | 31 ++++++++++++++++++++++
+ code/theme/static/css/layout.scss                  | 25 ++++++++++++++++-
+ 3 files changed, 57 insertions(+), 3 deletions(-) 3 files changed, 57 insertions(+), 3 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 97b4859..684382a
+Fast-forward
+ .../extensions/events/views/archive.php            | 61 ++++++++++++++++++++++
+ 1 file changed, 61 insertions(+)
+ create mode 100644 code/theme/framework-customizations/extensions/events/views/archive.php create mode 100644 code/theme/framework-customizations/extensions/events/views/archive.php
+Updating b8a28bb..32e0b7a
+Fast-forward
+ README.md                                       |   6 +
+ admin/AdminTemplate.php                         |  10 +-
+ admin/controllers/CourseController.php          |  17 +-
+ admin/controllers/FieldController.php           |  99 +++++++++++
+ admin/controllers/SettingController.php         |   8 +-
+ admin/views/course/partials/multi_row_field.php |   4 +-
+ admin/views/field/_form.php                     |  41 +++++
+ admin/views/field/_list.php                     |  45 +++++
+ admin/views/field/custom.php                    |  74 ++++++++
+ admin/views/field/index.php                     |  21 +++
+ admin/views/field/select.php                    |  13 ++
+ admin/views/setting/_course.php                 |   4 +-
+ assets/admin/css/learnmaster-admin.css          |   8 +
+ assets/admin/js/learnmaster-admin_ui.js         |  27 ++-
+ core/App.php                                    |   4 +
+ core/BaseObject.php                             |   8 +-
+ core/Model.php                                  |   9 +-
+ core/components/Form.php                        |  13 ++
+ core/components/Hook.php                        |   5 +
+ front/views/course/detail.php                   |   3 +
+ helpers/form/CheckListElement.php               |  39 +++++
+ helpers/form/RadioListElement.php               |  33 ++++
+ models/CourseModel.php                          |  32 ++--
+ models/FieldModel.php                           | 224 ++++++++++++++++++++++++
+ shortcodes/course/CustomAttributeShortcode.php  |  64 +++++++
+ shortcodes/course/views/custom.php              |  45 +++++
+ 26 files changed, 823 insertions(+), 33 deletions(-)
+ create mode 100644 admin/controllers/FieldController.php
+ create mode 100644 admin/views/field/_form.php
+ create mode 100644 admin/views/field/_list.php
+ create mode 100644 admin/views/field/custom.php
+ create mode 100644 admin/views/field/index.php
+ create mode 100644 admin/views/field/select.php
+ create mode 100644 helpers/form/CheckListElement.php
+ create mode 100644 helpers/form/RadioListElement.php
+ create mode 100644 models/FieldModel.php
+ create mode 100644 shortcodes/course/CustomAttributeShortcode.php
+ create mode 100644 shortcodes/course/views/custom.php create mode 100644 shortcodes/course/views/custom.php
+Updating 32e0b7a..8b6c487
+Fast-forward
+ assets/admin/js/learnmaster-admin_ui.js | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : refs/heads/thangpd/blockquote
+Fail to update develop of education
+Updating 684382a..9aefd2c
+Fast-forward
+ .../team-block/static/css/team-block.css           | 267 ++++++++++++++----
+ .../team-block/static/css/team-block.scss          | 312 +++++++++++++++------
+ .../teams/shortcodes/team-block/views/layout-3.php |  41 ++-
+ 3 files changed, 466 insertions(+), 154 deletions(-) 3 files changed, 466 insertions(+), 154 deletions(-)
+Not expected branch : 
+Not expected branch : 
+Updating 9aefd2c..b5fec75
+Fast-forward
+ .../headers/headers/header-09/views/button.php     |    2 +-
+ .../theme/custom-color.php                         | 1752 +++++++++++---------
+ code/theme/static/css/layout.css                   |   54 +
+ code/theme/static/css/layout.scss                  |   48 +
+ 4 files changed, 1027 insertions(+), 829 deletions(-) 4 files changed, 1027 insertions(+), 829 deletions(-)
+Not expected branch : refs/heads/luctc

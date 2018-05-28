@@ -1,0 +1,196 @@
+Updating 9d0a419..8151b19
+Fast-forward
+ code/static/css/layout.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 8151b19..5fdba6f
+Fast-forward
+ .../shortcodes/partner/static/css/partner.css      |  2 +-
+ .../testimonial/static/css/testimonial.css         | 12 +++----
+ .../extensions/widgets/static/css/widgets.css      |  6 ++--
+ code/static/css/cryptoio-components.css            | 37 +++++++++-------------
+ 4 files changed, 25 insertions(+), 32 deletions(-) 4 files changed, 25 insertions(+), 32 deletions(-)
+Updating 5fdba6f..a5465ff
+Fast-forward
+ code/static/css/layout.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating a5465ff..3a62bbd
+Fast-forward
+ code/static/css/layout.css | 4 ----
+ 1 file changed, 4 deletions(-) 1 file changed, 4 deletions(-)
+Updating 3a62bbd..a17337c
+Fast-forward
+ code/static/css/layout.css | 10 ++++++++--
+ 1 file changed, 8 insertions(+), 2 deletions(-) 1 file changed, 8 insertions(+), 2 deletions(-)
+Updating a17337c..168e4bb
+Fast-forward
+ code/static/css/layout.css | 13 ++++++++-----
+ 1 file changed, 8 insertions(+), 5 deletions(-) 1 file changed, 8 insertions(+), 5 deletions(-)
+Updating 168e4bb..938fdef
+Fast-forward
+ code/static/css/layout.css | 12 ++++++++----
+ 1 file changed, 8 insertions(+), 4 deletions(-) 1 file changed, 8 insertions(+), 4 deletions(-)
+Updating 938fdef..4456a78
+Fast-forward
+ code/static/css/layout.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 4456a78..c799428
+Fast-forward
+ code/static/css/layout.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating c799428..d550d19
+Fast-forward
+ code/static/css/layout.css | 13 ++++++-------
+ 1 file changed, 6 insertions(+), 7 deletions(-) 1 file changed, 6 insertions(+), 7 deletions(-)
+Updating d550d19..e98c9b0
+Fast-forward
+ code/static/css/layout.css | 4 ++++
+ 1 file changed, 4 insertions(+) 1 file changed, 4 insertions(+)
+Updating e98c9b0..9ac5560
+Fast-forward
+ code/static/css/layout.css | 4 ++++
+ 1 file changed, 4 insertions(+) 1 file changed, 4 insertions(+)
+Updating 9ac5560..5695ea4
+Fast-forward
+ code/static/css/layout.css | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-) 1 file changed, 2 insertions(+), 1 deletion(-)
+Updating 5695ea4..2cb31dc
+Fast-forward
+ code/static/css/layout.css | 19 ++++++++++++++++++-
+ 1 file changed, 18 insertions(+), 1 deletion(-) 1 file changed, 18 insertions(+), 1 deletion(-)
+Updating 2cb31dc..5f76505
+Fast-forward
+ code/static/css/layout.css | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-) 1 file changed, 2 insertions(+), 1 deletion(-)
+Updating 5f76505..61ac8fc
+Fast-forward
+ code/static/css/layout.css | 16 ++++++++++++++++
+ 1 file changed, 16 insertions(+) 1 file changed, 16 insertions(+)
+Updating 61ac8fc..dc74c49
+Fast-forward
+ code/static/css/layout.css | 3 +++
+ 1 file changed, 3 insertions(+) 1 file changed, 3 insertions(+)
+Updating dc74c49..0a898b9
+Fast-forward
+ code/static/css/layout.css | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-) 1 file changed, 6 insertions(+), 1 deletion(-)
+Updating 0a898b9..ed07a06
+Fast-forward
+ code/static/css/layout.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating ed07a06..522dd6c
+Fast-forward
+ code/static/css/layout.css | 8 ++++++++
+ 1 file changed, 8 insertions(+) 1 file changed, 8 insertions(+)
+Updating 522dd6c..1217f92
+Fast-forward
+ code/static/css/layout.css | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-) 1 file changed, 3 insertions(+), 1 deletion(-)
+Updating 1217f92..f1752b3
+Fast-forward
+ code/static/css/layout.css | 8 ++++++--
+ 1 file changed, 6 insertions(+), 2 deletions(-) 1 file changed, 6 insertions(+), 2 deletions(-)
+Updating f1752b3..579ec09
+Fast-forward
+ code/static/css/layout.css | 11 +++++++++++
+ 1 file changed, 11 insertions(+) 1 file changed, 11 insertions(+)
+Updating 579ec09..cea6e0a
+Fast-forward
+ code/style.css | 5 +++++
+ 1 file changed, 5 insertions(+) 1 file changed, 5 insertions(+)
+Updating cea6e0a..3ae1520
+Fast-forward
+ code/style.css | 9 ++++-----
+ 1 file changed, 4 insertions(+), 5 deletions(-) 1 file changed, 4 insertions(+), 5 deletions(-)
+Updating 3ae1520..3d3e602
+Fast-forward
+ code/static/css/layout.css | 12 ++++++------
+ 1 file changed, 6 insertions(+), 6 deletions(-) 1 file changed, 6 insertions(+), 6 deletions(-)
+Already up-to-date.Already up-to-date.
+Updating 3d3e602..de28090
+Fast-forward
+ code/static/css/cryptoio-components.css  | 197 +++++++++++++++++++++++++++++++
+ code/static/css/cryptoio-components.scss | 197 +++++++++++++++++++++++++++++++
+ code/static/css/default.css              |   8 +-
+ 3 files changed, 398 insertions(+), 4 deletions(-) 3 files changed, 398 insertions(+), 4 deletions(-)
+Updating de28090..804aa19
+Fast-forward
+ code/static/css/cryptoio-components.css  | 197 -------------------------------
+ code/static/css/cryptoio-components.scss | 197 -------------------------------
+ code/static/css/layout.css               |  59 ++++-----
+ 3 files changed, 30 insertions(+), 423 deletions(-) 3 files changed, 30 insertions(+), 423 deletions(-)
+Updating 804aa19..ceb4638
+Fast-forward
+ code/static/css/layout.css | 10 +++++-----
+ 1 file changed, 5 insertions(+), 5 deletions(-) 1 file changed, 5 insertions(+), 5 deletions(-)
+Updating ceb4638..58436de
+Fast-forward
+ code/static/css/default.css | 10 ++++++++--
+ 1 file changed, 8 insertions(+), 2 deletions(-) 1 file changed, 8 insertions(+), 2 deletions(-)
+Updating 58436de..1f89b0e
+Fast-forward
+ code/static/css/default.css |  2 +-
+ code/static/css/layout.css  | 56 ++++++++++++++++++++++-----------------------
+ 2 files changed, 29 insertions(+), 29 deletions(-) 2 files changed, 29 insertions(+), 29 deletions(-)
+Updating 1f89b0e..f603016
+Fast-forward
+ code/static/css/layout.css | 7 +++++++
+ 1 file changed, 7 insertions(+) 1 file changed, 7 insertions(+)
+Updating f603016..e52456a
+Fast-forward
+ code/static/css/cryptoio-woocommerce.css | 3696 ++++++++++++++++++++++++++++++
+ 1 file changed, 3696 insertions(+) 1 file changed, 3696 insertions(+)
+Updating e52456a..0419681
+Fast-forward
+ code/static/css/layout.css | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-) 1 file changed, 4 insertions(+), 2 deletions(-)
+Updating 0419681..1a51584
+Fast-forward
+ code/static/css/layout.css | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-) 1 file changed, 4 insertions(+), 2 deletions(-)
+Updating 1a51584..dbc2c0b
+Fast-forward
+ code/static/css/layout.css | 23 ++++++++++++-----------
+ 1 file changed, 12 insertions(+), 11 deletions(-) 1 file changed, 12 insertions(+), 11 deletions(-)
+Updating dbc2c0b..c78d297
+Fast-forward
+ .../charts/class-slz-shortcode-charts.php          |  34 ++
+ .../cryptoio/shortcodes/charts/config.php          |  53 +++
+ .../cryptoio/shortcodes/charts/static.php          |  15 +
+ .../shortcodes/charts/static/js/slz-charts.js      |   4 +
+ .../cryptoio/shortcodes/charts/vc_options.php      | 140 +++++++
+ .../cryptoio/shortcodes/charts/views/view.php      | 164 ++++++++
+ .../cryptoio/static/js/cryptoio-chart.js           | 443 ++++-----------------
+ code/functions.php                                 |   5 -
+ code/includes/visual_composer.php                  | 169 --------
+ code/vc_templates/slz_charts.php                   | 159 --------
+ 10 files changed, 492 insertions(+), 694 deletions(-)
+ create mode 100755 code/framework-customizations/extensions/cryptoio/shortcodes/charts/class-slz-shortcode-charts.php
+ create mode 100755 code/framework-customizations/extensions/cryptoio/shortcodes/charts/config.php
+ create mode 100644 code/framework-customizations/extensions/cryptoio/shortcodes/charts/static.php
+ create mode 100644 code/framework-customizations/extensions/cryptoio/shortcodes/charts/static/js/slz-charts.js
+ create mode 100755 code/framework-customizations/extensions/cryptoio/shortcodes/charts/vc_options.php
+ create mode 100644 code/framework-customizations/extensions/cryptoio/shortcodes/charts/views/view.php
+ delete mode 100644 code/includes/visual_composer.php
+ delete mode 100644 code/vc_templates/slz_charts.php delete mode 100644 code/vc_templates/slz_charts.php
+Already up-to-date.Already up-to-date.
+Updating c78d297..66a5131
+Fast-forward
+ code/static/css/layout.css | 6 ++++++
+ 1 file changed, 6 insertions(+) 1 file changed, 6 insertions(+)
+Updating 66a5131..c20ad11
+Fast-forward
+ code/static/css/layout.css | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-) 1 file changed, 2 insertions(+), 1 deletion(-)
+Already up-to-date.Already up-to-date.
+Updating c20ad11..e46984d
+Fast-forward
+ code/static/css/layout.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating e46984d..d607b86
+Fast-forward
+ code/static/css/layout.css | 5 +++++
+ 1 file changed, 5 insertions(+) 1 file changed, 5 insertions(+)
+Updating d607b86..0a36de7
+Fast-forward
+ code/static/css/layout.css | 7 +------
+ 1 file changed, 1 insertion(+), 6 deletions(-) 1 file changed, 1 insertion(+), 6 deletions(-)

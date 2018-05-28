@@ -1,0 +1,151 @@
+Updating e5a0049..7078897
+Fast-forward
+ .../shortcodes/shortcodes/main-title/static/css/main-title.css           | 1 +
+ .../shortcodes/shortcodes/main-title/static/css/main-title.scss          | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Updating 7078897..ad8166d
+Fast-forward
+ .../team-block/static/css/team-block.css           | 28 +++++++---------------
+ .../team-block/static/css/team-block.scss          |  4 ++--
+ .../team-carousel/static/css/team-carousel.css     | 10 ++++----
+ 3 files changed, 16 insertions(+), 26 deletions(-) 3 files changed, 16 insertions(+), 26 deletions(-)
+Updating ad8166d..193a891
+Fast-forward
+ .../extensions/posts/posts/post-01/views/info.php  |   6 ++
+ .../posts/posts/post-01/views/related_item.php     |  53 ++++++++++
+ .../extensions/posts/posts/post-01/views/view.php  | 109 ++++++++++++++++++++
+ .../extensions/posts/posts/post-02/views/info.php  |   6 ++
+ .../posts/posts/post-02/views/related_item.php     |  53 ++++++++++
+ .../extensions/posts/posts/post-02/views/view.php  | 103 +++++++++++++++++++
+ .../extensions/posts/posts/post-03/views/info.php  |   6 ++
+ .../posts/posts/post-03/views/related_item.php     |  54 ++++++++++
+ .../extensions/posts/posts/post-03/views/view.php  | 110 +++++++++++++++++++++
+ .../extensions/posts/posts/post-04/views/info.php  |   6 ++
+ .../posts/posts/post-04/views/related_item.php     |  53 ++++++++++
+ .../extensions/posts/posts/post-04/views/view.php  | 108 ++++++++++++++++++++
+ .../extensions/posts/posts/post-05/views/info.php  |  11 +++
+ .../posts/posts/post-05/views/related_item.php     |  54 ++++++++++
+ .../extensions/posts/posts/post-05/views/view.php  | 102 +++++++++++++++++++
+ 15 files changed, 834 insertions(+)
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-01/views/info.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-01/views/related_item.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-01/views/view.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-02/views/info.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-02/views/related_item.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-02/views/view.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-03/views/info.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-03/views/related_item.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-03/views/view.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-04/views/info.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-04/views/related_item.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-04/views/view.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-05/views/info.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-05/views/related_item.php
+ create mode 100755 code/framework-customizations/extensions/posts/posts/post-05/views/view.php create mode 100755 code/framework-customizations/extensions/posts/posts/post-05/views/view.php
+Updating 193a891..823df16
+Fast-forward
+ .../shortcodes/main-title/views/view.php           | 94 ++++++++++++++++++++++
+ 1 file changed, 94 insertions(+)
+ create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/main-title/views/view.php create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/main-title/views/view.php
+Updating 823df16..4b6200a
+Fast-forward
+ .../shortcodes/shortcodes/progress-bar/static/css/progress-bar.css       | 1 +
+ .../shortcodes/shortcodes/progress-bar/static/css/progress-bar.scss      | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Updating 4b6200a..e854747
+Fast-forward
+ .../shortcodes/shortcodes/count-down/static/css/count-down.css         | 3 +++
+ .../shortcodes/shortcodes/count-down/static/css/count-down.scss        | 1 +
+ 2 files changed, 4 insertions(+) 2 files changed, 4 insertions(+)
+Updating e854747..e274a47
+Fast-forward
+ code/includes/visual_composer.php | 346 --------------------------------------
+ code/vc_templates/slz_charts.php  |   5 +-
+ 2 files changed, 2 insertions(+), 349 deletions(-) 2 files changed, 2 insertions(+), 349 deletions(-)
+Updating e274a47..eda4d9d
+Fast-forward
+ .../count-down/static/css/count-down.css           | 26 +++++++++++-----------
+ .../count-down/static/css/count-down.scss          |  4 ++--
+ 2 files changed, 15 insertions(+), 15 deletions(-) 2 files changed, 15 insertions(+), 15 deletions(-)
+Updating eda4d9d..a6f3f2b
+Fast-forward
+ .../shortcodes/progress-bar/vc_options.php         | 40 +++++++---
+ .../shortcodes/progress-bar/views/layout-1.php     | 93 +++++++++++++---------
+ .../shortcodes/progress-bar/views/view.php         |  4 -
+ .../theme/options/general-settings.php             | 16 +++-
+ 4 files changed, 97 insertions(+), 56 deletions(-) 4 files changed, 97 insertions(+), 56 deletions(-)
+Updating a6f3f2b..f4e391d
+Fast-forward
+ .../count-down/static/css/count-down.css           |  16 +++
+ .../count-down/static/css/count-down.scss          | 149 ++++++++++++---------
+ 2 files changed, 98 insertions(+), 67 deletions(-) 2 files changed, 98 insertions(+), 67 deletions(-)
+Updating f4e391d..1cda960
+Fast-forward
+ .../shortcodes/shortcodes/count-down/static/css/count-down.css    | 8 ++++++++
+ .../shortcodes/shortcodes/count-down/static/css/count-down.scss   | 3 +++
+ 2 files changed, 11 insertions(+) 2 files changed, 11 insertions(+)
+Updating 1cda960..7845cee
+Fast-forward
+ .../shortcodes/count-down/static/css/count-down.css      | 16 ++++++++++++++++
+ .../shortcodes/count-down/static/css/count-down.scss     |  6 ++++++
+ 2 files changed, 22 insertions(+) 2 files changed, 22 insertions(+)
+Updating 7845cee..4898d7f
+Fast-forward
+ .../count-down/static/css/count-down.css           | 23 ++++++++++++++++++++++
+ .../count-down/static/css/count-down.scss          | 22 +++++++++++++++++++++
+ 2 files changed, 45 insertions(+) 2 files changed, 45 insertions(+)
+Updating 4898d7f..1e677bd
+Fast-forward
+ .../count-down/static/css/count-down.css           | 22 ++++++++++++++++++++++
+ .../count-down/static/css/count-down.scss          | 18 ++++++++++++++++--
+ 2 files changed, 38 insertions(+), 2 deletions(-) 2 files changed, 38 insertions(+), 2 deletions(-)
+Updating 1e677bd..8b89ace
+Fast-forward
+ .../shortcodes/shortcodes/count-down/static/css/count-down.css    | 8 ++++++--
+ .../shortcodes/shortcodes/count-down/static/css/count-down.scss   | 4 ++--
+ 2 files changed, 8 insertions(+), 4 deletions(-) 2 files changed, 8 insertions(+), 4 deletions(-)
+Updating 8b89ace..1b9c1bc
+Fast-forward
+ .../count-down/static/css/count-down.css           | 15 +++++++++++++++
+ .../count-down/static/css/count-down.scss          | 22 +++++++++++++++++++---
+ 2 files changed, 34 insertions(+), 3 deletions(-) 2 files changed, 34 insertions(+), 3 deletions(-)
+Updating 1b9c1bc..d89a38c
+Fast-forward
+ .../shortcodes/count-down/static/css/count-down.css     | 13 +++++++++++--
+ .../shortcodes/count-down/static/css/count-down.scss    | 17 +++++++++++++++--
+ 2 files changed, 26 insertions(+), 4 deletions(-) 2 files changed, 26 insertions(+), 4 deletions(-)
+Updating d89a38c..aafe454
+Fast-forward
+ .../shortcodes/shortcodes/count-down/static/css/count-down.css | 10 +++++-----
+ .../shortcodes/count-down/static/css/count-down.scss           |  8 ++++----
+ 2 files changed, 9 insertions(+), 9 deletions(-) 2 files changed, 9 insertions(+), 9 deletions(-)
+Updating aafe454..0c2bf6b
+Fast-forward
+ .../shortcodes/shortcodes/count-down/static/css/count-down.css |  5 +++++
+ .../shortcodes/count-down/static/css/count-down.scss           | 10 ++++++++++
+ 2 files changed, 15 insertions(+) 2 files changed, 15 insertions(+)
+Updating 0c2bf6b..efb792b
+Fast-forward
+ .../shortcodes/shortcodes/count-down/static/css/count-down.css          | 2 ++
+ .../shortcodes/shortcodes/count-down/static/css/count-down.scss         | 2 ++
+ 2 files changed, 4 insertions(+) 2 files changed, 4 insertions(+)
+Updating efb792b..aa78311
+Fast-forward
+ .../shortcodes/shortcodes/count-down/static/css/count-down.scss         | 2 +-
+ .../shortcodes/shortcodes/features-block/static/css/features-block.css  | 1 +
+ .../shortcodes/shortcodes/features-block/static/css/features-block.scss | 1 +
+ 3 files changed, 3 insertions(+), 1 deletion(-) 3 files changed, 3 insertions(+), 1 deletion(-)
+Updating aa78311..6846694
+Fast-forward
+ .../shortcodes/shortcodes/features-block/static/css/features-block.css   | 1 -
+ .../shortcodes/shortcodes/features-block/static/css/features-block.scss  | 1 -
+ 2 files changed, 2 deletions(-) 2 files changed, 2 deletions(-)
+Updating 6846694..8a89912
+Fast-forward
+ .../shortcodes/shortcodes/features-block/static/css/features-block.css  | 2 +-
+ .../shortcodes/shortcodes/features-block/static/css/features-block.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 8a89912..40ee3bf
+Fast-forward
+ .../shortcodes/shortcodes/features-block/static/css/features-block.scss | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)

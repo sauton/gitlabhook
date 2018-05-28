@@ -1,0 +1,417 @@
+Updating 146ebf1..3795276
+Fast-forward
+ .../extensions/teams/shortcodes/team-carousel/vc_options.php      | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-) 1 file changed, 4 insertions(+), 4 deletions(-)
+Updating 3795276..d902211
+Fast-forward
+ .../shortcodes/team-carousel/static/css/team-carousel.css  | 14 ++++++++++++++
+ .../shortcodes/team-carousel/static/css/team-carousel.scss | 14 ++++++++++++++
+ 2 files changed, 28 insertions(+) 2 files changed, 28 insertions(+)
+Updating d902211..7d0a86a
+Fast-forward
+ .../shortcodes/team-carousel/static/css/team-carousel.css    | 12 ++++++++++++
+ .../shortcodes/team-carousel/static/css/team-carousel.scss   | 11 +++++++++++
+ 2 files changed, 23 insertions(+) 2 files changed, 23 insertions(+)
+Updating 7d0a86a..971bfbc
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css         | 18 +++++++++---------
+ .../team-carousel/static/css/team-carousel.scss        | 16 +++++++---------
+ 2 files changed, 16 insertions(+), 18 deletions(-) 2 files changed, 16 insertions(+), 18 deletions(-)
+Already up-to-date.Already up-to-date.
+Updating 971bfbc..1207545
+Fast-forward
+ .../shortcodes/team-carousel/static/css/team-carousel.css      | 10 ++++++++++
+ .../shortcodes/team-carousel/static/css/team-carousel.scss     | 10 ++++++++++
+ 2 files changed, 20 insertions(+) 2 files changed, 20 insertions(+)
+Already up-to-date.Already up-to-date.
+Updating 1207545..2189953
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css     | 37 ++++++++++++++++++++++
+ .../team-carousel/static/css/team-carousel.scss    | 36 +++++++++++++++++++++
+ 2 files changed, 73 insertions(+) 2 files changed, 73 insertions(+)
+Updating 2189953..5d61714
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css         | 2 +-
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss        | 2 --
+ 2 files changed, 1 insertion(+), 3 deletions(-) 2 files changed, 1 insertion(+), 3 deletions(-)
+Updating 5d61714..1697ece
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css       | 4 ++++
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss      | 3 +++
+ 2 files changed, 7 insertions(+) 2 files changed, 7 insertions(+)
+Updating 1697ece..ebf3729
+Fast-forward
+ .../shortcodes/team-carousel/static/css/team-carousel.css      | 10 +++++++++-
+ .../shortcodes/team-carousel/static/css/team-carousel.scss     |  6 +++++-
+ 2 files changed, 14 insertions(+), 2 deletions(-) 2 files changed, 14 insertions(+), 2 deletions(-)
+Updating ebf3729..202831c
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css         | 2 +-
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss        | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 202831c..b3b9e88
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css     | 5 +++++
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss    | 6 ++++++
+ 2 files changed, 11 insertions(+) 2 files changed, 11 insertions(+)
+Updating b3b9e88..2a6a18f
+Fast-forward
+ .../shortcodes/team-carousel/static/css/team-carousel.css    | 10 +++++-----
+ .../shortcodes/team-carousel/static/css/team-carousel.scss   | 12 ++++++------
+ 2 files changed, 11 insertions(+), 11 deletions(-) 2 files changed, 11 insertions(+), 11 deletions(-)
+Updating 2a6a18f..4ca35a0
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css     | 39 --------------
+ .../team-carousel/static/css/team-carousel.scss    | 62 +++++++++++-----------
+ 2 files changed, 31 insertions(+), 70 deletions(-) 2 files changed, 31 insertions(+), 70 deletions(-)
+Updating 4ca35a0..245b1f4
+Fast-forward
+ .../shortcodes/team-carousel/static/css/team-carousel.css      |  5 -----
+ .../shortcodes/team-carousel/static/css/team-carousel.scss     | 10 +++++-----
+ 2 files changed, 5 insertions(+), 10 deletions(-) 2 files changed, 5 insertions(+), 10 deletions(-)
+Updating 245b1f4..64ef4e1
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css         | 2 +-
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss        | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 64ef4e1..b24bbf7
+Fast-forward
+ .../shortcodes/team-carousel/static/css/team-carousel.css      |  5 +++++
+ .../shortcodes/team-carousel/static/css/team-carousel.scss     | 10 +++++-----
+ 2 files changed, 10 insertions(+), 5 deletions(-) 2 files changed, 10 insertions(+), 5 deletions(-)
+Already up-to-date.Already up-to-date.
+Updating b24bbf7..eb18a2b
+Fast-forward
+ .../teams/shortcodes/team-carousel/views/layout-5.php        | 12 ++++++++++--
+ 1 file changed, 10 insertions(+), 2 deletions(-) 1 file changed, 10 insertions(+), 2 deletions(-)
+Updating eb18a2b..2c3fbe3
+Fast-forward
+ .../teams/shortcodes/team-carousel/views/layout-5.php      | 14 +++-----------
+ 1 file changed, 3 insertions(+), 11 deletions(-) 1 file changed, 3 insertions(+), 11 deletions(-)
+Updating 2c3fbe3..11a487b
+Fast-forward
+ .../extensions/teams/shortcodes/team-carousel/views/layout-5.php      | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Updating 11a487b..60b39e5
+Fast-forward
+ .../extensions/teams/shortcodes/team-carousel/views/layout-5.php      | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-) 1 file changed, 3 insertions(+), 1 deletion(-)
+Updating 60b39e5..4428aae
+Fast-forward
+ .../shortcodes/team-carousel/static/css/team-carousel.css      | 10 ++++++++++
+ .../shortcodes/team-carousel/static/css/team-carousel.scss     |  8 ++++++++
+ 2 files changed, 18 insertions(+) 2 files changed, 18 insertions(+)
+Updating 4428aae..2e7dd7e
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css          | 12 +++++-------
+ .../team-carousel/static/css/team-carousel.scss         | 17 ++++++++++-------
+ 2 files changed, 15 insertions(+), 14 deletions(-) 2 files changed, 15 insertions(+), 14 deletions(-)
+Updating 2e7dd7e..a5fd6bc
+Fast-forward
+ .../shortcodes/shortcodes/features-block/views/layout-3.php       | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-) 1 file changed, 4 insertions(+), 4 deletions(-)
+Updating a5fd6bc..8d9dfce
+Fast-forward
+ .../shortcodes/team-carousel/static/css/team-carousel.css      | 10 ++++++----
+ .../shortcodes/team-carousel/static/css/team-carousel.scss     | 10 ++++++----
+ 2 files changed, 12 insertions(+), 8 deletions(-) 2 files changed, 12 insertions(+), 8 deletions(-)
+Updating 8d9dfce..a920a5f
+Fast-forward
+ .../extensions/shortcodes/shortcodes/count-down/vc_options.php          | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating a920a5f..80892e5
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css        | 19 ++++++++++---------
+ .../team-carousel/static/css/team-carousel.scss       | 18 ++++++++++--------
+ 2 files changed, 20 insertions(+), 17 deletions(-) 2 files changed, 20 insertions(+), 17 deletions(-)
+Updating 80892e5..5aad160
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css     | 20 +++++++++++--
+ .../team-carousel/static/css/team-carousel.scss    | 33 +++++++++-------------
+ 2 files changed, 31 insertions(+), 22 deletions(-) 2 files changed, 31 insertions(+), 22 deletions(-)
+Updating 5aad160..0b51c3d
+Fast-forward
+ .../shortcodes/team-carousel/static/css/team-carousel.css     |  8 ++------
+ .../shortcodes/team-carousel/static/css/team-carousel.scss    | 11 ++++++-----
+ 2 files changed, 8 insertions(+), 11 deletions(-) 2 files changed, 8 insertions(+), 11 deletions(-)
+Updating 0b51c3d..dd66eff
+Fast-forward
+ .../shortcodes/team-carousel/static/css/team-carousel.css     |  2 +-
+ .../shortcodes/team-carousel/static/css/team-carousel.scss    | 11 +----------
+ 2 files changed, 2 insertions(+), 11 deletions(-) 2 files changed, 2 insertions(+), 11 deletions(-)
+Updating dd66eff..9e64ad4
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css     | 15 +++++++-
+ .../team-carousel/static/css/team-carousel.scss    | 40 +++++++++++++---------
+ 2 files changed, 37 insertions(+), 18 deletions(-) 2 files changed, 37 insertions(+), 18 deletions(-)
+Updating 9e64ad4..530adfd
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css       | 4 ++++
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss      | 3 +++
+ 2 files changed, 7 insertions(+) 2 files changed, 7 insertions(+)
+Updating 530adfd..8fe05c6
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css       | 4 ++++
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss      | 3 +++
+ 2 files changed, 7 insertions(+) 2 files changed, 7 insertions(+)
+Updating 8fe05c6..1c1cf21
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css     | 130 +--------------------
+ .../team-carousel/static/css/team-carousel.scss    |  29 +----
+ 2 files changed, 5 insertions(+), 154 deletions(-) 2 files changed, 5 insertions(+), 154 deletions(-)
+Updating 1c1cf21..bcac6e9
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/config.php   |  12 +-
+ .../shortcodes/icons-block/options/layout-1.php    |  48 ++--
+ .../shortcodes/icons-block/options/layout-2.php    |  42 ++--
+ .../shortcodes/icons-block/options/layout-4.php    |   8 +-
+ .../shortcodes/icons-block/vc_options.php          | 180 ++++++-------
+ .../shortcodes/icons-block/views/layout-1.php      | 258 +++++++++----------
+ .../shortcodes/icons-block/views/layout-2.php      | 278 ++++++++++-----------
+ .../shortcodes/icons-block/views/layout-3.php      |   2 +-
+ .../shortcodes/icons-block/views/layout-4.php      |   2 +-
+ .../shortcodes/icons-block/views/view.php          |   2 +-
+ .../shortcodes/shortcodes/social/config.php        |  14 +-
+ .../shortcodes/shortcodes/social/vc_options.php    |  44 ++--
+ 12 files changed, 445 insertions(+), 445 deletions(-) 12 files changed, 445 insertions(+), 445 deletions(-)
+Updating bcac6e9..078eda7
+Fast-forward
+ .../shortcodes/shortcodes/contact-form/config.php  |  47 ++
+ .../shortcodes/shortcodes/contact-form/static.php  |  18 +
+ .../contact-form/static/css/_contact-form.scss     | 905 +++++++++++++++++++++
+ .../shortcodes/contact-form/vc_options.php         | 172 ++++
+ .../shortcodes/contact-form/views/view.php         | 157 ++++
+ 5 files changed, 1299 insertions(+)
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact-form/config.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact-form/static.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact-form/static/css/_contact-form.scss
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact-form/vc_options.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact-form/views/view.php create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact-form/views/view.php
+Updating 078eda7..25da6ec
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css         | 18 +++++++++++-------
+ .../team-carousel/static/css/team-carousel.scss        | 17 ++++++++++-------
+ 2 files changed, 21 insertions(+), 14 deletions(-) 2 files changed, 21 insertions(+), 14 deletions(-)
+Updating 25da6ec..35a6bd5
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css   | 8 ++++----
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss  | 8 +++-----
+ 2 files changed, 7 insertions(+), 9 deletions(-) 2 files changed, 7 insertions(+), 9 deletions(-)
+Updating 35a6bd5..be17d76
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css     | 68 +++++++++++++++++--
+ .../team-carousel/static/css/team-carousel.scss    | 79 ++++++++++++++++++----
+ 2 files changed, 130 insertions(+), 17 deletions(-) 2 files changed, 130 insertions(+), 17 deletions(-)
+Updating be17d76..81f36fc
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css     | 104 ++++------------
+ .../team-carousel/static/css/team-carousel.scss    | 136 ++++++++++-----------
+ 2 files changed, 92 insertions(+), 148 deletions(-) 2 files changed, 92 insertions(+), 148 deletions(-)
+Updating 81f36fc..fe6bbb2
+Fast-forward
+ .../shortcodes/shortcodes/contact/config.php       |  49 ++
+ .../shortcodes/contact/options/layout-1.php        |  24 +
+ .../shortcodes/contact/options/layout-2.php        |  30 +
+ .../shortcodes/shortcodes/contact/static.php       |   9 +
+ .../shortcodes/contact/static/css/contact.css      | 609 ++++++++++++++++++++
+ .../shortcodes/contact/static/css/contact.scss     | 638 +++++++++++++++++++++
+ .../shortcodes/shortcodes/contact/vc_options.php   | 147 +++++
+ .../shortcodes/contact/views/layout-1.php          |  46 ++
+ .../shortcodes/contact/views/layout-2.php          |  61 ++
+ .../shortcodes/contact/views/layout-3.php          |  51 ++
+ .../shortcodes/shortcodes/contact/views/view.php   |  55 ++
+ 11 files changed, 1719 insertions(+)
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact/config.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact/options/layout-1.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact/options/layout-2.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact/static.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact/static/css/contact.css
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact/static/css/contact.scss
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact/vc_options.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact/views/layout-1.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact/views/layout-2.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/contact/views/layout-3.php
+ create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/contact/views/view.php create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/contact/views/view.php
+Updating fe6bbb2..fec5c0c
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css     |  70 +++++------
+ .../team-carousel/static/css/team-carousel.scss    | 130 +++++++++------------
+ 2 files changed, 90 insertions(+), 110 deletions(-) 2 files changed, 90 insertions(+), 110 deletions(-)
+Updating fec5c0c..37b256c
+Fast-forward
+ .../shortcodes/shortcodes/contact/static/css/contact.css          | 8 ++++----
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css   | 4 ++++
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss  | 3 +++
+ .../extensions/teams/shortcodes/team-carousel/views/layout-3.php  | 5 +++--
+ 4 files changed, 14 insertions(+), 6 deletions(-) 4 files changed, 14 insertions(+), 6 deletions(-)
+Updating 37b256c..4b6a23c
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css  | 8 ++++----
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss | 9 +++++----
+ 2 files changed, 9 insertions(+), 8 deletions(-) 2 files changed, 9 insertions(+), 8 deletions(-)
+Updating 4b6a23c..226168f
+Fast-forward
+ .../shortcodes/shortcodes/contact/views/layout-1.php       |  2 +-
+ .../shortcodes/shortcodes/contact/views/layout-2.php       |  4 ++--
+ .../shortcodes/shortcodes/contact/views/layout-3.php       |  2 +-
+ code/functions.php                                         | 14 ++++++++++++++
+ 4 files changed, 18 insertions(+), 4 deletions(-) 4 files changed, 18 insertions(+), 4 deletions(-)
+Updating 226168f..2bc2292
+Fast-forward
+ .../extensions/shortcodes/helpers.php              | 68 ----------------------
+ code/includes/hooks.php                            |  2 +-
+ 2 files changed, 1 insertion(+), 69 deletions(-)
+ delete mode 100755 code/framework-customizations/extensions/shortcodes/helpers.php delete mode 100755 code/framework-customizations/extensions/shortcodes/helpers.php
+Updating 2bc2292..e550cfd
+Fast-forward
+ .../extensions/teams/shortcodes/team-carousel/views/layout-3.php     | 5 ++---
+ .../extensions/teams/shortcodes/team-carousel/views/layout-4.php     | 2 +-
+ 2 files changed, 3 insertions(+), 4 deletions(-) 2 files changed, 3 insertions(+), 4 deletions(-)
+Updating e550cfd..1214afd
+Fast-forward
+ .../extensions/teams/shortcodes/team-carousel/views/layout-4.php        | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 1214afd..b5265e3
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css     | 20 +++++-----
+ .../team-carousel/static/css/team-carousel.scss    | 46 ++++++++++++++--------
+ 2 files changed, 40 insertions(+), 26 deletions(-) 2 files changed, 40 insertions(+), 26 deletions(-)
+Updating b5265e3..e389191
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css         | 2 +-
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss        | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating e389191..5b5ce74
+Fast-forward
+ .../shortcodes/shortcodes/partner/config.php       |  58 ++++
+ .../shortcodes/shortcodes/partner/static.php       |  16 ++
+ .../shortcodes/partner/static/css/partner.css      | 292 +++++++++++++++++++++
+ .../shortcodes/partner/static/css/partner.scss     | 262 ++++++++++++++++++
+ .../shortcodes/partner/static/js/partner.js        |  83 ++++++
+ .../shortcodes/shortcodes/partner/vc_options.php   | 274 +++++++++++++++++++
+ .../shortcodes/shortcodes/partner/views/list.php   |   7 +
+ .../shortcodes/shortcodes/partner/views/slide.php  |  47 ++++
+ .../shortcodes/shortcodes/partner/views/view.php   |  19 ++
+ code/includes/hooks.php                            |   2 +-
+ 10 files changed, 1059 insertions(+), 1 deletion(-)
+ create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/partner/config.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/partner/static.php
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/partner/static/css/partner.css
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/partner/static/css/partner.scss
+ create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/partner/static/js/partner.js
+ create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/partner/vc_options.php
+ create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/partner/views/list.php
+ create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/partner/views/slide.php
+ create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/partner/views/view.php create mode 100755 code/framework-customizations/extensions/shortcodes/shortcodes/partner/views/view.php
+Updating 5b5ce74..a9b1a26
+Fast-forward
+ .../shortcodes/shortcodes/partner/config.php       |   16 +-
+ .../shortcodes/shortcodes/partner/vc_options.php   |  128 +-
+ .../testimonials/shortcodes/testimonial/config.php |  112 +
+ .../shortcodes/testimonial/options/layout-1.php    |   57 +
+ .../shortcodes/testimonial/options/layout-2.php    |   96 +
+ .../shortcodes/testimonial/options/layout-4.php    |   57 +
+ .../shortcodes/testimonial/options/layout-5.php    |   77 +
+ .../shortcodes/testimonial/options/layout-6.php    |   22 +
+ .../testimonials/shortcodes/testimonial/static.php |   16 +
+ .../testimonial/static/css/testimonial.css         | 2669 ++++++++++++++++++++
+ .../testimonial/static/css/testimonial.scss        | 2636 +++++++++++++++++++
+ .../testimonial/static/js/testimonial.js           |  589 +++++
+ .../shortcodes/testimonial/vc_options.php          |  359 +++
+ .../shortcodes/testimonial/views/layout-1.php      |   81 +
+ .../shortcodes/testimonial/views/layout-2.php      |  158 ++
+ .../shortcodes/testimonial/views/layout-4.php      |  130 +
+ .../shortcodes/testimonial/views/layout-5.php      |  100 +
+ .../shortcodes/testimonial/views/layout-6.php      |   92 +
+ .../shortcodes/testimonial/views/view.php          |   65 +
+ 19 files changed, 7388 insertions(+), 72 deletions(-)
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/config.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/options/layout-1.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/options/layout-2.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/options/layout-4.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/options/layout-5.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/options/layout-6.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/static.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/static/css/testimonial.css
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/static/css/testimonial.scss
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/static/js/testimonial.js
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/vc_options.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/layout-1.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/layout-2.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/layout-4.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/layout-5.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/layout-6.php
+ create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/view.php create mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/view.php
+Updating a9b1a26..f761308
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css     | 17 +++---
+ .../team-carousel/static/css/team-carousel.scss    | 70 ++++++----------------
+ 2 files changed, 26 insertions(+), 61 deletions(-) 2 files changed, 26 insertions(+), 61 deletions(-)
+Updating f761308..adb2429
+Fast-forward
+ .../shortcodes/partner/static/css/partner.css      |  2 +-
+ .../team-carousel/static/css/team-carousel.css     |  8 ++-----
+ .../team-carousel/static/css/team-carousel.scss    | 27 ++++++++++------------
+ .../testimonial/static/css/testimonial.css         | 22 +++++++++---------
+ 4 files changed, 26 insertions(+), 33 deletions(-) 4 files changed, 26 insertions(+), 33 deletions(-)
+Updating adb2429..9345dfd
+Fast-forward
+ .../team-carousel/static/css/team-carousel.css     | 108 ++-------------------
+ .../team-carousel/static/css/team-carousel.scss    |  30 +-----
+ 2 files changed, 10 insertions(+), 128 deletions(-) 2 files changed, 10 insertions(+), 128 deletions(-)
+Updating 9345dfd..a3cca13
+Fast-forward
+ .../static/css/timeline_carousel.css               | 331 +++++++++++----------
+ .../static/css/timeline_carousel.scss              | 194 ++++++++++++
+ 2 files changed, 370 insertions(+), 155 deletions(-)
+ create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/timeline-carousel/static/css/timeline_carousel.scss create mode 100644 code/framework-customizations/extensions/shortcodes/shortcodes/timeline-carousel/static/css/timeline_carousel.scss
+Updating a3cca13..5782eeb
+Fast-forward
+ .../shortcodes/timeline-carousel/static/js/timeline_carousel.js         | 2 ++
+ 1 file changed, 2 insertions(+) 1 file changed, 2 insertions(+)
+Updating 5782eeb..a6f1de0
+Fast-forward
+ .../static/css/timeline_carousel.css               | 112 +++++++++++----------
+ .../static/css/timeline_carousel.scss              |   3 +
+ .../timeline-carousel/views/layout-1.php           |   8 +-
+ 3 files changed, 66 insertions(+), 57 deletions(-) 3 files changed, 66 insertions(+), 57 deletions(-)
+Updating a6f1de0..a66c835
+Fast-forward
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.css    | 5 +++++
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.scss   | 4 ++++
+ 2 files changed, 9 insertions(+) 2 files changed, 9 insertions(+)
+Updating a66c835..cc119e2
+Fast-forward
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.css     | 4 ++++
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.scss    | 3 +++
+ 2 files changed, 7 insertions(+) 2 files changed, 7 insertions(+)
+Updating cc119e2..fa991bf
+Fast-forward
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.css       | 2 ++
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.scss      | 2 ++
+ 2 files changed, 4 insertions(+) 2 files changed, 4 insertions(+)
+Updating fa991bf..e26147b
+Fast-forward
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.css        | 1 +
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.scss       | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Updating e26147b..fb33d42
+Fast-forward
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.css     | 4 +++-
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.scss    | 4 +++-
+ 2 files changed, 6 insertions(+), 2 deletions(-) 2 files changed, 6 insertions(+), 2 deletions(-)
+Updating fb33d42..64cfbb3
+Fast-forward
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.css   | 6 +++---
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.scss  | 6 +++---
+ 2 files changed, 6 insertions(+), 6 deletions(-) 2 files changed, 6 insertions(+), 6 deletions(-)
+Updating 64cfbb3..eadb517
+Fast-forward
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.css   | 6 +++---
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.scss  | 6 +++---
+ 2 files changed, 6 insertions(+), 6 deletions(-) 2 files changed, 6 insertions(+), 6 deletions(-)
+Updating eadb517..f60cd49
+Fast-forward
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.css   | 6 +++---
+ .../shortcodes/timeline-carousel/static/css/timeline_carousel.scss  | 6 +++---
+ 2 files changed, 6 insertions(+), 6 deletions(-) 2 files changed, 6 insertions(+), 6 deletions(-)

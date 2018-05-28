@@ -1,0 +1,30 @@
+Not expected branch : refs/heads/tai_abc
+Not expected branch : refs/heads/tai_abc
+Not expected branch : refs/heads/style_tailm
+Updating bc07f5f..53c6bc8
+Fast-forward
+ code/theme/static/css/layout.css  | 4 ++++
+ code/theme/static/css/layout.scss | 3 +++
+ 2 files changed, 7 insertions(+) 2 files changed, 7 insertions(+)
+Not expected branch : refs/heads/style_tailm
+Updating 53c6bc8..762a3ad
+Fast-forward
+ code/theme/static/css/layout.css  | 2 +-
+ code/theme/static/css/layout.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Updating 762a3ad..c63bfb5
+Fast-forward
+ code/theme/static/css/educhain-components.css  | 2 +-
+ code/theme/static/css/educhain-components.scss | 2 +-
+ code/theme/static/css/layout.css               | 4 ----
+ code/theme/static/css/layout.scss              | 3 ---
+ 4 files changed, 2 insertions(+), 9 deletions(-) 4 files changed, 2 insertions(+), 9 deletions(-)
+Updating a698969..384030f
+Fast-forward
+ front/views/coursedashboard/overview.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 384030f..217e938
+Fast-forward
+ shortcodes/course/shortcodes/assets/styles/lema-course-detail.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)

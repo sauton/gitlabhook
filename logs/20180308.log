@@ -1,0 +1,109 @@
+Updating b83f6b7..e2c16a4
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 3 ++-
+ code/theme/static/css/lema-custom.scss | 6 ++++--
+ code/theme/style.css                   | 2 +-
+ 3 files changed, 7 insertions(+), 4 deletions(-) 3 files changed, 7 insertions(+), 4 deletions(-)
+Updating e2c16a4..dfacdae
+Fast-forward
+ code/theme/static/css/layout.css       | 18 +++++++-----------
+ code/theme/static/css/layout.scss      | 17 ++++++++++-------
+ code/theme/static/css/lema-custom.css  |  2 +-
+ code/theme/static/css/lema-custom.scss |  2 +-
+ 4 files changed, 19 insertions(+), 20 deletions(-) 4 files changed, 19 insertions(+), 20 deletions(-)
+Updating dfacdae..4fcec6e
+Fast-forward
+ code/theme/static/css/layout.css  | 4 ++++
+ code/theme/static/css/layout.scss | 4 ++++
+ 2 files changed, 8 insertions(+) 2 files changed, 8 insertions(+)
+Updating 4fcec6e..03e889c
+Fast-forward
+ code/theme/style.css | 4 ++++
+ 1 file changed, 4 insertions(+) 1 file changed, 4 insertions(+)
+Updating 03e889c..7245000
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 3 ++-
+ code/theme/static/css/lema-custom.scss | 3 ++-
+ 2 files changed, 4 insertions(+), 2 deletions(-) 2 files changed, 4 insertions(+), 2 deletions(-)
+Updating 7245000..9d51f86
+Fast-forward
+ code/theme/static/css/lema-custom.css  |  8 ++++++--
+ code/theme/static/css/lema-custom.scss | 14 ++++++++++++--
+ 2 files changed, 18 insertions(+), 4 deletions(-) 2 files changed, 18 insertions(+), 4 deletions(-)
+Updating 9d51f86..1b34b7d
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 12 ++++++++++++
+ code/theme/static/css/lema-custom.scss |  8 ++++++++
+ 2 files changed, 20 insertions(+) 2 files changed, 20 insertions(+)
+Updating 1b34b7d..82f2c5b
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 21 +++++++++++++++++++++
+ code/theme/static/css/lema-custom.scss | 20 ++++++++++++++++++++
+ 2 files changed, 41 insertions(+) 2 files changed, 41 insertions(+)
+Updating 82f2c5b..b2e64f3
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 2 +-
+ code/theme/static/css/lema-custom.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating b2e64f3..1b3d19f
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 11 +++++++++++
+ code/theme/static/css/lema-custom.scss | 11 +++++++++++
+ 2 files changed, 22 insertions(+) 2 files changed, 22 insertions(+)
+Updating 1b3d19f..4acf6ef
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 2 +-
+ code/theme/static/css/lema-custom.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 4acf6ef..43274a3
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 3 ++-
+ code/theme/static/css/lema-custom.scss | 7 +++++--
+ 2 files changed, 7 insertions(+), 3 deletions(-) 2 files changed, 7 insertions(+), 3 deletions(-)
+Updating 43274a3..de007ac
+Fast-forward
+ code/theme/static/css/lema-custom.css | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-) 1 file changed, 2 insertions(+), 1 deletion(-)
+Updating de007ac..4cc4a86
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 25 +++++++++++++++++++++++++
+ code/theme/static/css/lema-custom.scss | 25 +++++++++++++++++++++++++
+ 2 files changed, 50 insertions(+) 2 files changed, 50 insertions(+)
+Updating 4cc4a86..40a8fbd
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 2 +-
+ code/theme/static/css/lema-custom.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 40a8fbd..0b01059
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 9 +++++++++
+ code/theme/static/css/lema-custom.scss | 7 +++++++
+ 2 files changed, 16 insertions(+) 2 files changed, 16 insertions(+)
+Updating 0b01059..d1ab5f3
+Fast-forward
+ .../extensions/shortcodes/shortcodes/map/static.php               | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-) 1 file changed, 4 insertions(+), 4 deletions(-)
+Updating d1ab5f3..9e3ed91
+Fast-forward
+ code/theme/static/css/layout.css  | 1 +
+ code/theme/static/css/layout.scss | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Updating 9e3ed91..2946876
+Fast-forward
+ code/theme/static/css/layout.css  | 4 ++++
+ code/theme/static/css/layout.scss | 3 +++
+ 2 files changed, 7 insertions(+) 2 files changed, 7 insertions(+)
+Not expected branch : refs/heads/master
+Updating 1851403..faefaf4
+Fast-forwardFast-forward
+Event did not allowed
+Not expected branch : refs/heads/master
+Updating 6c1d17a..b12a5c9
+Fast-forward
+ learnmaster.php | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-) 1 file changed, 3 insertions(+), 3 deletions(-)
+Not expected branch : refs/heads/master
+Updating 4ca063e..081bb55
+Fast-forward
+ lema-subscription.php | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)

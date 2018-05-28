@@ -1,0 +1,503 @@
+Not expected branch : refs/heads/duytn/header-settings
+Not expected branch : 
+Not expected branch : refs/heads/duytn/header-settings
+Not expected branch : 
+Not expected branch : refs/heads/duytn/header-settings
+Not expected branch : 
+Fail to update develop of education
+Updating 333191b..cb2d63e
+Fast-forward
+ .../headers/headers/header-09/options/logo.php     | 10 ++++--
+ .../headers/headers/header-09/options/menu.php     | 12 +++----
+ .../headers/headers/header-09/views/logo.php       | 34 +++++++++++++++---
+ .../headers/headers/header-09/views/menu.php       | 41 +++++++++++-----------
+ 4 files changed, 65 insertions(+), 32 deletions(-) 4 files changed, 65 insertions(+), 32 deletions(-)
+Not expected branch : refs/heads/duytn/header-settings
+Not expected branch : refs/heads/duytn/rename-theme
+Not expected branch : refs/heads/duytn/rename-theme
+Not expected branch : refs/heads/duytn/rename-theme
+Not expected branch : refs/heads/duytn/rename-theme
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/duytn/rename-theme
+Fail to update develop of education
+Updating cb2d63e..f568c8f
+Fast-forward
+ code/theme/404.php                                 |   30 +-
+ code/theme/archive.php                             |   24 +-
+ code/theme/author.php                              |   24 +-
+ code/theme/category.php                            |   24 +-
+ code/theme/comments.php                            |   16 +-
+ code/theme/default-templates/article.php           |   16 +-
+ code/theme/default-templates/footer.php            |    2 +-
+ code/theme/default-templates/no-content.php        |   10 +-
+ code/theme/default-templates/page.php              |   22 +-
+ code/theme/default-templates/single.php            |   16 +-
+ code/theme/footer.php                              |   40 +-
+ .../articles/articles/article-04/views/view.php    |    4 +-
+ .../extensions/events/hooks.php                    |   98 +-
+ .../extensions/events/includes/class-slz-event.php |   40 +-
+ .../events/shortcodes/event-block/config.php       |   22 +-
+ .../shortcodes/event-block/options/layout-1.php    |   18 +-
+ .../events/shortcodes/event-block/vc_options.php   |  156 +--
+ .../events/shortcodes/event-block/views/view.php   |    2 +-
+ .../events/shortcodes/event-carousel/config.php    |   14 +-
+ .../shortcodes/event-carousel/options/layout-1.php |   10 +-
+ .../event-carousel/static/js/event-carousel.js     |    6 +-
+ .../shortcodes/event-carousel/vc_options.php       |  200 +--
+ .../shortcodes/event-carousel/views/layout-2.php   |    8 +-
+ .../shortcodes/event-carousel/views/layout-3.php   |    8 +-
+ .../shortcodes/event-carousel/views/view.php       |    2 +-
+ .../extensions/events/views/single.php             |   44 +-
+ .../extensions/faq/shortcodes/faq-block/config.php |    4 +-
+ .../faq/shortcodes/faq-block/vc_options.php        |   80 +-
+ .../faq/shortcodes/faq-block/views/view.php        |    4 +-
+ .../extensions/faq/views/single.php                |    8 +-
+ .../extensions/faq/widgets/faq-category/config.php |    8 +-
+ .../faq/widgets/faq-category/views/admin.php       |   10 +-
+ .../gallery/shortcodes/gallery-carousel/config.php |   16 +-
+ .../gallery-carousel/options/layout-1.php          |   12 +-
+ .../gallery-carousel/options/layout-2.php          |   16 +-
+ .../gallery/shortcodes/gallery-carousel/static.php |   16 +-
+ .../shortcodes/gallery-carousel/vc_options.php     |  116 +-
+ .../gallery/shortcodes/gallery-grid/config.php     |   28 +-
+ .../gallery/shortcodes/gallery-grid/vc_options.php |  236 ++--
+ .../gallery/shortcodes/gallery-grid/views/view.php |    4 +-
+ .../gallery/shortcodes/gallery-masonry/config.php  |    4 +-
+ .../shortcodes/gallery-masonry/vc_options.php      |  224 +--
+ .../shortcodes/gallery-masonry/views/view.php      |    2 +-
+ .../gallery/shortcodes/isotope/config.php          |   30 +-
+ .../gallery/shortcodes/isotope/static.php          |    2 +-
+ .../gallery/shortcodes/isotope/vc_options.php      |  258 ++--
+ .../gallery/shortcodes/isotope/views/view.php      |    6 +-
+ .../extensions/gallery/views/content.php           |   10 +-
+ .../header-09/class-slz-header-header-09.php       |  100 +-
+ .../headers/headers/header-09/config.php           |    4 +-
+ .../headers/headers/header-09/options.php          |  106 +-
+ .../headers/header-09/options/course_category.php  |    8 +-
+ .../headers/header-09/options/login_register.php   |   16 +-
+ .../headers/headers/header-09/options/logo.php     |   14 +-
+ .../headers/headers/header-09/options/menu.php     |   22 +-
+ .../headers/header-09/views/login_register.php     |   22 +-
+ .../header-09/views/login_register_modal.php       |   34 +-
+ .../headers/headers/header-09/views/search_box.php |    2 +-
+ .../extensions/headers/hooks.php                   |    6 +-
+ .../lema/includes/SLZ_Lema_Shortcode.php           |   34 +-
+ .../lema/includes/class-slz-lema-course.php        |    4 +-
+ .../extensions/lema/manifest.php                   |    4 +-
+ .../class-slz-shortcode-course-collection.php      |    6 +-
+ .../lema/shortcodes/course-collection/config.php   |   10 +-
+ .../course-collection/options/layout-1.php         |   12 +-
+ .../course-collection/options/layout-2.php         |   44 +-
+ .../shortcodes/course-collection/vc_options.php    |   24 +-
+ .../lema/shortcodes/featured-course/config.php     |    8 +-
+ .../lema/shortcodes/featured-course/vc_options.php |   86 +-
+ .../shortcodes/featured-course/views/layout-1.php  |    2 +-
+ .../lema/shortcodes/instructor/config.php          |    8 +-
+ .../lema/shortcodes/instructor/vc_options.php      |  138 +-
+ .../slz-shortcode-lema-category-list.php           |  100 +-
+ .../slz-shortcode-lema-course-category.php         |   14 +-
+ ...slz-shortcode-lema-course-list-best-selling.php |    6 +-
+ .../slz-shortcode-lema-course-list-filtered.php    |   82 +-
+ .../shortcodes/slz-shortcode-lema-course-list.php  |   58 +-
+ .../lema/shortcodes/slz-shortcode-lema-course.php  |   22 +-
+ .../lema/shortcodes/slz-shortcode-lema-price.php   |   34 +-
+ .../shortcodes/slz-shortcode-lema-search-box.php   |   50 +-
+ .../new-tweet/shortcodes/new-tweet/config.php      |    8 +-
+ .../shortcodes/new-tweet/options/layout-1.php      |    8 +-
+ .../shortcodes/new-tweet/options/layout-2.php      |   12 +-
+ .../new-tweet/shortcodes/new-tweet/vc_options.php  |   46 +-
+ .../extensions/optimization/static.php             |   84 +-
+ .../extensions/portfolio/config.php                |   78 +-
+ .../extensions/portfolio/hooks.php                 |   30 +-
+ .../shortcodes/portfolio-carousel/config.php       |    8 +-
+ .../portfolio-carousel/views/layout-1.php          |    2 +-
+ .../portfolio/shortcodes/portfolio-list/config.php |    8 +-
+ .../shortcodes/portfolio-list/options/layout-1.php |    8 +-
+ .../shortcodes/portfolio-list/views/layout-1.php   |    2 +-
+ .../extensions/portfolio/views/archive.php         |    2 +-
+ .../extensions/portfolio/views/course-info.php     |   12 +-
+ .../extensions/portfolio/views/meta-info.php       |   10 +-
+ .../extensions/portfolio/views/related-item.php    |    2 +-
+ .../extensions/portfolio/views/single.php          |    8 +-
+ .../portfolio/widgets/project/views/admin.php      |   20 +-
+ .../extensions/posts/posts/post-01/views/info.php  |    2 +-
+ .../posts/posts/post-01/views/related_item.php     |    4 +-
+ .../extensions/posts/posts/post-01/views/view.php  |    8 +-
+ .../extensions/posts/posts/post-02/views/info.php  |    2 +-
+ .../posts/posts/post-02/views/related_item.php     |    4 +-
+ .../extensions/posts/posts/post-02/views/view.php  |    8 +-
+ .../extensions/posts/posts/post-03/views/info.php  |    2 +-
+ .../posts/posts/post-03/views/related_item.php     |    4 +-
+ .../extensions/posts/posts/post-03/views/view.php  |    8 +-
+ .../extensions/posts/posts/post-04/views/info.php  |    2 +-
+ .../posts/posts/post-04/views/related_item.php     |    4 +-
+ .../extensions/posts/posts/post-04/views/view.php  |    8 +-
+ .../extensions/posts/posts/post-05/views/info.php  |    2 +-
+ .../posts/posts/post-05/views/related_item.php     |    4 +-
+ .../extensions/posts/posts/post-05/views/view.php  |    6 +-
+ .../extensions/services/views/single.php           |    4 +-
+ .../extensions/shortcodes/hooks.php                |   10 +-
+ .../shortcodes/shortcodes/about-me/config.php      |    8 +-
+ .../shortcodes/shortcodes/about-me/vc_options.php  |   58 +-
+ .../shortcodes/about-me/views/layout-2.php         |    2 +-
+ .../shortcodes/shortcodes/accordion/config.php     |    8 +-
+ .../shortcodes/accordion/options/layout-1.php      |   10 +-
+ .../shortcodes/shortcodes/accordion/vc_options.php |  108 +-
+ .../shortcodes/shortcodes/accordion/views/view.php |    2 +-
+ .../shortcodes/shortcodes/button/config.php        |   12 +-
+ .../shortcodes/shortcodes/button/vc_options.php    |   96 +-
+ .../shortcodes/shortcodes/contact-form/config.php  |    4 +-
+ .../shortcodes/contact-form/vc_options.php         |   86 +-
+ .../shortcodes/shortcodes/contact/config.php       |   10 +-
+ .../shortcodes/contact/options/layout-1.php        |   10 +-
+ .../shortcodes/contact/options/layout-2.php        |   10 +-
+ .../shortcodes/shortcodes/contact/vc_options.php   |   66 +-
+ .../shortcodes/content-carousel/config.php         |    6 +-
+ .../shortcodes/content-carousel/vc_options.php     |   90 +-
+ .../shortcodes/shortcodes/count-down/config.php    |    4 +-
+ .../shortcodes/count-down/vc_options.php           |   58 +-
+ .../shortcodes/count-down/views/view.php           |    8 +-
+ .../shortcodes/shortcodes/counterv2/config.php     |    8 +-
+ .../shortcodes/shortcodes/counterv2/static.php     |    2 +-
+ .../shortcodes/shortcodes/counterv2/vc_options.php |  126 +-
+ .../shortcodes/shortcodes/counterv2/views/view.php |    2 +-
+ .../shortcodes/shortcodes/icons-block/config.php   |   10 +-
+ .../shortcodes/icons-block/options/layout-1.php    |   46 +-
+ .../shortcodes/icons-block/options/layout-2.php    |   34 +-
+ .../shortcodes/icons-block/vc_options.php          |  172 +--
+ .../shortcodes/icons-block/views/view.php          |    2 +-
+ .../shortcodes/image-carousel/static.php           |   16 +-
+ .../shortcodes/shortcodes/item-list/config.php     |    4 +-
+ .../shortcodes/shortcodes/item-list/vc_options.php |   76 +-
+ .../shortcodes/shortcodes/item-list/views/view.php |    2 +-
+ .../shortcodes/main-title/options/layout-1.php     |   14 +-
+ .../shortcodes/main-title/vc_options.php           |   90 +-
+ .../shortcodes/shortcodes/newsletter/config.php    |   12 +-
+ .../shortcodes/shortcodes/newsletter/static.php    |    2 +-
+ .../shortcodes/newsletter/vc_options.php           |   92 +-
+ .../shortcodes/shortcodes/partner/config.php       |   12 +-
+ .../shortcodes/shortcodes/partner/vc_options.php   |  128 +-
+ .../shortcodes/shortcodes/posts-block/config.php   |   58 +-
+ .../shortcodes/posts-block/options/layout-1.php    |   78 +-
+ .../shortcodes/posts-block/options/layout-2.php    |   30 +-
+ .../shortcodes/posts-block/options/layout-3.php    |   42 +-
+ .../shortcodes/posts-block/options/layout-4.php    |   12 +-
+ .../shortcodes/posts-block/vc_options.php          |   46 +-
+ .../shortcodes/posts-block/views/list-layout-1.php |    2 +-
+ .../shortcodes/posts-block/views/list-layout-2.php |    2 +-
+ .../shortcodes/posts-block/views/list-layout-3.php |    4 +-
+ .../shortcodes/posts-block/views/list-layout-6.php |    2 +-
+ .../shortcodes/posts-block/views/main-layout-1.php |    2 +-
+ .../shortcodes/posts-block/views/main-layout-2.php |    2 +-
+ .../shortcodes/posts-block/views/main-layout-3.php |    2 +-
+ .../shortcodes/posts-carousel/config.php           |   12 +-
+ .../shortcodes/posts-carousel/vc_options.php       |  132 +-
+ .../posts-carousel/views/large_module.php          |    4 +-
+ .../posts-carousel/views/medium_module.php         |    4 +-
+ .../posts-carousel/views/small_module.php          |    2 +-
+ .../shortcodes/shortcodes/posts-mansory/static.php |    2 +-
+ .../shortcodes/posts-mansory/views/layout-1.php    |    4 +-
+ .../shortcodes/posts-mansory/views/layout-2.php    |    2 +-
+ .../shortcodes/shortcodes/pricing-box/config.php   |   12 +-
+ .../shortcodes/pricing-box/options/layout-1.php    |    8 +-
+ .../pricing-box/static/js/pricing-box.js           |    6 +-
+ .../shortcodes/pricing-box/vc_options.php          |  140 +-
+ .../shortcodes/progress-bar/options/layout-1.php   |   64 +-
+ .../shortcodes/shortcodes/progress-bar/static.php  |    2 +-
+ .../shortcodes/progress-bar/views/view.php         |    2 +-
+ .../shortcodes/shortcodes/timeline/config.php      |    8 +-
+ .../shortcodes/timeline/options/layout-1.php       |   42 +-
+ .../shortcodes/timeline/options/layout-2.php       |   30 +-
+ .../shortcodes/shortcodes/timeline/vc_options.php  |    8 +-
+ .../shortcodes/shortcodes/timeline/views/view.php  |    2 +-
+ .../shortcodes/video-carousel/config.php           |   14 +-
+ .../shortcodes/video-carousel/vc_options.php       |   46 +-
+ .../shortcodes/shortcodes/video/config.php         |    8 +-
+ .../shortcodes/video/options/layout-2.php          |   12 +-
+ .../shortcodes/shortcodes/video/vc_options.php     |   64 +-
+ .../teams/shortcodes/team-block/config.php         |   10 +-
+ .../shortcodes/team-block/options/layout-1.php     |   20 +-
+ .../shortcodes/team-block/options/layout-2.php     |    8 +-
+ .../shortcodes/team-block/options/layout-3.php     |   14 +-
+ .../teams/shortcodes/team-block/vc_options.php     |  254 ++--
+ .../teams/shortcodes/team-block/views/view.php     |    2 +-
+ .../teams/shortcodes/team-carousel/config.php      |    6 +-
+ .../teams/shortcodes/team-carousel/static.php      |    4 +-
+ .../teams/shortcodes/team-carousel/vc_options.php  |  198 +--
+ .../extensions/teams/views/single.php              |    2 +-
+ .../testimonials/shortcodes/testimonial/config.php |   14 +-
+ .../shortcodes/testimonial/options/layout-1.php    |   30 +-
+ .../shortcodes/testimonial/options/layout-2.php    |   38 +-
+ .../shortcodes/testimonial/options/layout-4.php    |   30 +-
+ .../shortcodes/testimonial/options/layout-5.php    |   28 +-
+ .../shortcodes/testimonial/options/layout-6.php    |   10 +-
+ .../shortcodes/testimonial/vc_options.php          |  184 +--
+ .../extensions/widgets/hooks.php                   |    6 +-
+ .../extensions/widgets/widgets/button/config.php   |   12 +-
+ .../extensions/widgets/widgets/button/options.php  |   22 +-
+ .../widgets/widgets/category/views/admin.php       |   20 +-
+ .../extensions/widgets/widgets/partner/config.php  |   12 +-
+ .../extensions/widgets/widgets/partner/options.php |    8 +-
+ .../widgets/widgets/recent-post/config.php         |   16 +-
+ .../widgets/widgets/recent-post/views/admin.php    |    6 +-
+ .../theme/available-extensions.php                 |    2 +-
+ .../theme/class-welcome.php                        |   10 +-
+ .../framework-customizations/theme/config.php      |   74 +-
+ .../theme/custom-color.php                         |   14 +-
+ .../framework-customizations/theme/manifest.php    |  144 +-
+ .../theme/options/advertisement-settings.php       |   48 +-
+ .../theme/options/course-settings.php              |   30 +-
+ .../theme/options/custom-scripts.php               |    8 +-
+ .../theme/options/custom-styles.php                |    8 +-
+ .../theme/options/footer-options.php               |   42 +-
+ .../theme/options/footer-settings.php              |    8 +-
+ .../theme/options/general-settings.php             |  224 +--
+ .../theme/options/header-settings.php              |    8 +-
+ .../theme/options/import-export.php                |   12 +-
+ .../theme/options/page-404-settings.php            |   32 +-
+ .../theme/options/page-boxed-layout.php            |   50 +-
+ .../theme/options/page-header-settings.php         |  120 +-
+ .../theme/options/page-options.php                 |   68 +-
+ .../theme/options/post-settings.php                |  272 ++--
+ .../theme/options/posts/page.php                   |   70 +-
+ .../theme/options/posts/post.php                   |   66 +-
+ .../theme/options/posts/product.php                |   26 +-
+ .../theme/options/posts/slz-faq.php                |   50 +-
+ .../theme/options/posts/slz-portfolio.php          |   34 +-
+ .../theme/options/posts/slz-service.php            |   34 +-
+ .../theme/options/posts/slz-team.php               |   34 +-
+ .../theme/options/settings.php                     |    2 +-
+ .../theme/options/speed-optimize.php               |  232 +--
+ .../theme/options/taxonomies/cat_course.php        |   14 +-
+ .../theme/options/taxonomies/category.php          |   28 +-
+ .../theme/options/taxonomies/slz-faq-cat.php       |   30 +-
+ .../theme/options/template-settings.php            |  236 ++--
+ .../theme/options/theme-requirements.php           |  238 ++--
+ .../theme/options/typography.php                   |   56 +-
+ .../theme/views/article.php                        |    4 +-
+ .../theme/views/change-log.php                     |    8 +-
+ .../theme/views/welcome-header.php                 |   20 +-
+ .../theme/views/welcome.php                        |   28 +-
+ code/theme/functions.php                           |   10 +-
+ code/theme/header-none.php                         |    4 +-
+ code/theme/header.php                              |   38 +-
+ code/theme/includes/backend-static.php             |   18 +-
+ code/theme/includes/class-breadcrumb.php           |   18 +-
+ code/theme/includes/class-editor-format.php        |   52 +-
+ .../theme/includes/class-tgm-plugin-activation.php |  190 +--
+ code/theme/includes/constants.php                  |   38 +-
+ ...on-master-data.php => educhain-master-data.php} | 1474 ++++++++++----------
+ code/theme/includes/helpers.php                    |  358 ++---
+ code/theme/includes/hooks.php                      |  376 ++---
+ code/theme/includes/implement-options.php          |   62 +-
+ code/theme/includes/init.php                       |    6 +-
+ code/theme/includes/menus.php                      |   26 +-
+ code/theme/index.php                               |   22 +-
+ .../languages/{education.pot => educhain.pot}      |    0
+ code/theme/page-shortcode.php                      |    2 +-
+ code/theme/page.php                                |    2 +-
+ code/theme/readme.txt                              |    4 +-
+ code/theme/search.php                              |   24 +-
+ code/theme/searchform.php                          |   36 +-
+ ...ducation-setup.php => class-educhain-setup.php} |  166 +--
+ code/theme/setup/config.php                        |   12 +-
+ .../{education_affiliate => educhain_affiliate}    |    0
+ .../{education_default => educhain_default}        |    0
+ ...{education_lesscourses => educhain_lesscourses} |    0
+ ...{education_marketplace => educhain_marketplace} |    0
+ .../{education_affiliate => educhain_affiliate}    |    0
+ .../menus/{education_default => educhain_default}  |    0
+ ...{education_lesscourses => educhain_lesscourses} |    0
+ ...{education_marketplace => educhain_marketplace} |    0
+ .../{education_affiliate => educhain_affiliate}    |    0
+ .../pages/{education_default => educhain_default}  |    0
+ ...{education_lesscourses => educhain_lesscourses} |    0
+ ...{education_marketplace => educhain_marketplace} |    0
+ ...ffiliate.setting => educhain_affiliate.setting} |    0
+ ...on_default.setting => educhain_default.setting} |    0
+ ...ourses.setting => educhain_lesscourses.setting} |    0
+ ...tplace.setting => educhain_marketplace.setting} |    0
+ .../setup/data-master/views/import_attachments.php |   16 +-
+ .../theme/setup/data-master/views/import_pages.php |   10 +-
+ code/theme/setup/layout.php                        |   12 +-
+ code/theme/setup/static/js/learnmaster-step-2.js   |    2 +-
+ code/theme/setup/static/js/learnmaster-step-5.js   |    2 +-
+ code/theme/setup/static/js/learnmaster-wizard.js   |    4 +-
+ code/theme/setup/steps/active-plugin.php           |   30 +-
+ code/theme/setup/steps/check-requirement.php       |   14 +-
+ code/theme/setup/steps/done.php                    |    6 +-
+ code/theme/setup/steps/generate-demo.php           |    4 +-
+ code/theme/setup/steps/import-theme-setting.php    |   30 +-
+ code/theme/setup/steps/select-template.php         |    2 +-
+ code/theme/setup/steps/welcome.php                 |    2 +-
+ code/theme/single.php                              |    6 +-
+ ...tion-components.css => educhain-components.css} |    0
+ ...on-components.scss => educhain-components.scss} |    0
+ .../{education-forum.css => educhain-forum.css}    |   26 +-
+ .../{education-forum.scss => educhain-forum.scss}  |    0
+ ...on-woocommerce.css => educhain-woocommerce.css} |    0
+ .../education.css => font-educhain/educhain.css}   |   14 +-
+ .../fonts/EduChain.eot}                            |  Bin
+ .../fonts/EduChain.svg}                            |    0
+ .../fonts/EduChain.ttf}                            |  Bin
+ .../fonts/EduChain.woff}                           |  Bin
+ ...cation_affiliate.png => educhain_affiliate.png} |  Bin
+ ...{education_default.png => educhain_default.png} |  Bin
+ ...on_lesscourses.png => educhain_lesscourses.png} |  Bin
+ ...on_marketplace.png => educhain_marketplace.png} |  Bin
+ ...ffiliate.png => preview_educhain_affiliate.png} |  Bin
+ ...on_default.png => preview_educhain_default.png} |  Bin
+ ...ourses.png => preview_educhain_lesscourses.png} |  Bin
+ ...tplace.png => preview_educhain_marketplace.png} |  Bin
+ ...cation_menu_icon.png => educhain_menu_icon.png} |  Bin
+ code/theme/static/js/custom.js                     |    6 +-
+ code/theme/static/js/default.js                    |   10 +-
+ .../js/{education-main.js => educhain-main.js}     |   16 +-
+ ...tion-woocommerce.js => educhain-woocommerce.js} |    6 +-
+ code/theme/static/js/main.js                       |   26 +-
+ code/theme/static/js/preloader.js                  |   10 +-
+ code/theme/static/js/shortcode-pagination.js       |    8 +-
+ code/theme/static/js/theme-course-setting.js       |    2 +-
+ code/theme/static/libs/bootstrap/css/bootstrap.css |    2 +-
+ .../static/libs/bootstrap/css/bootstrap.min.css    |    2 +-
+ code/theme/style.css                               |   10 +-
+ code/theme/tag.php                                 |   24 +-
+ code/theme/woocommerce/archive-product.php         |   12 +-
+ code/theme/woocommerce/single-product.php          |   12 +-
+ 342 files changed, 6240 insertions(+), 6240 deletions(-)
+ rename code/theme/includes/{education-master-data.php => educhain-master-data.php} (85%)
+ rename code/theme/languages/{education.pot => educhain.pot} (100%)
+ rename code/theme/setup/{class-education-setup.php => class-educhain-setup.php} (89%)
+ rename code/theme/setup/data-master/attachments/{education_affiliate => educhain_affiliate} (100%)
+ rename code/theme/setup/data-master/attachments/{education_default => educhain_default} (100%)
+ rename code/theme/setup/data-master/attachments/{education_lesscourses => educhain_lesscourses} (100%)
+ rename code/theme/setup/data-master/attachments/{education_marketplace => educhain_marketplace} (100%)
+ rename code/theme/setup/data-master/menus/{education_affiliate => educhain_affiliate} (100%)
+ rename code/theme/setup/data-master/menus/{education_default => educhain_default} (100%)
+ rename code/theme/setup/data-master/menus/{education_lesscourses => educhain_lesscourses} (100%)
+ rename code/theme/setup/data-master/menus/{education_marketplace => educhain_marketplace} (100%)
+ rename code/theme/setup/data-master/pages/{education_affiliate => educhain_affiliate} (100%)
+ rename code/theme/setup/data-master/pages/{education_default => educhain_default} (100%)
+ rename code/theme/setup/data-master/pages/{education_lesscourses => educhain_lesscourses} (100%)
+ rename code/theme/setup/data-master/pages/{education_marketplace => educhain_marketplace} (100%)
+ rename code/theme/setup/data-master/theme_settings/{education_affiliate.setting => educhain_affiliate.setting} (100%)
+ rename code/theme/setup/data-master/theme_settings/{education_default.setting => educhain_default.setting} (100%)
+ rename code/theme/setup/data-master/theme_settings/{education_lesscourses.setting => educhain_lesscourses.setting} (100%)
+ rename code/theme/setup/data-master/theme_settings/{education_marketplace.setting => educhain_marketplace.setting} (100%)
+ rename code/theme/static/css/{education-components.css => educhain-components.css} (100%)
+ rename code/theme/static/css/{education-components.scss => educhain-components.scss} (100%)
+ rename code/theme/static/css/{education-forum.css => educhain-forum.css} (98%)
+ rename code/theme/static/css/{education-forum.scss => educhain-forum.scss} (100%)
+ rename code/theme/static/css/{education-woocommerce.css => educhain-woocommerce.css} (100%)
+ rename code/theme/static/font/font-icon/{font-education/education.css => font-educhain/educhain.css} (98%)
+ rename code/theme/static/font/font-icon/{font-education/fonts/Education.eot => font-educhain/fonts/EduChain.eot} (100%)
+ rename code/theme/static/font/font-icon/{font-education/fonts/Education.svg => font-educhain/fonts/EduChain.svg} (100%)
+ rename code/theme/static/font/font-icon/{font-education/fonts/Education.ttf => font-educhain/fonts/EduChain.ttf} (100%)
+ rename code/theme/static/font/font-icon/{font-education/fonts/Education.woff => font-educhain/fonts/EduChain.woff} (100%)
+ rename code/theme/static/img/demo-images/{education_affiliate.png => educhain_affiliate.png} (100%)
+ rename code/theme/static/img/demo-images/{education_default.png => educhain_default.png} (100%)
+ rename code/theme/static/img/demo-images/{education_lesscourses.png => educhain_lesscourses.png} (100%)
+ rename code/theme/static/img/demo-images/{education_marketplace.png => educhain_marketplace.png} (100%)
+ rename code/theme/static/img/demo-images/{preview_education_affiliate.png => preview_educhain_affiliate.png} (100%)
+ rename code/theme/static/img/demo-images/{preview_education_default.png => preview_educhain_default.png} (100%)
+ rename code/theme/static/img/demo-images/{preview_education_lesscourses.png => preview_educhain_lesscourses.png} (100%)
+ rename code/theme/static/img/demo-images/{preview_education_marketplace.png => preview_educhain_marketplace.png} (100%)
+ rename code/theme/static/img/theme-option/{education_menu_icon.png => educhain_menu_icon.png} (100%)
+ rename code/theme/static/js/{education-main.js => educhain-main.js} (99%)
+ rename code/theme/static/js/{education-woocommerce.js => educhain-woocommerce.js} (98%) rename code/theme/static/js/{education-woocommerce.js => educhain-woocommerce.js} (98%)
+Not expected branch : refs/heads/duytn/theme-settings
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : 
+Updating f568c8f..9e6c213
+Fast-forward
+ code/theme/404.php                                          | 13 +++++++++++--
+ .../theme/options/page-404-settings.php                     | 13 ++++++++++---
+ 2 files changed, 21 insertions(+), 5 deletions(-) 2 files changed, 21 insertions(+), 5 deletions(-)
+Not expected branch : refs/heads/duytn/theme-settings
+Fail to update develop of education
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/tailm/fix_css
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/tailm/fix_css
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/tailm/fix_css
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 9e6c213..01a5d21
+Fast-forward
+ .../event-block/static/css/event-block.css         | 97 ++++++++++++++++++++++
+ .../event-block/static/css/event-block.scss        | 95 ++++++++++++++++++++-
+ .../shortcodes/event-block/views/layout-1.php      | 70 ++++++++++++----
+ .../extensions/events/static/css/_events.scss      |  1 -
+ .../contact-form/static/css/_contact-form.scss     | 72 ++++++++--------
+ code/theme/static/css/educhain-components.css      | 64 +++-----------
+ code/theme/static/css/educhain-forum.css           | 26 +++---
+ code/theme/static/css/lema-custom.css              |  9 +-
+ code/theme/static/css/lema-custom.scss             |  8 +-
+ 9 files changed, 319 insertions(+), 123 deletions(-) 9 files changed, 319 insertions(+), 123 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 01a5d21..0599f7d
+Fast-forward
+ .../shortcodes/shortcodes/contact/config.php       |   1 +
+ .../shortcodes/contact/static/css/contact.css      |  77 ++++++++++++++-
+ .../shortcodes/contact/static/css/contact.scss     | 106 ++++++++++++++++++++-
+ .../shortcodes/shortcodes/contact/vc_options.php   |  18 +++-
+ .../shortcodes/contact/views/layout-2.php          |  41 ++++----
+ .../extensions/widgets/static/css/widgets.css      |   6 ++
+ .../extensions/widgets/static/css/widgets.scss     |  13 +++
+ code/theme/style.css                               |  27 +++++-
+ 8 files changed, 265 insertions(+), 24 deletions(-) 8 files changed, 265 insertions(+), 24 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Not expected branch : refs/heads/tailm/fix_css
+Updating 0599f7d..31c701c
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 28 ++++---------
+ code/theme/static/css/lema-custom.scss | 27 +++---------
+ code/theme/style.css                   | 75 +++++++++++++++++++++-------------
+ 3 files changed, 61 insertions(+), 69 deletions(-) 3 files changed, 61 insertions(+), 69 deletions(-)
+Already up-to-date.Already up-to-date.
+Not expected branch : 
+Not expected branch : refs/heads/tailm/fix_css
+Not expected branch : 
+Not expected branch : refs/heads/luctc
+Updating 31c701c..b9d8aad
+Fast-forward
+ .../shortcodes/shortcodes/contact/static/css/contact.css          | 4 ++++
+ .../shortcodes/shortcodes/contact/static/css/contact.scss         | 7 +++++++
+ .../framework-customizations/theme/options/general-settings.php   | 4 ++--
+ code/theme/style.css                                              | 8 ++++++++
+ 4 files changed, 21 insertions(+), 2 deletions(-) 4 files changed, 21 insertions(+), 2 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/luctc
+Not expected branch : refs/heads/tailm/fix_css
+Not expected branch : 
+Fail to update develop of education
+Updating b9d8aad..8d5cf90
+Fast-forward
+ .../extensions/shortcodes/shortcodes/contact/static/css/contact.css     | 2 +-
+ .../extensions/shortcodes/shortcodes/contact/static/css/contact.scss    | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/luctc
+Not expected branch : 
+Fail to update develop of education
+Updating 8d5cf90..ce544d9
+Fast-forward
+ .../theme/custom-color.php                         |  6 ++-
+ code/theme/style.css                               | 55 ++++++++++++++++++++--
+ 2 files changed, 56 insertions(+), 5 deletions(-) 2 files changed, 56 insertions(+), 5 deletions(-)
+Not expected branch : refs/heads/luctc

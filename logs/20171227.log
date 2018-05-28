@@ -1,0 +1,21 @@
+Fail to update develop of designart
+Not expected branch : refs/heads/style_vubd
+Updating ed85219..3be468a
+Fast-forward
+ static/styles/lema-subscription.css | 97 ++++++++++++++++++++++++++++++++-----
+ 1 file changed, 86 insertions(+), 11 deletions(-) 1 file changed, 86 insertions(+), 11 deletions(-)
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating b403250..fdb1825
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 11 +++++++++--
+ 1 file changed, 9 insertions(+), 2 deletions(-) 1 file changed, 9 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/style_vubd
+Not expected branch : refs/heads/style_vubd
+Not expected branch : 
+Fail to update develop of education
+Updating fdb1825..28b309c
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 3 +++
+ 1 file changed, 3 insertions(+) 1 file changed, 3 insertions(+)

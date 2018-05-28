@@ -1,0 +1,116 @@
+Not expected branch : refs/heads/thangp/bundle
+Not expected branch : 
+Not expected branch : refs/heads/thangp/bundle
+Updating bef72a1..d68eab6
+Fast-forward
+ includes/LemaSoftwareBootstrap.php                 |    3 -
+ includes/classes/Hooks.php                         | 1061 ++++++++++----------
+ .../classes/admin/controllers/BundleController.php |  487 ++++-----
+ includes/classes/components/Helper.php             |  429 ++++----
+ lema-software.php                                  |    1 -
+ 5 files changed, 1011 insertions(+), 970 deletions(-) 5 files changed, 1011 insertions(+), 970 deletions(-)
+Fail to update develop of lema-software
+Not expected branch : refs/heads/thangpd/helper
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Updating d68eab6..84541b4
+Fast-forward
+ assets/styles/membershippro.css                                   | 2 ++
+ includes/classes/shortcodes/MembershipProShortcode/views/logo.php | 2 +-
+ 2 files changed, 3 insertions(+), 1 deletion(-) 2 files changed, 3 insertions(+), 1 deletion(-)
+Fail to update develop of lema-software
+Updating 84541b4..60d081b
+Fast-forward
+ assets/styles/lema-sof.css | 113 +++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 113 insertions(+) 1 file changed, 113 insertions(+)
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/style_tailm
+Updating fb4cfad..f0e63d0
+Fast-forward
+ helpers/Helper.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/thangpd/helper
+Updating 60d081b..481f604
+Fast-forward
+ includes/classes/front/views/coursedetail/view.php | 357 +++++++++++----------
+ 1 file changed, 179 insertions(+), 178 deletions(-) 1 file changed, 179 insertions(+), 178 deletions(-)
+Updating 481f604..680e0bc
+Fast-forward
+ includes/classes/front/views/coursedetail/view.php | 7 +++----
+ 1 file changed, 3 insertions(+), 4 deletions(-) 1 file changed, 3 insertions(+), 4 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 680e0bc..df593bc
+Fast-forward
+ assets/scripts/lema-sof.js |  4 ++++
+ assets/styles/lema-sof.css | 10 ++++++++++
+ 2 files changed, 14 insertions(+) 2 files changed, 14 insertions(+)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating df593bc..a487be8
+Fast-forward
+ assets/styles/lema-sof.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Fail to update develop of lema-software
+Updating a487be8..1298b6b
+Fast-forward
+ includes/classes/Hooks.php                         |  11 +-
+ .../FeatureBlock/FeatureBlockShortcode.php         | 113 +++++++++++++++++++++
+ .../shortcodes/FeatureBlock/views/blocklayout1.php |  50 +++++++++
+ .../shortcodes/FeatureBlock/views/blocklayout2.php |  51 ++++++++++
+ .../classes/shortcodes/FeatureBlock/views/main.php |  25 +++++
+ .../MembershipProShortcode.php                     |   2 +-
+ .../views/benefits.php                             |   2 +-
+ .../views/button.php                               |   2 +-
+ .../views/countdown.php                            |   2 +-
+ .../views/logo.php                                 |   2 +-
+ .../views/main.php                                 |   2 +-
+ .../views/price.php                                |   2 +-
+ 12 files changed, 253 insertions(+), 11 deletions(-)
+ create mode 100644 includes/classes/shortcodes/FeatureBlock/FeatureBlockShortcode.php
+ create mode 100644 includes/classes/shortcodes/FeatureBlock/views/blocklayout1.php
+ create mode 100644 includes/classes/shortcodes/FeatureBlock/views/blocklayout2.php
+ create mode 100644 includes/classes/shortcodes/FeatureBlock/views/main.php
+ rename includes/classes/shortcodes/{MembershipProShortcode => MembershipPro}/MembershipProShortcode.php (98%)
+ rename includes/classes/shortcodes/{MembershipProShortcode => MembershipPro}/views/benefits.php (87%)
+ rename includes/classes/shortcodes/{MembershipProShortcode => MembershipPro}/views/button.php (80%)
+ rename includes/classes/shortcodes/{MembershipProShortcode => MembershipPro}/views/countdown.php (86%)
+ rename includes/classes/shortcodes/{MembershipProShortcode => MembershipPro}/views/logo.php (75%)
+ rename includes/classes/shortcodes/{MembershipProShortcode => MembershipPro}/views/main.php (87%)
+ rename includes/classes/shortcodes/{MembershipProShortcode => MembershipPro}/views/price.php (91%) rename includes/classes/shortcodes/{MembershipProShortcode => MembershipPro}/views/price.php (91%)
+Not expected branch : refs/heads/thangpd/helper
+Not expected branch : 
+Not expected branch : 
+Updating 1298b6b..51ff506
+Fast-forward
+ includes/classes/Hooks.php             |  2 +-
+ includes/classes/components/Helper.php | 24 ++++++++++++++++++++++--
+ includes/classes/model/BundleModel.php |  3 ++-
+ 3 files changed, 25 insertions(+), 4 deletions(-) 3 files changed, 25 insertions(+), 4 deletions(-)
+Updating 51ff506..1042656
+Fast-forward
+ includes/classes/components/Helper.php             | 4 ----
+ includes/classes/front/views/coursedetail/view.php | 9 ++++++---
+ 2 files changed, 6 insertions(+), 7 deletions(-) 2 files changed, 6 insertions(+), 7 deletions(-)
+Updating 1042656..28a81d1
+Fast-forward
+ includes/classes/Hooks.php                         |  1 +
+ includes/classes/front/views/coursedetail/view.php | 25 +++++++++++++++++++++-
+ 2 files changed, 25 insertions(+), 1 deletion(-) 2 files changed, 25 insertions(+), 1 deletion(-)
+Updating 28a81d1..28a6d7d
+Fast-forward
+ includes/classes/front/views/coursedetail/view.php | 6 ++++++
+ 1 file changed, 6 insertions(+) 1 file changed, 6 insertions(+)
+Updating 28a6d7d..74a3cb0
+Fast-forward
+ .../classes/admin/controllers/BundleController.php | 14 +------
+ .../front/views/coursecategory/coursewrapper.php   | 46 +++++++++++-----------
+ 2 files changed, 25 insertions(+), 35 deletions(-) 2 files changed, 25 insertions(+), 35 deletions(-)
+Not expected branch : refs/heads/thangpd/course_category
+Not expected branch : 

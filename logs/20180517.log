@@ -1,0 +1,368 @@
+Not expected branch : refs/heads/phatnm
+Not expected branch : refs/heads/phatnm
+Updating 2e63c16..ee9202f
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/static/css/_icon-block.scss        | 1 +
+ code/static/css/cryptoio-components.css                                  | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Updating ee9202f..9a032a9
+Fast-forward
+ code/style.css | 4 ++++
+ 1 file changed, 4 insertions(+) 1 file changed, 4 insertions(+)
+Not expected branch : refs/heads/sonpq
+Not expected branch : 
+Not expected branch : refs/heads/sonpq
+Not expected branch : 
+Updating 9a032a9..2fb88ad
+Fast-forward
+ .../shortcodes/shortcodes/posts-block/static/css/_posts-block.scss     | 1 +
+ code/static/css/cryptoio-components.css                                | 3 +++
+ 2 files changed, 4 insertions(+) 2 files changed, 4 insertions(+)
+Updating 2fb88ad..fcdfe5b
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/static/css/_icon-block.scss       | 2 +-
+ code/static/css/cryptoio-components.css                                 | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating fcdfe5b..873cde6
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/static/css/_icon-block.scss        | 1 +
+ code/static/css/cryptoio-components.css                                  | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Updating 873cde6..d6b447b
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/static/css/_icon-block.scss        | 1 +
+ code/static/css/cryptoio-components.css                                  | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Updating d6b447b..f4a423d
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/views/layout-1.php      |  9 ++-------
+ .../shortcodes/shortcodes/icons-block/views/layout-2.php      |  9 +++------
+ .../shortcodes/shortcodes/icons-block/views/layout-3.php      | 11 +----------
+ 3 files changed, 6 insertions(+), 23 deletions(-) 3 files changed, 6 insertions(+), 23 deletions(-)
+Updating f4a423d..20a13cb
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/static/css/_icon-block.scss     | 4 ++--
+ code/static/css/cryptoio-components.css                               | 2 --
+ 2 files changed, 2 insertions(+), 4 deletions(-) 2 files changed, 2 insertions(+), 4 deletions(-)
+Updating 20a13cb..84f517e
+Fast-forward
+ .../shortcodes/icons-block/static/css/_icon-block.scss    | 15 +++++++++++++++
+ code/static/css/cryptoio-components.css                   | 15 +++++++++++++++
+ 2 files changed, 30 insertions(+) 2 files changed, 30 insertions(+)
+Updating 84f517e..ddf2071
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/static/css/_icon-block.scss   | 2 +-
+ code/static/css/cryptoio-components.css                             | 6 +++---
+ 2 files changed, 4 insertions(+), 4 deletions(-) 2 files changed, 4 insertions(+), 4 deletions(-)
+Updating ddf2071..3345427
+Fast-forward
+ .../shortcodes/icons-block/static/css/_icon-block.scss   | 16 ++++++++++++++++
+ code/static/css/cryptoio-components.css                  | 15 +++++++++++++++
+ 2 files changed, 31 insertions(+) 2 files changed, 31 insertions(+)
+Updating 3345427..a132baf
+Fast-forward
+ .../icons-block/static/css/_icon-block.scss        | 28 ++++++++++++++++--
+ code/static/css/cryptoio-components.css            | 33 ++++++++++++++++++----
+ 2 files changed, 53 insertions(+), 8 deletions(-) 2 files changed, 53 insertions(+), 8 deletions(-)
+Updating a132baf..9dcbfb6
+Fast-forward
+ .../shortcodes/icons-block/static/css/_icon-block.scss       |  4 ++--
+ code/static/css/cryptoio-components.css                      | 12 ++++++------
+ 2 files changed, 8 insertions(+), 8 deletions(-) 2 files changed, 8 insertions(+), 8 deletions(-)
+Updating 9dcbfb6..8afaeae
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/static/css/_icon-block.scss       | 2 +-
+ code/static/css/cryptoio-components.css                                 | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 8afaeae..bf45221
+Fast-forward
+ .../shortcodes/icons-block/views/view.php          |  14 +-
+ .../testimonials/shortcodes/testimonial/config.php |  17 +-
+ .../shortcodes/testimonial/options/layout-1.php    |  57 ----
+ .../shortcodes/testimonial/options/layout-2.php    |   6 +-
+ .../shortcodes/testimonial/options/layout-4.php    |  57 ----
+ .../shortcodes/testimonial/options/layout-5.php    |  77 -----
+ .../shortcodes/testimonial/options/layout-6.php    |  22 --
+ .../shortcodes/testimonial/vc_options.php          | 338 +++++++++++----------
+ .../shortcodes/testimonial/views/layout-1.php      |  81 -----
+ .../shortcodes/testimonial/views/layout-2.php      |   2 +-
+ .../shortcodes/testimonial/views/layout-4.php      | 130 --------
+ .../shortcodes/testimonial/views/layout-5.php      | 100 ------
+ .../shortcodes/testimonial/views/layout-6.php      |  92 ------
+ .../shortcodes/testimonial/views/view.php          |   1 +
+ 14 files changed, 181 insertions(+), 813 deletions(-)
+ delete mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/options/layout-1.php
+ delete mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/options/layout-4.php
+ delete mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/options/layout-5.php
+ delete mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/options/layout-6.php
+ delete mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/layout-1.php
+ delete mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/layout-4.php
+ delete mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/layout-5.php
+ delete mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/layout-6.php delete mode 100644 code/framework-customizations/extensions/testimonials/shortcodes/testimonial/views/layout-6.php
+Updating bf45221..f1d06dc
+Fast-forward
+ .../icons-block/static/css/_icon-block.scss        | 17 ++++++++++++++++
+ code/static/css/cryptoio-components.css            | 23 ++++++++++++++++++++++
+ 2 files changed, 40 insertions(+) 2 files changed, 40 insertions(+)
+Updating f1d06dc..d93c160
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/static/css/_icon-block.scss   | 3 +++
+ code/static/css/cryptoio-components.css                             | 6 ++++++
+ 2 files changed, 9 insertions(+) 2 files changed, 9 insertions(+)
+Not expected branch : refs/heads/phatnm
+Updating d93c160..18c84be
+Fast-forward
+ .../shortcodes/partner/static/css/partner.css      |  2 +-
+ .../testimonial/static/css/testimonial.css         | 12 ++++-----
+ .../extensions/widgets/static/css/widgets.css      |  6 ++---
+ code/static/css/cryptoio-components.css            | 30 +++++++++++-----------
+ 4 files changed, 25 insertions(+), 25 deletions(-) 4 files changed, 25 insertions(+), 25 deletions(-)
+Not expected branch : refs/heads/phatnm
+Updating 18c84be..3dea345
+Fast-forward
+ .../cryptoio_category/static/css/crypto_category.css         | 12 ++++++++++--
+ 1 file changed, 10 insertions(+), 2 deletions(-) 1 file changed, 10 insertions(+), 2 deletions(-)
+Updating 3dea345..002ca98
+Fast-forward
+ .../shortcodes/cryptoio_category/static/css/crypto_category.css  | 9 +++++----
+ 1 file changed, 5 insertions(+), 4 deletions(-) 1 file changed, 5 insertions(+), 4 deletions(-)
+Not expected branch : refs/heads/sonpq
+Not expected branch : 
+Updating 002ca98..8917abd
+Fast-forward
+ .../shortcodes/cryptoio_category/static/css/crypto_category.css       | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Updating 8917abd..711dae0
+Fast-forward
+ .../icons-block/static/css/_icon-block.scss        | 10 +++--
+ .../shortcodes/partner/static/css/partner.css      |  2 +-
+ .../testimonial/static/css/testimonial.css         | 12 +++---
+ .../extensions/widgets/static/css/widgets.css      |  6 +--
+ code/static/css/cryptoio-components.css            | 45 +++++++++++++---------
+ 5 files changed, 43 insertions(+), 32 deletions(-) 5 files changed, 43 insertions(+), 32 deletions(-)
+Not expected branch : 
+Not expected branch : refs/heads/sonpq
+Not expected branch : 
+Not expected branch : 
+Updating 711dae0..4e3b829
+Fast-forward
+ .../extensions/shortcodes/shortcodes/icons-block/views/view.php        | 3 +++
+ 1 file changed, 3 insertions(+) 1 file changed, 3 insertions(+)
+Updating 4e3b829..33c5b0f
+Fast-forward
+ .../icons-block/static/css/_icon-block.scss        | 18 +++++++++++
+ code/static/css/cryptoio-components.css            | 36 ++++++++++++++++++++++
+ 2 files changed, 54 insertions(+) 2 files changed, 54 insertions(+)
+Updating 33c5b0f..3599727
+Fast-forward
+ .../icons-block/static/css/_icon-block.scss        | 30 ++++++++++++++++----
+ code/static/css/cryptoio-components.css            | 33 ++++++++++++++++++----
+ 2 files changed, 51 insertions(+), 12 deletions(-) 2 files changed, 51 insertions(+), 12 deletions(-)
+Updating 3599727..c2ad3d2
+Fast-forward
+ .../icons-block/static/css/_icon-block.scss        |  8 +--
+ code/static/css/cryptoio-components.css            | 64 +++++++++++-----------
+ 2 files changed, 36 insertions(+), 36 deletions(-) 2 files changed, 36 insertions(+), 36 deletions(-)
+Updating c2ad3d2..52ab02a
+Fast-forward
+ .../cryptoio/shortcodes/cryptoio/static/css/cryptoio-chart.css         | 3 ++-
+ .../framework/extensions/cryptoio/shortcodes/cryptoio/views/view.php   | 2 +-
+ 2 files changed, 3 insertions(+), 2 deletions(-) 2 files changed, 3 insertions(+), 2 deletions(-)
+Updating 52ab02a..577e197
+Fast-forward
+ .../shortcodes/icons-block/static/css/_icon-block.scss           | 9 +++++++++
+ code/static/css/cryptoio-components.css                          | 9 +++++++++
+ 2 files changed, 18 insertions(+) 2 files changed, 18 insertions(+)
+Updating 577e197..6bf28d9
+Fast-forward
+ .../shortcodes/shortcodes/icons-block/static/css/_icon-block.scss  | 7 +++++++
+ code/static/css/cryptoio-components.css                            | 6 ++++++
+ 2 files changed, 13 insertions(+) 2 files changed, 13 insertions(+)
+Not expected branch : refs/heads/sonpq
+Not expected branch : refs/heads/sonpq
+Updating 6bf28d9..f039676
+Fast-forward
+ .../extensions/shortcodes/shortcodes/accordion/static/css/accordion.css | 2 +-
+ .../shortcodes/shortcodes/accordion/static/css/accordion.scss           | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating f039676..52d61f7
+Fast-forward
+ .../extensions/shortcodes/shortcodes/accordion/static/css/accordion.css | 2 +-
+ .../shortcodes/shortcodes/accordion/static/css/accordion.scss           | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/sonpq
+Updating 52d61f7..074e615
+Fast-forward
+ .../extensions/widgets/static/css/widgets.css                     | 8 ++++++++
+ .../extensions/widgets/static/css/widgets.scss                    | 8 ++++++++
+ 2 files changed, 16 insertions(+) 2 files changed, 16 insertions(+)
+Updating 074e615..b3457fe
+Fast-forward
+ .../extensions/headers/hooks.php                   |   4 +-
+ code/static/img/logo/logo.png                      | Bin 3518 -> 0 bytes
+ .../static/img/theme-option/cryptoio_menu_icon.png | Bin 1389 -> 1304 bytes
+ .../headers/headers/header-01/views/view.php       | 402 +++++++++++----------
+ .../framework/extensions/headers/helpers.php       |   1 +
+ 5 files changed, 210 insertions(+), 197 deletions(-)
+ delete mode 100755 code/static/img/logo/logo.png delete mode 100755 code/static/img/logo/logo.png
+Updating b3457fe..c49aff8
+Fast-forward
+ plugin/solazu-unyson/framework/extensions/headers/helpers.php | 1 -
+ 1 file changed, 1 deletion(-) 1 file changed, 1 deletion(-)
+Updating c49aff8..2b0ddaa
+Fast-forward
+ .../extensions/shortcodes/shortcodes/icons-block/views/view.php       | 3 +++
+ .../extensions/widgets/static/css/widgets.css                         | 4 ++++
+ .../extensions/widgets/static/css/widgets.scss                        | 3 +++
+ 3 files changed, 10 insertions(+) 3 files changed, 10 insertions(+)
+Not expected branch : refs/heads/sonpq
+Not expected branch : refs/heads/sonpq
+Updating 2b0ddaa..e1520c3
+Fast-forward
+ .../shortcodes/accordion/static/css/accordion.css      | 18 +++++++++++++++---
+ .../shortcodes/accordion/static/css/accordion.scss     | 12 +++++++++---
+ 2 files changed, 24 insertions(+), 6 deletions(-) 2 files changed, 24 insertions(+), 6 deletions(-)
+Updating e1520c3..faaf8b8
+Fast-forward
+ .../shortcodes/shortcodes/contact-form/static/css/_contact-form.scss  | 4 +++-
+ .../extensions/widgets/static/css/widgets.css                         | 2 +-
+ .../extensions/widgets/static/css/widgets.scss                        | 2 +-
+ 3 files changed, 5 insertions(+), 3 deletions(-) 3 files changed, 5 insertions(+), 3 deletions(-)
+Updating faaf8b8..dee282c
+Fast-forward
+ .../shortcodes/shortcodes/contact-form/static/css/_contact-form.scss | 1 +
+ code/static/css/cryptoio-components.css                              | 5 ++++-
+ 2 files changed, 5 insertions(+), 1 deletion(-) 2 files changed, 5 insertions(+), 1 deletion(-)
+Updating dee282c..bcac377
+Fast-forward
+ .../extensions/widgets/static/css/widgets.css                  | 10 ++++++++++
+ .../extensions/widgets/static/css/widgets.scss                 | 10 ++++++++++
+ 2 files changed, 20 insertions(+) 2 files changed, 20 insertions(+)
+Updating bcac377..3047330
+Fast-forward
+ .../extensions/widgets/static/css/widgets.css                        | 5 +++++
+ .../extensions/widgets/static/css/widgets.scss                       | 3 +++
+ 2 files changed, 8 insertions(+) 2 files changed, 8 insertions(+)
+Updating 3047330..6063ae1
+Fast-forward
+ .../extensions/widgets/static/css/widgets.css                         | 4 ++++
+ .../extensions/widgets/static/css/widgets.scss                        | 1 +
+ 2 files changed, 5 insertions(+) 2 files changed, 5 insertions(+)
+Updating 6063ae1..659f50f
+Fast-forward
+ code/framework-customizations/extensions/widgets/static/css/widgets.css | 2 +-
+ .../framework-customizations/extensions/widgets/static/css/widgets.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 659f50f..adab608
+Fast-forward
+ code/framework-customizations/extensions/widgets/static/css/widgets.css  | 1 +
+ code/framework-customizations/extensions/widgets/static/css/widgets.scss | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Updating adab608..4081907
+Fast-forward
+ code/framework-customizations/extensions/widgets/static/css/widgets.css | 2 ++
+ .../framework-customizations/extensions/widgets/static/css/widgets.scss | 2 ++
+ 2 files changed, 4 insertions(+) 2 files changed, 4 insertions(+)
+Updating 4081907..e7d43a7
+Fast-forward
+ .../extensions/widgets/static/css/widgets.css                         | 4 ++--
+ .../extensions/widgets/static/css/widgets.scss                        | 4 ++--
+ 2 files changed, 4 insertions(+), 4 deletions(-) 2 files changed, 4 insertions(+), 4 deletions(-)
+Updating e7d43a7..81dc2da
+Fast-forward
+ .../extensions/widgets/static/css/widgets.css                      | 4 ++++
+ .../extensions/widgets/static/css/widgets.scss                     | 7 +++++++
+ 2 files changed, 11 insertions(+) 2 files changed, 11 insertions(+)
+Updating 81dc2da..1300381
+Fast-forward
+ .../extensions/teams/shortcodes/team-block/static/css/team-block.css    | 2 +-
+ .../extensions/teams/shortcodes/team-block/static/css/team-block.scss   | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating 1300381..d2741e5
+Fast-forward
+ .../extensions/teams/shortcodes/team-block/static/css/team-block.css   | 3 ++-
+ .../extensions/teams/shortcodes/team-block/static/css/team-block.scss  | 3 ++-
+ 2 files changed, 4 insertions(+), 2 deletions(-) 2 files changed, 4 insertions(+), 2 deletions(-)
+Updating d2741e5..122ae65
+Fast-forward
+ .../extensions/teams/shortcodes/team-block/static/css/team-block.scss    | 1 -
+ 1 file changed, 1 deletion(-) 1 file changed, 1 deletion(-)
+Updating 122ae65..0aa266e
+Fast-forward
+ .../extensions/teams/shortcodes/team-block/static/css/team-block.css     | 1 -
+ 1 file changed, 1 deletion(-) 1 file changed, 1 deletion(-)
+Updating 0aa266e..273e2c5
+Fast-forward
+ .../extensions/shortcodes/shortcodes/partner/static/css/partner.css   | 4 ++++
+ .../extensions/shortcodes/shortcodes/partner/static/css/partner.scss  | 4 +++-
+ 2 files changed, 7 insertions(+), 1 deletion(-) 2 files changed, 7 insertions(+), 1 deletion(-)
+Updating 273e2c5..f604ea2
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css         | 2 +-
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss        | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)
+Updating f604ea2..bedd03d
+Fast-forward
+ .../shortcodes/partner/static/css/partner.css      | 28 ++++++++++++++++++----
+ .../shortcodes/partner/static/css/partner.scss     |  5 ++--
+ 2 files changed, 25 insertions(+), 8 deletions(-) 2 files changed, 25 insertions(+), 8 deletions(-)
+Updating bedd03d..87f2613
+Fast-forward
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.css       | 4 ++--
+ .../teams/shortcodes/team-carousel/static/css/team-carousel.scss      | 4 ++--
+ 2 files changed, 4 insertions(+), 4 deletions(-) 2 files changed, 4 insertions(+), 4 deletions(-)
+Updating 87f2613..ba25ccb
+Fast-forward
+ .../extensions/shortcodes/shortcodes/partner/static/css/partner.css   | 4 ++++
+ .../extensions/shortcodes/shortcodes/partner/static/css/partner.scss  | 3 +++
+ 2 files changed, 7 insertions(+) 2 files changed, 7 insertions(+)
+Not expected branch : refs/heads/sonpq
+Not expected branch : refs/heads/sonpq
+Updating ba25ccb..3654148
+Fast-forward
+ .../extensions/widgets/static/css/widgets.css      | 77 ++++++++++++++++++++--
+ .../extensions/widgets/static/css/widgets.scss     | 64 ++++++++++++++++--
+ 2 files changed, 131 insertions(+), 10 deletions(-) 2 files changed, 131 insertions(+), 10 deletions(-)
+Updating 3654148..1d5b0dd
+Fast-forward
+ .../shortcodes/newsletter/static/css/newsletter.css          | 12 ++++++++++++
+ .../shortcodes/newsletter/static/css/newsletter.scss         |  8 ++++++++
+ 2 files changed, 20 insertions(+) 2 files changed, 20 insertions(+)
+Updating 1d5b0dd..9f176d0
+Fast-forward
+ code/static/css/layout.css | 4 ++++
+ 1 file changed, 4 insertions(+) 1 file changed, 4 insertions(+)
+Updating 9f176d0..6e3f7c8
+Fast-forward
+ .../shortcodes/newsletter/static/css/newsletter.css         | 13 ++++++++++++-
+ .../shortcodes/newsletter/static/css/newsletter.scss        |  9 ++++++++-
+ 2 files changed, 20 insertions(+), 2 deletions(-) 2 files changed, 20 insertions(+), 2 deletions(-)
+Updating 6e3f7c8..04fe528
+Fast-forward
+ .../shortcodes/shortcodes/newsletter/static/css/newsletter.css      | 2 +-
+ .../shortcodes/shortcodes/newsletter/static/css/newsletter.scss     | 6 ++----
+ 2 files changed, 3 insertions(+), 5 deletions(-) 2 files changed, 3 insertions(+), 5 deletions(-)
+Updating 04fe528..e5a225a
+Fast-forward
+ code/static/css/layout.css | 5 +++++
+ 1 file changed, 5 insertions(+) 1 file changed, 5 insertions(+)
+Updating e5a225a..f550329
+Fast-forward
+ code/static/css/layout.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating f550329..0088608
+Fast-forward
+ code/static/css/layout.css | 10 +++++++---
+ 1 file changed, 7 insertions(+), 3 deletions(-) 1 file changed, 7 insertions(+), 3 deletions(-)
+Updating 0088608..a762d5d
+Fast-forward
+ code/static/css/layout.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating a762d5d..ef17fc6
+Fast-forward
+ code/static/css/layout.css | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Updating ef17fc6..15af06a
+Fast-forward
+ code/static/css/layout.css | 8 ++++++++
+ 1 file changed, 8 insertions(+) 1 file changed, 8 insertions(+)

@@ -1,0 +1,210 @@
+Updating 4309c01..7d79894
+Fast-forward
+ .../shortcodes/shortcodes/map/static.php           |  11 +-
+ .../shortcodes/map/static/js/google-sc-map.js      | 150 +++++++++++++++++++++
+ 2 files changed, 159 insertions(+), 2 deletions(-)
+ create mode 100644 code/theme/framework-customizations/extensions/shortcodes/shortcodes/map/static/js/google-sc-map.js create mode 100644 code/theme/framework-customizations/extensions/shortcodes/shortcodes/map/static/js/google-sc-map.js
+Updating 56c4a07..275ab35
+Fast-forward
+ includes/classes/front/views/resourcefront/_result.php | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Not expected branch : refs/heads/tai-smile
+Updating 275ab35..9d41d83
+Fast-forward
+ includes/classes/front/views/resourcefront/_result.php | 2 +-
+ includes/classes/front/views/resourcefront/view.php    | 1 -
+ 2 files changed, 1 insertion(+), 2 deletions(-) 2 files changed, 1 insertion(+), 2 deletions(-)
+Updating 9d41d83..4ec79a2
+Fast-forward
+ includes/classes/front/views/resourcefront/view.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Updating 7d79894..70399ed
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 18 ++++++++++++++++++
+ code/theme/static/css/lema-custom.scss | 15 +++++++++++++++
+ 2 files changed, 33 insertions(+) 2 files changed, 33 insertions(+)
+Updating 70399ed..fc8dd93
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 8 ++++++++
+ code/theme/static/css/lema-custom.scss | 6 ++++++
+ 2 files changed, 14 insertions(+) 2 files changed, 14 insertions(+)
+Updating fc8dd93..0717cd8
+Fast-forward
+ code/theme/style.css | 9 ++++++++-
+ 1 file changed, 8 insertions(+), 1 deletion(-) 1 file changed, 8 insertions(+), 1 deletion(-)
+Updating 0717cd8..706c3db
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 4 ++++
+ 1 file changed, 4 insertions(+) 1 file changed, 4 insertions(+)
+Updating 4ec79a2..54b09b8
+Fast-forward
+ assets/styles/resource-style.css | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-) 1 file changed, 1 insertion(+), 2 deletions(-)
+Updating 706c3db..ae50c12
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 4 ++++
+ code/theme/static/css/lema-custom.css                      | 4 ++++
+ code/theme/static/css/lema-custom.scss                     | 4 ++++
+ 3 files changed, 12 insertions(+) 3 files changed, 12 insertions(+)
+Updating ae50c12..5b5cee0
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 1 +
+ 1 file changed, 1 insertion(+) 1 file changed, 1 insertion(+)
+Updating 54b09b8..084a833
+Fast-forward
+ assets/styles/resource-style.css | 3 ---
+ 1 file changed, 3 deletions(-) 1 file changed, 3 deletions(-)
+Updating 7533847..f4c7c25
+Fast-forward
+ front/controllers/SearchController.php |  74 ++++++++---------
+ front/views/search/_result.php         | 140 +++++++++++++++++++++++----------
+ helpers/FormHelper.php                 |   2 +-
+ 3 files changed, 135 insertions(+), 81 deletions(-) 3 files changed, 135 insertions(+), 81 deletions(-)
+Updating 084a833..4116518
+Fast-forward
+ includes/classes/front/views/resourcefront/_result.php | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-) 1 file changed, 2 insertions(+), 1 deletion(-)
+Updating 4116518..774eea6
+Fast-forward
+ includes/classes/front/views/resourcefront/_result.php | 1 -
+ 1 file changed, 1 deletion(-) 1 file changed, 1 deletion(-)
+Updating 5b5cee0..3965f1e
+Fast-forward
+ code/theme/includes/helpers.php | 41 ++++++++++++++++++++++++++++++-----------
+ 1 file changed, 30 insertions(+), 11 deletions(-) 1 file changed, 30 insertions(+), 11 deletions(-)
+Updating 774eea6..11a0bdf
+Fast-forward
+ includes/classes/Hooks.php                             | 11 ++++++++++-
+ includes/classes/front/views/resourcefront/_result.php |  1 -
+ 2 files changed, 10 insertions(+), 2 deletions(-) 2 files changed, 10 insertions(+), 2 deletions(-)
+Updating 11a0bdf..647e8ee
+Fast-forward
+ assets/scripts/resource-category.js                | 17 +++++++
+ assets/styles/resource-style.css                   |  5 +-
+ .../classes/front/views/resourcefront/_result.php  | 54 +++++++++++++++++-----
+ 3 files changed, 64 insertions(+), 12 deletions(-) 3 files changed, 64 insertions(+), 12 deletions(-)
+Updating 3965f1e..82793f9
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 16 ++++++++++++++++
+ code/theme/static/css/lema-custom.scss | 15 +++++++++++++++
+ 2 files changed, 31 insertions(+) 2 files changed, 31 insertions(+)
+Updating 647e8ee..464e3e3
+Fast-forward
+ includes/classes/front/controllers/ResourceFrontController.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 464e3e3..3dd8369
+Fast-forward
+ assets/styles/resource-style.css | 74 ++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 74 insertions(+) 1 file changed, 74 insertions(+)
+Updating 3dd8369..991677a
+Fast-forward
+ assets/styles/resource-style.css | 28 +++++++++++++++++++++++++---
+ 1 file changed, 25 insertions(+), 3 deletions(-) 1 file changed, 25 insertions(+), 3 deletions(-)
+Updating 991677a..473b43c
+Fast-forward
+ assets/styles/resource-style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 473b43c..8fd2b4b
+Fast-forward
+ assets/styles/resource-style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 8fd2b4b..a8409a9
+Fast-forward
+ assets/styles/resource-style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating a8409a9..aee047c
+Fast-forward
+ assets/styles/resource-style.css | 8 ++++++++
+ 1 file changed, 8 insertions(+) 1 file changed, 8 insertions(+)
+Updating aee047c..0d83563
+Fast-forward
+ assets/styles/resource-style.css | 7 +++++++
+ 1 file changed, 7 insertions(+) 1 file changed, 7 insertions(+)
+Updating 0d83563..7d6aba8
+Fast-forward
+ assets/styles/resource-style.css | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Updating 7d6aba8..39ee4d6
+Fast-forward
+ assets/styles/resource-style.css | 17 ++++++++++-------
+ 1 file changed, 10 insertions(+), 7 deletions(-) 1 file changed, 10 insertions(+), 7 deletions(-)
+Updating 39ee4d6..08ba324
+Fast-forward
+ assets/styles/resource-style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 08ba324..898e632
+Fast-forward
+ assets/styles/resource-style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 898e632..7a661a4
+Fast-forward
+ assets/styles/resource-style.css | 16 ++++++++++++++++
+ 1 file changed, 16 insertions(+) 1 file changed, 16 insertions(+)
+Updating 82793f9..cb721d6
+Fast-forward
+ code/theme/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating 7a661a4..031d7c3
+Fast-forward
+ assets/styles/resource-style.css | 4 +---
+ 1 file changed, 1 insertion(+), 3 deletions(-) 1 file changed, 1 insertion(+), 3 deletions(-)
+Updating 031d7c3..785fe33
+Fast-forward
+ assets/styles/resource-style.css                       | 6 +++++-
+ includes/classes/front/views/resourcefront/_result.php | 2 +-
+ 2 files changed, 6 insertions(+), 2 deletions(-) 2 files changed, 6 insertions(+), 2 deletions(-)
+Updating cb721d6..56fcdb9
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 3 +--
+ code/theme/static/css/lema-custom.scss | 3 +--
+ code/theme/style.css                   | 4 ++++
+ 3 files changed, 6 insertions(+), 4 deletions(-) 3 files changed, 6 insertions(+), 4 deletions(-)
+Updating 56fcdb9..474fa67
+Fast-forward
+ code/theme/static/css/layout.css  | 8 ++++++++
+ code/theme/static/css/layout.scss | 6 ++++++
+ 2 files changed, 14 insertions(+) 2 files changed, 14 insertions(+)
+Updating f4c7c25..8c4176c
+Fast-forward
+ front/views/search/_result.php | 109 +++++++++++++++++++++--------------------
+ 1 file changed, 56 insertions(+), 53 deletions(-) 1 file changed, 56 insertions(+), 53 deletions(-)
+Updating 474fa67..e76da11
+Fast-forward
+ code/theme/static/css/layout.css  | 11 ++++++++++-
+ code/theme/static/css/layout.scss | 10 +++++++++-
+ 2 files changed, 19 insertions(+), 2 deletions(-) 2 files changed, 19 insertions(+), 2 deletions(-)
+Updating e76da11..07d2acc
+Fast-forward
+ code/theme/static/css/layout.css  | 1 +
+ code/theme/static/css/layout.scss | 1 +
+ 2 files changed, 2 insertions(+) 2 files changed, 2 insertions(+)
+Updating 07d2acc..116f4d8
+Fast-forward
+ code/theme/static/css/layout.scss | 2 ++
+ 1 file changed, 2 insertions(+) 1 file changed, 2 insertions(+)
+Updating 116f4d8..8834e2b
+Fast-forward
+ code/theme/static/css/layout.css | 5 +++++
+ 1 file changed, 5 insertions(+) 1 file changed, 5 insertions(+)
+Updating 8834e2b..420a743
+Fast-forward
+ code/theme/static/css/layout.css  | 3 +--
+ code/theme/static/css/layout.scss | 3 +--
+ 2 files changed, 2 insertions(+), 4 deletions(-) 2 files changed, 2 insertions(+), 4 deletions(-)
+Updating 420a743..45e809a
+Fast-forward
+ code/theme/static/css/layout.css  | 3 ++-
+ code/theme/static/css/layout.scss | 3 ++-
+ 2 files changed, 4 insertions(+), 2 deletions(-) 2 files changed, 4 insertions(+), 2 deletions(-)
+Updating 45e809a..742925a
+Fast-forward
+ code/theme/static/css/layout.css  | 4 ++++
+ code/theme/static/css/layout.scss | 3 +++
+ 2 files changed, 7 insertions(+) 2 files changed, 7 insertions(+)
+Updating 742925a..cd8fd8f
+Fast-forward
+ code/theme/static/css/layout.css  | 2 +-
+ code/theme/static/css/layout.scss | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-) 2 files changed, 2 insertions(+), 2 deletions(-)

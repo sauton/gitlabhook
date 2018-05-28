@@ -1,0 +1,100 @@
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : 
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : 
+Not expected branch : 
+Not expected branch : 
+Not expected branch : 
+Not expected branch : 
+Not expected branch : 
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : 
+Fail to update develop of education
+Updating cef82b9..c2670e8
+Fast-forward
+ .../shortcodes/faq-block/static/css/faq-block.css  |   4 +-
+ .../static/css/gallery-carousel.css                |  25 +-
+ .../static/css/gallery-carousel.scss               |  26 +-
+ .../gallery-masonry/static/css/gallery-masonry.css |   4 +-
+ .../shortcodes/isotope/static/css/isotope.css      |   4 +-
+ .../shortcodes/instagram/static/css/instagram.css  |   4 +-
+ .../static/css/course-collection.css               |   4 +-
+ .../instructor/static/css/instructor.css           |   4 +-
+ .../shortcodes/new-tweet/static/css/new-tweet.css  |   4 +-
+ .../service-block/static/css/service-block.css     |   4 +-
+ .../count-down/static/css/count-down.css           |   4 +-
+ .../shortcodes/counterv2/static/css/counterv2.css  |   4 +-
+ .../features-block/static/css/features-block.css   |  70 +++---
+ .../shortcodes/icons-block/options/layout-1.php    |   2 +-
+ .../icons-block/static/css/_icon-block.scss        |   5 +-
+ .../shortcodes/icons-block/views/layout-1.php      |   2 +-
+ .../shortcodes/item-list/static/css/item-list.css  |   4 +-
+ .../main-title/static/css/main-title.css           |  12 +
+ .../main-title/static/css/main-title.scss          |  15 ++
+ .../shortcodes/shortcodes/map/static/css/map.css   |   4 +-
+ .../static/css/material-download.css               |   4 +-
+ .../newsletter/static/css/newsletter.css           |   8 +-
+ .../shortcodes/partner/static/css/partner.css      |   4 +-
+ .../posts-carousel/static/css/posts-carousel.css   |  86 ++++++-
+ .../posts-carousel/static/css/posts-carousel.scss  |  73 ++++++
+ .../shortcodes/posts-carousel/vc_options.php       |   3 +
+ .../posts-grid/static/css/posts-grid.css           |  56 ++---
+ .../posts-mansory/static/css/posts-masonry.css     |   4 +-
+ .../pricing-box/static/css/pricing-box.css         |  28 +--
+ .../shortcodes/process/static/css/process.css      |  42 ++--
+ .../progress-bar/static/css/progress-bar.css       |   8 +-
+ .../shortcodes/timeline/static/css/timeline.css    |  12 +-
+ .../video-carousel/static/css/video-carousel.css   |   4 +-
+ .../team-block/static/css/team-block.css           |  66 ++---
+ .../team-carousel/static/css/team-carousel.css     |  20 +-
+ .../testimonial/static/css/testimonial.css         | 108 ++++----
+ .../extensions/widgets/static/css/widgets.css      |  72 +++---
+ code/theme/static/css/custom-editor.css            |  60 ++---
+ code/theme/static/css/educhain-components.css      | 277 +++++++++++----------
+ code/theme/static/css/educhain-forum.css           |  58 ++---
+ code/theme/static/css/lema-custom.css              | 114 ++++-----
+ 41 files changed, 769 insertions(+), 543 deletions(-) 41 files changed, 769 insertions(+), 543 deletions(-)
+Not expected branch : refs/heads/duytn/page-title
+Not expected branch : refs/heads/thangpd/searchbox
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : 
+Not expected branch : 
+Updating c2670e8..67b4b34
+Fast-forward
+ .../main-title/static/css/main-title.css           |   2 +-
+ .../main-title/static/css/main-title.scss          |   2 +-
+ .../posts-carousel/static/css/posts-carousel.css   | 117 ++++++++++++
+ .../posts-carousel/static/css/posts-carousel.scss  | 102 ++++++++++
+ .../posts-carousel/static/js/posts-carousel.js     | 212 ++++++++++++++++++++-
+ 5 files changed, 431 insertions(+), 4 deletions(-) 5 files changed, 431 insertions(+), 4 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : 
+Updating 67b4b34..8b8534e
+Fast-forward
+ .../shortcodes/shortcodes/main-title/static/css/main-title.css      | 6 ++++++
+ .../shortcodes/shortcodes/main-title/static/css/main-title.scss     | 4 ++++
+ 2 files changed, 10 insertions(+) 2 files changed, 10 insertions(+)
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/tailm_fix
+Not expected branch : 
+Fail to update develop of education
+Updating 8b8534e..d8b3715
+Fast-forward
+ .../posts-carousel/static/css/posts-carousel.css   | 32 ++++++++------
+ .../posts-carousel/static/css/posts-carousel.scss  | 19 +++++----
+ .../posts-carousel/static/js/posts-carousel.js     | 49 +++++++++++++++++-----
+ 3 files changed, 70 insertions(+), 30 deletions(-) 3 files changed, 70 insertions(+), 30 deletions(-)
+Updating d8b3715..d39694a
+Fast-forward
+ .../headers/headers/header-09/options/menu.php     |   2 +-
+ .../theme/custom-color.php                         |  16 +-
+ code/theme/static/css/custom-editor.css            |  60 +++---
+ code/theme/static/css/educhain-components.css      | 204 ++++++++++-----------
+ code/theme/static/css/educhain-forum.css           |  58 +++---
+ code/theme/static/css/layout.css                   | 145 +++++++++++----
+ code/theme/static/css/layout.scss                  | 179 ++++++++++++++----
+ code/theme/static/css/lema-custom.css              | 114 ++++++------
+ code/theme/style.css                               |  12 +-
+ 9 files changed, 485 insertions(+), 305 deletions(-) 9 files changed, 485 insertions(+), 305 deletions(-)

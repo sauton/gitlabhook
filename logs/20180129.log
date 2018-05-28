@@ -1,0 +1,287 @@
+Updating 5699295..070e20e
+Fast-forward
+ .../extensions/lema/shortcodes/slz-shortcode-lema-search-box.php       | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-) 1 file changed, 2 insertions(+), 1 deletion(-)
+Updating e7cdbd9..9313474
+Fast-forward
+ solazu-unyson/framework/helpers/general.php | 7 ++++---
+ 1 file changed, 4 insertions(+), 3 deletions(-) 1 file changed, 4 insertions(+), 3 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 070e20e..dd0091e
+Fast-forward
+ code/theme/static/css/lema-custom.css  | 26 +++++++++++++-------------
+ code/theme/static/css/lema-custom.scss |  2 +-
+ 2 files changed, 14 insertions(+), 14 deletions(-) 2 files changed, 14 insertions(+), 14 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating dd0091e..8d03ecd
+Fast-forward
+ code/theme/static/css/educhain-components.css | 11 +++++++++++
+ 1 file changed, 11 insertions(+) 1 file changed, 11 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/master
+Updating 9313474..1fd1676
+Fast-forward
+ solazu-unyson/solazu-unyson.php | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Updating 8d03ecd..5833a75
+Fast-forward
+ code/theme/plugins/solazu-unyson.zip | Bin 8711276 -> 8249147 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-) 1 file changed, 0 insertions(+), 0 deletions(-)
+Not expected branch : refs/heads/master
+Updating 5833a75..a496cde
+Fast-forward
+ code/theme/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Updating a496cde..3a165a1
+Fast-forward
+ .../framework-customizations/theme/options/general-settings.php     | 6 ++++++
+ code/theme/includes/hooks.php                                       | 6 ++++++
+ 2 files changed, 12 insertions(+) 2 files changed, 12 insertions(+)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 3a165a1..5b34d78
+Fast-forward
+ code/theme/static/css/educhain-components.css |  1 -
+ code/theme/static/css/layout.css              | 14 ++++++++++++++
+ 2 files changed, 14 insertions(+), 1 deletion(-) 2 files changed, 14 insertions(+), 1 deletion(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 5b34d78..9500a20
+Fast-forward
+ code/theme/static/css/layout.css | 5 +++++
+ 1 file changed, 5 insertions(+) 1 file changed, 5 insertions(+)
+Fail to update develop of education
+Updating 0e9a852..88363a5
+Fast-forward
+ includes/classes/front/views/coursecategory/view1.php | 14 +++++++-------
+ includes/classes/front/views/coursecategory/view2.php | 10 +++++-----
+ 2 files changed, 12 insertions(+), 12 deletions(-) 2 files changed, 12 insertions(+), 12 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 9500a20..31443e5
+Fast-forward
+ code/theme/static/css/layout.css | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-) 1 file changed, 3 insertions(+), 3 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Updating 31443e5..a2d9705
+Fast-forward
+ code/theme/static/css/layout.css | 1 +
+ 1 file changed, 1 insertion(+) 1 file changed, 1 insertion(+)
+Not expected branch : refs/heads/master
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Fail to update develop of education
+Updating a2d9705..3f96050
+Fast-forward
+ code/theme/static/css/layout.css | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-) 1 file changed, 4 insertions(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/master
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 3f96050..ae5efd3
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 5 +++++
+ 1 file changed, 5 insertions(+) 1 file changed, 5 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/master
+Not expected branch : refs/heads/master
+Updating 88363a5..c525add
+Fast-forward
+ README.md         | 4 +++-
+ lema-software.php | 4 ++--
+ 2 files changed, 5 insertions(+), 3 deletions(-) 2 files changed, 5 insertions(+), 3 deletions(-)
+Event did not allowed
+Not expected branch : refs/heads/style_tailm
+Updating ae5efd3..365aee7
+Fast-forward
+ code/theme/plugins/lema-software.zip | Bin 1702795 -> 172698 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-) 1 file changed, 0 insertions(+), 0 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 365aee7..0da2099
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 12 ++++++------
+ code/theme/static/css/layout.css               |  3 +++
+ 2 files changed, 9 insertions(+), 6 deletions(-) 2 files changed, 9 insertions(+), 6 deletions(-)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 0da2099..4814091
+Fast-forward
+ code/theme/static/css/educhain-woocommerce.css | 2 ++
+ 1 file changed, 2 insertions(+) 1 file changed, 2 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/master
+Updating 4814091..b39fe3f
+Fast-forward
+ code/theme/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating c525add..5c0854f
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 1 +
+ 1 file changed, 1 insertion(+) 1 file changed, 1 insertion(+)
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating b39fe3f..25599ae
+Fast-forward
+ code/theme/framework-customizations/theme/custom-color.php | 4 ++++
+ 1 file changed, 4 insertions(+) 1 file changed, 4 insertions(+)
+Fail to update develop of education
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 25599ae..6ea91be
+Fast-forward
+ code/theme/static/css/layout.css  | 30 ++----------------------------
+ code/theme/static/css/layout.scss |  4 ++--
+ 2 files changed, 4 insertions(+), 30 deletions(-) 2 files changed, 4 insertions(+), 30 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of education
+Not expected branch : refs/heads/master
+Updating 5c0854f..2e3fd65
+Fast-forward
+ lema-software.php | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Event did not allowed
+Updating 6ea91be..ed67853
+Fast-forward
+ code/theme/plugins/lema-software.zip | Bin 172698 -> 172702 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-) 1 file changed, 0 insertions(+), 0 deletions(-)
+Not expected branch : refs/heads/master
+Updating ed67853..8a0bf29
+Fast-forward
+ code/theme/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 2e3fd65..8d219bb
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-) 1 file changed, 2 insertions(+), 2 deletions(-)
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 8d219bb..34e7cc7
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-) 1 file changed, 3 insertions(+), 3 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating 34e7cc7..f754100
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 1 -
+ 1 file changed, 1 deletion(-) 1 file changed, 1 deletion(-)
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Updating f754100..ec70d30
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-) 1 file changed, 3 insertions(+), 3 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating ec70d30..11b698c
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 13 ++++++++++++-
+ 1 file changed, 12 insertions(+), 1 deletion(-) 1 file changed, 12 insertions(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Updating 11b698c..0efefd8
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Updating 0efefd8..b0646a8
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 3 +++
+ 1 file changed, 3 insertions(+) 1 file changed, 3 insertions(+)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Already up-to-date.Already up-to-date.
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Fail to update develop of lema-software
+Updating b0646a8..d0e9e26
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating d0e9e26..94fafa1
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 94fafa1..6e6e53b
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 3 ---
+ 1 file changed, 3 deletions(-) 1 file changed, 3 deletions(-)
+Not expected branch : refs/heads/style_tailm
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating 6e6e53b..b55fd01
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-) 1 file changed, 3 insertions(+), 1 deletion(-)
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Not expected branch : refs/heads/style_tailm
+Updating b55fd01..cb95501
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-) 1 file changed, 1 insertion(+), 1 deletion(-)
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Updating cb95501..118bb99
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 3 +++
+ 1 file changed, 3 insertions(+) 1 file changed, 3 insertions(+)
+Fail to update develop of lema-software
+Not expected branch : refs/heads/style_tailm
+Not expected branch : refs/heads/style_tailm
+Not expected branch : 
+Fail to update develop of lema-software
+Updating 118bb99..199aabb
+Fast-forward
+ assets/styles/lema-cat-course-sw.css | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-) 1 file changed, 3 insertions(+), 3 deletions(-)
+Not expected branch : refs/heads/style_tailm
