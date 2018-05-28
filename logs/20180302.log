@@ -1,6 +1,0 @@
-Not expected branch : refs/heads/style_tailm
-Not expected branch : refs/heads/style_tailm
-Updating 2308f48..1800280
-Fast-forward
- code/theme/style.css | 18 +++++++++++++++++-
- 1 file changed, 17 insertions(+), 1 deletion(-) 1 file changed, 17 insertions(+), 1 deletion(-)

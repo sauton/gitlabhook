@@ -1,5 +1,0 @@
-Updating e2691cb..9c1f451
-Fast-forward
- .../extensions/shortcodes/shortcodes/map/static.php       | 15 +++++++++++++--
- code/theme/includes/hooks.php                             | 12 ------------
- 2 files changed, 13 insertions(+), 14 deletions(-) 2 files changed, 13 insertions(+), 14 deletions(-)

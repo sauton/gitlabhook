@@ -1,7 +1,0 @@
-Updating eb04468..333e798
-Fast-forward
- front/views/course/detail.php                  | 4 +++-
- functions.php                                  | 4 +++-
- learnmaster.php                                | 2 +-
- shortcodes/course/shortcodes/views/content.php | 9 +++++----
- 4 files changed, 12 insertions(+), 7 deletions(-) 4 files changed, 12 insertions(+), 7 deletions(-)

@@ -1,9 +1,0 @@
-Updating 3ebcce8..b404160
-Fast-forward
- code/theme/includes/hooks.php              |  4 ++++
- code/theme/woocommerce/archive-product.php | 38 +++++++++++++++++-------------
- 2 files changed, 26 insertions(+), 16 deletions(-) 2 files changed, 26 insertions(+), 16 deletions(-)
-Updating b404160..cdd4811
-Fast-forward
- code/theme/includes/hooks.php | 22 ++++++++++++++++++----
- 1 file changed, 18 insertions(+), 4 deletions(-) 1 file changed, 18 insertions(+), 4 deletions(-)
